@@ -286,3 +286,50 @@ class DistillerModel(nn.Module):
 
     def generate_task_id(self, device):
         return torch.arange(self.n_tasks, device=device, dtype=torch.long)
+
+    def freeze_pretrained_weights(self):
+        """Freeze all pretrained weights except adapter parameters"""
+        print("[DistillerModel] - Freezing all pretrained weights except adapters")
+
+        # Freeze all parameters first
+        for param in self.parameters():
+            param.requires_grad = False
+
+        # Unfreeze adapter parameters if they exist
+        if self.config.use_adapter and hasattr(self, 'encoder') and hasattr(self.encoder, 'layers'):
+            adapter_param_count = 0
+            for layer in self.encoder.layers:
+                if hasattr(layer, 'adapter_attn'):
+                    for param in layer.adapter_attn.parameters():
+                        param.requires_grad = True
+                        adapter_param_count += param.numel()
+                if hasattr(layer, 'adapter_ffn'):
+                    for param in layer.adapter_ffn.parameters():
+                        param.requires_grad = True
+                        adapter_param_count += param.numel()
+
+            print(f"[DistillerModel] - Unfroze {adapter_param_count:,} adapter parameters")
+
+        # Count trainable parameters
+        trainable_params = sum(p.numel() for p in self.parameters() if p.requires_grad)
+        total_params = sum(p.numel() for p in self.parameters())
+        print(f"[DistillerModel] - Trainable parameters: {trainable_params:,} / {total_params:,} ({100 * trainable_params / total_params:.2f}%)")
+
+
+class Adapter(nn.Module):
+    """
+    Adapter module for parameter-efficient fine-tuning.
+    Applies bottleneck architecture: down-projection -> activation -> up-projection
+    """
+    def __init__(self, dim, adapter_dim, scale=0.1):
+        super().__init__()
+        self.down = nn.Linear(dim, adapter_dim)
+        self.up = nn.Linear(adapter_dim, dim)
+        self.scale = scale
+        self.activation = nn.GELU()
+
+    def forward(self, x):
+        h = self.down(x)
+        h = self.activation(h)
+        h = self.up(h)
+        return x + self.scale * h
