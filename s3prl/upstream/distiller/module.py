@@ -107,16 +107,12 @@ class TransformerSentenceEncoderLayer(nn.Module):
         activation_fn: str = "relu",
         layer_norm_first: bool = False,
         attention_type: str = "original",
-        adapter_dim: int = 64,
-        adapter_scale: float = 0.1,
-        use_adapter: bool = False,
     ) -> None:
         super().__init__()
         # Initialize parameters
         self.embedding_dim = embedding_dim
         self.dropout = dropout
         self.activation_dropout = activation_dropout
-        self.use_adapter = use_adapter
 
         # Initialize blocks
         self.activation_fn = get_activation_fn(activation_fn)
@@ -170,12 +166,6 @@ class TransformerSentenceEncoderLayer(nn.Module):
         # layer norm associated with the position wise feed-forward NN
         self.final_layer_norm = nn.LayerNorm(self.embedding_dim)
 
-        # Adapter modules
-        if self.use_adapter:
-            from .model import Adapter
-            self.adapter_attn = Adapter(embedding_dim, adapter_dim, adapter_scale)
-            self.adapter_ffn = Adapter(embedding_dim, adapter_dim, adapter_scale)
-
     def forward_self_attn(
         self,
         x: torch.Tensor,
@@ -223,10 +213,6 @@ class TransformerSentenceEncoderLayer(nn.Module):
             x = self.dropout1(x)
             x = residual + x
 
-            # Apply adapter after attention
-            if self.use_adapter:
-                x = self.adapter_attn(x)
-
             residual = x
             x = self.final_layer_norm(x)
             x = self.activation_fn(self.fc1(x))
@@ -234,10 +220,6 @@ class TransformerSentenceEncoderLayer(nn.Module):
             x = self.fc2(x)
             x = self.dropout3(x)
             x = residual + x
-
-            # Apply adapter after FFN
-            if self.use_adapter:
-                x = self.adapter_ffn(x)
         else:
             x, attn = self.forward_self_attn(
                 x,
@@ -250,10 +232,6 @@ class TransformerSentenceEncoderLayer(nn.Module):
             x = residual + x
             x = self.self_attn_layer_norm(x)
 
-            # Apply adapter after attention
-            if self.use_adapter:
-                x = self.adapter_attn(x)
-
             residual = x
             x = self.activation_fn(self.fc1(x))
             x = self.dropout2(x)
@@ -261,10 +239,6 @@ class TransformerSentenceEncoderLayer(nn.Module):
             x = self.dropout3(x)
             x = residual + x
             x = self.final_layer_norm(x)
-
-            # Apply adapter after FFN
-            if self.use_adapter:
-                x = self.adapter_ffn(x)
 
         return x, attn
 
@@ -291,15 +265,7 @@ class TransformerEncoder(nn.Module):
         self.pos_conv = nn.utils.weight_norm(self.pos_conv, name="weight", dim=2)
         self.pos_conv = nn.Sequential(self.pos_conv, SamePad(args.conv_pos), nn.GELU())
 
-        # Adapter configuration
-        use_adapter = getattr(args, 'use_adapter', False)
-        adapter_dim = getattr(args, 'adapter_dim', 64)
-        adapter_scale = getattr(args, 'adapter_scale', 0.1)
-
         print(f"[TransformerEncoder] - Attention type = {args.attention_type}")
-        if use_adapter:
-            print(f"[TransformerEncoder] - Using adapters with dim={adapter_dim}, scale={adapter_scale}")
-
         self.layers = nn.ModuleList(
             [
                 TransformerSentenceEncoderLayer(
@@ -312,9 +278,6 @@ class TransformerEncoder(nn.Module):
                     activation_fn=args.activation_fn,
                     layer_norm_first=args.layer_norm_first,
                     attention_type=args.attention_type,
-                    adapter_dim=adapter_dim,
-                    adapter_scale=adapter_scale,
-                    use_adapter=use_adapter,
                 )
                 for _ in range(args.encoder_layers)
             ]

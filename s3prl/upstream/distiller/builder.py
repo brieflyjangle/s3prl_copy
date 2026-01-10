@@ -123,22 +123,17 @@ class PretrainedDistiller(DistillerBuilder):
             self.model = self.load_model(
                 self.model, self.all_states["Distiller"], verbose
             )
-
-        # Freeze pretrained weights if using adapters
-        freeze_pretrained = bool(strtobool(options.get("freeze_pretrained", "False")))
-        if freeze_pretrained and self.model_config.use_adapter:
-            self.model.freeze_pretrained_weights()
-        elif verbose:
-            print(
-                "[PretrainedDistiller] - Number of parameters: "
-                + str(
-                    sum(
-                        p.numel()
-                        for p in self.model.parameters()
-                        if p.requires_grad
+            if verbose:
+                print(
+                    "[PretrainedDistiller] - Number of parameters: "
+                    + str(
+                        sum(
+                            p.numel()
+                            for p in self.model.parameters()
+                            if p.requires_grad
+                        )
                     )
                 )
-            )
 
     def forward(self, wave_inputs, get_hidden=False, no_pred=False):
         wave_len = [len(wave) for wave in wave_inputs]
