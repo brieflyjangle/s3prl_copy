@@ -1,0 +1,3200 @@
+e4ae15e0-4474-11e9-a9a5-5dbec3b8816a,deactivate,lights,bedroom
+772885a0-452d-11e9-b1e4-e5985dca719e,decrease,volume,none
+0f087e40-45db-11e9-81ce-69b74fd7e64e,increase,heat,none
+4af6e580-45e6-11e9-b578-494a5b19ab8b,deactivate,lights,kitchen
+81832d10-453d-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+a0811b30-45df-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+f1498290-44a5-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+77ff8f30-45f2-11e9-aa19-e96346c3828f,activate,lights,kitchen
+9b62e9c0-4464-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+97010800-459d-11e9-bf4b-216bfa333ac2,decrease,volume,none
+a1a5cc20-44ce-11e9-a8b6-e96f2628bf65,decrease,heat,none
+667b00c0-4578-11e9-9600-8f19ade2128c,activate,lights,none
+ab0acc80-452c-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+fd0fcc40-4597-11e9-bf4b-216bfa333ac2,activate,lights,none
+3237fac0-4451-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+91a123e0-4539-11e9-b1e4-e5985dca719e,change language,English,none
+76258000-459a-11e9-bf4b-216bfa333ac2,bring,juice,none
+91d04b20-45f2-11e9-aa19-e96346c3828f,activate,lights,bedroom
+15552fd0-45f1-11e9-aa19-e96346c3828f,deactivate,music,none
+fbfb1620-4411-11e9-85a0-dd11eb2f13b6,activate,lights,washroom
+8a9ce180-4578-11e9-9600-8f19ade2128c,decrease,heat,none
+8a7acfa0-452d-11e9-b1e4-e5985dca719e,change language,English,none
+f10bdf20-446a-11e9-beaa-1f3e1eab7bff,increase,volume,none
+0304e2d0-44fc-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+7de804f0-453d-11e9-b1e4-e5985dca719e,deactivate,lights,none
+7d396c40-457b-11e9-9600-8f19ade2128c,increase,volume,none
+0c0dbf30-45b7-11e9-8ec0-7bf21d1cfe30,deactivate,lights,none
+f5b74840-453a-11e9-b1e4-e5985dca719e,change language,English,none
+1fdd1890-44df-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+b61942f0-44e1-11e9-bb82-bdba769643e7,activate,music,none
+1370d0d0-446f-11e9-a9a5-5dbec3b8816a,bring,shoes,none
+dbf752f0-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+d64d30c0-451a-11e9-9035-7943ec3b842a,increase,heat,bedroom
+39fa3a10-44cf-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+9c01f060-454a-11e9-aa52-bf2189a03a60,decrease,heat,none
+58262b70-451f-11e9-a843-8db76f4b5e29,decrease,volume,none
+1aff7a00-450e-11e9-9539-7f047cfe24d1,deactivate,music,none
+ba983f90-44da-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+d8b90990-457b-11e9-9600-8f19ade2128c,activate,lights,washroom
+b778cfe0-45c6-11e9-8ec0-7bf21d1cfe30,bring,newspaper,none
+abd5b510-4515-11e9-9035-7943ec3b842a,increase,volume,none
+30d34850-451a-11e9-9035-7943ec3b842a,activate,lights,washroom
+5b9940e0-4519-11e9-9035-7943ec3b842a,increase,volume,none
+c95d1d40-460e-11e9-bc65-55b32b211b66,decrease,heat,washroom
+f4d384b0-454a-11e9-aa52-bf2189a03a60,activate,lights,washroom
+ef604060-457a-11e9-9600-8f19ade2128c,deactivate,music,none
+ff27b680-45e9-11e9-b578-494a5b19ab8b,increase,heat,bedroom
+c582bbd0-44a6-11e9-a9a5-5dbec3b8816a,decrease,heat,bedroom
+b8e44e30-44ff-11e9-a1ea-79ca03012c0e,decrease,volume,none
+5e6b14d0-4535-11e9-b1e4-e5985dca719e,change language,Chinese,none
+c1587c20-45f0-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+d2fb2e80-4539-11e9-b1e4-e5985dca719e,activate,lights,none
+70733020-4578-11e9-9600-8f19ade2128c,increase,volume,none
+99ab2bb0-45e5-11e9-b578-494a5b19ab8b,deactivate,lights,none
+af400a70-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+34b207b0-459f-11e9-bf4b-216bfa333ac2,change language,none,none
+a8113620-45dd-11e9-81ce-69b74fd7e64e,change language,Korean,none
+3b0c52d0-457e-11e9-9600-8f19ade2128c,deactivate,lights,kitchen
+001ff180-44df-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+6ae38fc0-45e0-11e9-81ce-69b74fd7e64e,change language,none,none
+504fc440-4517-11e9-9035-7943ec3b842a,decrease,heat,none
+230c5690-447e-11e9-a9a5-5dbec3b8816a,change language,none,none
+253f4ff0-45ee-11e9-aa19-e96346c3828f,decrease,heat,none
+14554e00-45db-11e9-81ce-69b74fd7e64e,increase,heat,none
+46e33340-453c-11e9-b1e4-e5985dca719e,decrease,volume,none
+2192d7f0-4468-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+98b5d7b0-444f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+37e17530-446c-11e9-beaa-1f3e1eab7bff,change language,none,none
+17cf2290-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,bedroom
+aaeeaa10-450d-11e9-9539-7f047cfe24d1,activate,lights,none
+f5e0b510-45f1-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+9e1aefe0-454b-11e9-aa52-bf2189a03a60,increase,heat,none
+a33e4d70-4481-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+783ec750-44cf-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+38209d70-44e2-11e9-bb82-bdba769643e7,change language,Korean,none
+ca28fdd0-4513-11e9-9539-7f047cfe24d1,change language,none,none
+5b7dcbf0-4611-11e9-bc65-55b32b211b66,bring,socks,none
+5d6a85d0-4516-11e9-9035-7943ec3b842a,change language,German,none
+87e6aa20-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+1adaf9b0-451c-11e9-9035-7943ec3b842a,activate,lights,none
+05c91c60-457f-11e9-9600-8f19ade2128c,decrease,heat,kitchen
+75407c10-447a-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+9b866890-446a-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+cae16210-44f7-11e9-a1ea-79ca03012c0e,decrease,volume,none
+466d76b0-45ef-11e9-aa19-e96346c3828f,increase,volume,none
+ef5549e0-4538-11e9-b1e4-e5985dca719e,bring,newspaper,none
+2921f740-45c0-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+791fc300-4483-11e9-a9a5-5dbec3b8816a,change language,none,none
+e76d2610-4549-11e9-aa52-bf2189a03a60,activate,music,none
+e72c9b70-4519-11e9-9035-7943ec3b842a,increase,volume,none
+2c3da8e0-4541-11e9-b1e4-e5985dca719e,activate,lamp,none
+14b785d0-4468-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+5d9afd20-4541-11e9-b1e4-e5985dca719e,increase,heat,washroom
+a0a7c0d0-4541-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+b0044d40-460a-11e9-bc65-55b32b211b66,deactivate,lamp,none
+1d16fe90-45ee-11e9-aa19-e96346c3828f,increase,heat,washroom
+f1f4ec40-453e-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+4d1e4e40-4576-11e9-9600-8f19ade2128c,activate,lights,washroom
+09d21a70-441f-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+b994c7b0-45ea-11e9-b578-494a5b19ab8b,decrease,volume,none
+39b700a0-44fd-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+7a902d90-4520-11e9-a843-8db76f4b5e29,decrease,volume,none
+f28e1740-44f7-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+c90dd690-4523-11e9-a843-8db76f4b5e29,decrease,heat,none
+2d65d0d0-4523-11e9-a843-8db76f4b5e29,increase,volume,none
+088e94b0-4521-11e9-a843-8db76f4b5e29,decrease,heat,none
+f2ac0b30-45d6-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+cf15d410-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+1084e020-454e-11e9-aa52-bf2189a03a60,deactivate,lights,none
+99db4800-4517-11e9-9035-7943ec3b842a,activate,lights,bedroom
+3bbc0a30-4412-11e9-85a0-dd11eb2f13b6,increase,volume,none
+d634eea0-44ea-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+b9fc21a0-4511-11e9-9539-7f047cfe24d1,decrease,heat,none
+326afdb0-457a-11e9-9600-8f19ade2128c,increase,heat,none
+ca6c5da0-45fe-11e9-bc65-55b32b211b66,increase,heat,washroom
+77fee870-452d-11e9-b1e4-e5985dca719e,change language,English,none
+2e40d930-45c0-11e9-8ec0-7bf21d1cfe30,increase,heat,none
+1c086d60-45f1-11e9-aa19-e96346c3828f,increase,volume,none
+512b4fc0-45de-11e9-81ce-69b74fd7e64e,activate,lights,none
+b357f7f0-4450-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+894de740-444f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+cbb53bb0-45da-11e9-81ce-69b74fd7e64e,change language,German,none
+7a05c6d0-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+a9d56ed0-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+48fdc3c0-4519-11e9-9035-7943ec3b842a,activate,lights,kitchen
+80b76f20-446d-11e9-beaa-1f3e1eab7bff,increase,heat,none
+5e9f9b50-44d2-11e9-a8b6-e96f2628bf65,activate,lights,kitchen
+4fa72cf0-457f-11e9-9600-8f19ade2128c,bring,newspaper,none
+da5db920-44dc-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+259b1590-446f-11e9-a9a5-5dbec3b8816a,change language,none,none
+e70a8e30-444d-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+27ccbe70-4476-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+e2dbd460-4518-11e9-9035-7943ec3b842a,deactivate,lights,none
+f6290460-450f-11e9-9539-7f047cfe24d1,bring,newspaper,none
+ec4e6900-4468-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+c7cb7950-4464-11e9-beaa-1f3e1eab7bff,increase,volume,none
+7fc03fd0-451b-11e9-9035-7943ec3b842a,bring,socks,none
+e769cb80-4519-11e9-9035-7943ec3b842a,increase,heat,kitchen
+7f89cde0-4518-11e9-9035-7943ec3b842a,activate,lights,kitchen
+99269490-45f4-11e9-aa19-e96346c3828f,decrease,heat,washroom
+7f5a83e0-4541-11e9-b1e4-e5985dca719e,decrease,heat,none
+3b059dd0-4607-11e9-bc65-55b32b211b66,deactivate,lights,washroom
+28d8f870-45a1-11e9-bf4b-216bfa333ac2,decrease,heat,kitchen
+0b8e4340-45e9-11e9-b578-494a5b19ab8b,activate,lights,kitchen
+c72c5f90-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,kitchen
+a3a9df30-45ef-11e9-aa19-e96346c3828f,increase,heat,kitchen
+e9d00c60-4535-11e9-b1e4-e5985dca719e,deactivate,lights,none
+1056f0f0-450f-11e9-9539-7f047cfe24d1,increase,heat,kitchen
+aff77ca0-45b5-11e9-8ec0-7bf21d1cfe30,increase,heat,bedroom
+b040e330-446c-11e9-beaa-1f3e1eab7bff,activate,music,none
+15057450-4550-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+120de470-447a-11e9-a9a5-5dbec3b8816a,decrease,heat,none
+58a271d0-4597-11e9-bf4b-216bfa333ac2,decrease,heat,bedroom
+aa5a4320-45da-11e9-81ce-69b74fd7e64e,deactivate,music,none
+0264d190-4615-11e9-bc65-55b32b211b66,change language,German,none
+ea391e70-45e5-11e9-b578-494a5b19ab8b,bring,newspaper,none
+1802bb10-45da-11e9-81ce-69b74fd7e64e,activate,lights,kitchen
+fa71fbf0-444f-11e9-beaa-1f3e1eab7bff,increase,heat,none
+3efde750-44d9-11e9-a8b6-e96f2628bf65,activate,lamp,none
+0df912a0-45f2-11e9-aa19-e96346c3828f,decrease,heat,washroom
+92958ea0-453c-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+6c33c440-4521-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+62206cd0-4452-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+43550630-45ba-11e9-8ec0-7bf21d1cfe30,bring,newspaper,none
+bdac2d20-4518-11e9-9035-7943ec3b842a,decrease,heat,none
+4292fcd0-4609-11e9-bc65-55b32b211b66,decrease,volume,none
+a3611b40-44cf-11e9-a8b6-e96f2628bf65,deactivate,lamp,none
+499e7280-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+4f6ddc90-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+a82b5730-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,bedroom
+13c0b6a0-4450-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+50dfebb0-45da-11e9-81ce-69b74fd7e64e,bring,juice,none
+936eeac0-4554-11e9-aa52-bf2189a03a60,decrease,volume,none
+9fcffb00-45dc-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+723ef680-4467-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+4e03c490-446b-11e9-beaa-1f3e1eab7bff,increase,heat,none
+3ded26a0-45b5-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+dcf5db40-44ff-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+bd9b5510-4598-11e9-bf4b-216bfa333ac2,increase,volume,none
+eaef3930-454f-11e9-aa52-bf2189a03a60,decrease,heat,bedroom
+d020c780-44fb-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+b3758690-4607-11e9-bc65-55b32b211b66,decrease,volume,none
+41135e50-45e0-11e9-81ce-69b74fd7e64e,bring,shoes,none
+78e831d0-453f-11e9-b1e4-e5985dca719e,change language,English,none
+9c1b0550-4608-11e9-bc65-55b32b211b66,activate,lights,washroom
+3b4e8db0-4607-11e9-bc65-55b32b211b66,activate,lights,kitchen
+3a1ad1d0-45c9-11e9-8ec0-7bf21d1cfe30,deactivate,lights,bedroom
+11c61ad0-45df-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+a9324e90-4411-11e9-85a0-dd11eb2f13b6,activate,lights,kitchen
+4e5beb20-4475-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+d300b610-45e4-11e9-b578-494a5b19ab8b,activate,music,none
+d8b2c220-4435-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+be999a50-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,kitchen
+913c01c0-45ef-11e9-aa19-e96346c3828f,decrease,heat,washroom
+5a642600-454a-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+b50bf980-4611-11e9-bc65-55b32b211b66,change language,English,none
+e2feae90-452c-11e9-b1e4-e5985dca719e,deactivate,music,none
+1e54fcf0-4466-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+9372f760-446d-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+f7bbbce0-4510-11e9-9539-7f047cfe24d1,deactivate,lights,kitchen
+03ac2f70-4535-11e9-b1e4-e5985dca719e,bring,socks,none
+e33b4920-457e-11e9-9600-8f19ade2128c,increase,heat,washroom
+c57e52f0-453e-11e9-b1e4-e5985dca719e,decrease,heat,none
+5c6ef180-4547-11e9-aa52-bf2189a03a60,activate,lights,washroom
+57919d40-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+18006900-4549-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+17c7c670-4541-11e9-b1e4-e5985dca719e,decrease,volume,none
+fb84dda0-4472-11e9-a9a5-5dbec3b8816a,bring,newspaper,none
+2140e740-45f0-11e9-aa19-e96346c3828f,deactivate,music,none
+bfc07f00-4598-11e9-bf4b-216bfa333ac2,activate,lights,washroom
+99650560-44fd-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+a4290c70-454e-11e9-aa52-bf2189a03a60,change language,German,none
+89fddb60-45c5-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+da14bfb0-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+5a6f7f70-4480-11e9-a9a5-5dbec3b8816a,increase,volume,none
+4cb44bf0-45f1-11e9-aa19-e96346c3828f,bring,socks,none
+eda9a6a0-4541-11e9-b1e4-e5985dca719e,bring,socks,none
+88deec50-4611-11e9-bc65-55b32b211b66,bring,socks,none
+5d28d710-4454-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+100ce000-4609-11e9-bc65-55b32b211b66,bring,socks,none
+a9cf7960-4608-11e9-bc65-55b32b211b66,decrease,heat,kitchen
+ba2970f0-45c6-11e9-8ec0-7bf21d1cfe30,bring,newspaper,none
+3c18fbb0-45dd-11e9-81ce-69b74fd7e64e,bring,juice,none
+ac984a50-452c-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+8a845210-4518-11e9-9035-7943ec3b842a,increase,heat,none
+b4d4da70-4541-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+83e39390-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+2dd938e0-446f-11e9-a9a5-5dbec3b8816a,change language,none,none
+030d95b0-460a-11e9-bc65-55b32b211b66,decrease,heat,bedroom
+82b610b0-459e-11e9-bf4b-216bfa333ac2,decrease,heat,bedroom
+5dd288f0-4472-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+372d8150-44d6-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+acb124f0-44e9-11e9-a1ea-79ca03012c0e,decrease,volume,none
+fbb49e20-454c-11e9-aa52-bf2189a03a60,activate,lamp,none
+ebfe0850-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+f5214e60-457d-11e9-9600-8f19ade2128c,deactivate,lamp,none
+643150f0-454e-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+2ba2a9d0-446f-11e9-a9a5-5dbec3b8816a,change language,none,none
+5b6006d0-4579-11e9-9600-8f19ade2128c,deactivate,lamp,none
+8a656880-4551-11e9-aa52-bf2189a03a60,increase,heat,washroom
+5e2b4200-444b-11e9-beaa-1f3e1eab7bff,deactivate,lamp,none
+83642c10-44cf-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+f5d8ffc0-4437-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+aa172a70-453c-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+c7258530-453c-11e9-b1e4-e5985dca719e,activate,lights,washroom
+a569b680-4511-11e9-9539-7f047cfe24d1,increase,heat,washroom
+d1c9dc40-44fe-11e9-a1ea-79ca03012c0e,increase,volume,none
+39975130-44dd-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+c68098d0-451f-11e9-a843-8db76f4b5e29,activate,lights,bedroom
+1eaf86b0-452f-11e9-b1e4-e5985dca719e,change language,English,none
+2d250e90-4534-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+530bf240-45c0-11e9-8ec0-7bf21d1cfe30,activate,music,none
+4d9dce40-4454-11e9-beaa-1f3e1eab7bff,increase,heat,none
+5dcc2800-457d-11e9-9600-8f19ade2128c,bring,shoes,none
+ba3296d0-4454-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+e06144d0-44d3-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+9abfd750-4435-11e9-beaa-1f3e1eab7bff,increase,volume,none
+e6b0aa50-453d-11e9-b1e4-e5985dca719e,decrease,heat,none
+00412bf0-451d-11e9-9035-7943ec3b842a,change language,Chinese,none
+4e280fe0-4433-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+cdd74340-45d8-11e9-81ce-69b74fd7e64e,increase,volume,none
+14bb0100-4554-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+32d37cb0-45ec-11e9-aa19-e96346c3828f,activate,music,none
+ff264830-45ef-11e9-aa19-e96346c3828f,increase,heat,none
+f4fe72e0-4466-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+35cf5510-44cf-11e9-a8b6-e96f2628bf65,change language,English,none
+9aeddcc0-4554-11e9-aa52-bf2189a03a60,decrease,volume,none
+7e65e0e0-45d4-11e9-9992-dfba019cb646,activate,lights,bedroom
+b2069150-4517-11e9-9035-7943ec3b842a,activate,lights,washroom
+c7cde600-45f3-11e9-aa19-e96346c3828f,increase,heat,washroom
+970d22f0-450e-11e9-9539-7f047cfe24d1,decrease,heat,none
+30eff5d0-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+0daec530-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+1a4f3ea0-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+e8dc3830-4411-11e9-85a0-dd11eb2f13b6,activate,lights,washroom
+bc2833e0-45d6-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+afbadc50-4506-11e9-a1ea-79ca03012c0e,activate,music,none
+5a196650-45d7-11e9-81ce-69b74fd7e64e,bring,socks,none
+2aff52b0-45d4-11e9-9992-dfba019cb646,deactivate,lamp,none
+f8ec1690-45c0-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+e5914e20-446d-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+0e86f3a0-4556-11e9-aa52-bf2189a03a60,increase,heat,none
+bfcb3e80-45c6-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+ac8a3e40-4434-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+062e6ab0-457b-11e9-9600-8f19ade2128c,bring,juice,none
+9fe97270-4608-11e9-bc65-55b32b211b66,decrease,heat,none
+3ad14b30-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+fa785580-45b8-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+ee94cfb0-459e-11e9-bf4b-216bfa333ac2,change language,none,none
+a93012e0-4549-11e9-aa52-bf2189a03a60,bring,socks,none
+d0ed65e0-4575-11e9-9600-8f19ade2128c,increase,volume,none
+6a6f49d0-44d2-11e9-a8b6-e96f2628bf65,increase,volume,none
+a6e710e0-44d3-11e9-a8b6-e96f2628bf65,increase,volume,none
+f62a99e0-45f2-11e9-aa19-e96346c3828f,increase,volume,none
+73515080-441d-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+7a2d70d0-4433-11e9-beaa-1f3e1eab7bff,increase,volume,none
+e382c2d0-4454-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+ee3b1eb0-45e5-11e9-b578-494a5b19ab8b,activate,music,none
+237dedb0-45ea-11e9-b578-494a5b19ab8b,activate,lights,washroom
+20ad9da0-4550-11e9-aa52-bf2189a03a60,deactivate,music,none
+8f9c3c80-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+e8b25860-45da-11e9-81ce-69b74fd7e64e,activate,lights,none
+65109530-44d1-11e9-a8b6-e96f2628bf65,change language,English,none
+2c5b8200-44fd-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+48ee9590-45ea-11e9-b578-494a5b19ab8b,deactivate,lights,kitchen
+8b3359e0-45e0-11e9-81ce-69b74fd7e64e,change language,none,none
+4c79ef30-453a-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+47cdfc80-44fc-11e9-a1ea-79ca03012c0e,increase,volume,none
+684aed50-454d-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+041cdb50-4524-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+943b7370-455d-11e9-aa52-bf2189a03a60,change language,none,none
+358db050-4610-11e9-bc65-55b32b211b66,decrease,volume,none
+51791310-4609-11e9-bc65-55b32b211b66,change language,Korean,none
+036f9de0-4480-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+9bce2510-451c-11e9-9035-7943ec3b842a,bring,shoes,none
+795bce30-45ce-11e9-9992-dfba019cb646,deactivate,lamp,none
+595da5b0-45fe-11e9-bc65-55b32b211b66,increase,heat,none
+b44276c0-4547-11e9-aa52-bf2189a03a60,decrease,heat,none
+66065570-4606-11e9-bc65-55b32b211b66,bring,juice,none
+0434d360-4464-11e9-beaa-1f3e1eab7bff,activate,music,none
+6f616be0-44d1-11e9-a8b6-e96f2628bf65,change language,Korean,none
+4e447c70-447e-11e9-a9a5-5dbec3b8816a,change language,Chinese,none
+a3aefb60-4607-11e9-bc65-55b32b211b66,decrease,volume,none
+ff1b13f0-4547-11e9-aa52-bf2189a03a60,decrease,volume,none
+2d7050e0-460f-11e9-bc65-55b32b211b66,deactivate,music,none
+bcff3c20-4598-11e9-bf4b-216bfa333ac2,activate,lights,bedroom
+ca4ff420-44ce-11e9-a8b6-e96f2628bf65,deactivate,music,none
+bec79940-460a-11e9-bc65-55b32b211b66,activate,lights,kitchen
+973e90f0-45c3-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+6e733cb0-4510-11e9-9539-7f047cfe24d1,deactivate,lights,none
+c7d82030-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,kitchen
+30d2c390-4550-11e9-aa52-bf2189a03a60,deactivate,lights,bedroom
+63bd8d10-4539-11e9-b1e4-e5985dca719e,change language,none,none
+2dfe3cf0-4436-11e9-beaa-1f3e1eab7bff,increase,volume,none
+169e7580-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+cf209280-45e0-11e9-81ce-69b74fd7e64e,change language,Korean,none
+242fa5c0-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+5d445160-45e0-11e9-81ce-69b74fd7e64e,bring,newspaper,none
+ecfb6e00-457d-11e9-9600-8f19ade2128c,activate,lamp,none
+9c0a8140-455d-11e9-aa52-bf2189a03a60,change language,Chinese,none
+a93c1f70-450a-11e9-9539-7f047cfe24d1,increase,heat,none
+d69a0fd0-45ec-11e9-aa19-e96346c3828f,activate,lights,bedroom
+d93b5ef0-4539-11e9-b1e4-e5985dca719e,increase,heat,washroom
+c004c1f0-44fe-11e9-a1ea-79ca03012c0e,activate,lights,none
+f5370550-4435-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+7fd8bbc0-4519-11e9-9035-7943ec3b842a,change language,English,none
+a5e75db0-44df-11e9-a8b6-e96f2628bf65,bring,juice,none
+3a106ec0-460f-11e9-bc65-55b32b211b66,decrease,heat,washroom
+15d3aeb0-452d-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+13665c90-454b-11e9-aa52-bf2189a03a60,activate,lamp,none
+16c54760-453d-11e9-b1e4-e5985dca719e,increase,volume,none
+8dd65f80-44a5-11e9-a9a5-5dbec3b8816a,increase,volume,none
+a0b4b080-45ee-11e9-aa19-e96346c3828f,increase,volume,none
+b6069b30-4466-11e9-beaa-1f3e1eab7bff,deactivate,lights,none
+fdcc2ec0-44e4-11e9-bb82-bdba769643e7,deactivate,music,none
+d0339910-45f4-11e9-aa19-e96346c3828f,change language,none,none
+1a4787b0-45ea-11e9-b578-494a5b19ab8b,bring,socks,none
+87cce700-4417-11e9-85a0-dd11eb2f13b6,activate,music,none
+047f3170-45e6-11e9-b578-494a5b19ab8b,activate,lights,none
+3901c180-4599-11e9-bf4b-216bfa333ac2,increase,volume,none
+2fe561d0-460a-11e9-bc65-55b32b211b66,deactivate,music,none
+357cf700-45da-11e9-81ce-69b74fd7e64e,change language,Korean,none
+5cdbc770-4523-11e9-a843-8db76f4b5e29,decrease,volume,none
+0ae87120-454b-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+2f8daac0-44df-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+8c64b9a0-444e-11e9-beaa-1f3e1eab7bff,deactivate,lamp,none
+4b992ec0-44cf-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+2af79970-45f3-11e9-aa19-e96346c3828f,increase,volume,none
+0bccb9a0-452a-11e9-a843-8db76f4b5e29,activate,lights,kitchen
+79919f00-4480-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+a11a9820-4547-11e9-aa52-bf2189a03a60,deactivate,lights,bedroom
+7e24e390-4450-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+51824da0-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+23fca350-45d9-11e9-81ce-69b74fd7e64e,decrease,volume,none
+e8942740-4504-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+219df4e0-44ff-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+ddaf04f0-45b6-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+05d88350-454b-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+24b03390-4523-11e9-a843-8db76f4b5e29,increase,volume,none
+2b5506e0-459f-11e9-bf4b-216bfa333ac2,change language,English,none
+6c66bd10-45cf-11e9-9992-dfba019cb646,increase,heat,washroom
+5c7870b0-45f2-11e9-aa19-e96346c3828f,activate,lamp,none
+b295af90-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+dabc3a90-44e1-11e9-bb82-bdba769643e7,bring,juice,none
+601b8c70-4610-11e9-bc65-55b32b211b66,increase,heat,none
+66a4be60-4500-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+d759d520-4472-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+1c337850-446d-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+e093fb80-44fd-11e9-a1ea-79ca03012c0e,bring,shoes,none
+c3251b40-45ef-11e9-aa19-e96346c3828f,increase,heat,bedroom
+e2b2ec80-4450-11e9-beaa-1f3e1eab7bff,change language,none,none
+f8194c90-4518-11e9-9035-7943ec3b842a,decrease,volume,none
+7811d820-45c5-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+856bac70-45ee-11e9-aa19-e96346c3828f,activate,lights,none
+6f92e5a0-45a1-11e9-bf4b-216bfa333ac2,deactivate,music,none
+66ac6750-4483-11e9-a9a5-5dbec3b8816a,bring,socks,none
+9ba50dd0-460f-11e9-bc65-55b32b211b66,activate,lights,washroom
+fc127cf0-4549-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+769cedb0-444c-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+60fff140-45c9-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+763df930-451a-11e9-9035-7943ec3b842a,increase,volume,none
+2f903de0-4452-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+1c94db90-4454-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+12801010-459f-11e9-bf4b-216bfa333ac2,change language,Korean,none
+9474dc00-4436-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+7e19bbc0-451b-11e9-9035-7943ec3b842a,bring,shoes,none
+e850d2e0-4597-11e9-bf4b-216bfa333ac2,change language,none,none
+cefa6f40-4614-11e9-bc65-55b32b211b66,bring,shoes,none
+54242690-45a0-11e9-bf4b-216bfa333ac2,increase,volume,none
+124170e0-45d5-11e9-9992-dfba019cb646,increase,volume,none
+314ab7e0-453e-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+0dd39d30-45da-11e9-81ce-69b74fd7e64e,activate,lights,kitchen
+20acb5e0-44e5-11e9-bb82-bdba769643e7,bring,juice,none
+03896590-457f-11e9-9600-8f19ade2128c,decrease,heat,none
+51239540-4436-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+f44ae640-44a6-11e9-a9a5-5dbec3b8816a,deactivate,music,none
+0ac12780-45a2-11e9-bf4b-216bfa333ac2,bring,shoes,none
+3b486550-4519-11e9-9035-7943ec3b842a,increase,volume,none
+b6ec0e80-45ed-11e9-aa19-e96346c3828f,increase,heat,kitchen
+96dcdbb0-4480-11e9-a9a5-5dbec3b8816a,increase,heat,kitchen
+1a3ba180-44d1-11e9-a8b6-e96f2628bf65,bring,socks,none
+4c34ec50-45fd-11e9-bc65-55b32b211b66,increase,heat,none
+1be0e280-44d0-11e9-a8b6-e96f2628bf65,increase,volume,none
+026eaee0-4610-11e9-bc65-55b32b211b66,increase,volume,none
+98462f70-451f-11e9-a843-8db76f4b5e29,activate,lamp,none
+ea88ea10-444e-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+9c87c8c0-4577-11e9-9600-8f19ade2128c,decrease,heat,washroom
+d4a488c0-45e9-11e9-b578-494a5b19ab8b,activate,music,none
+92864470-44d0-11e9-a8b6-e96f2628bf65,decrease,volume,none
+f5396250-4511-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+3e472af0-455c-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+75009730-451a-11e9-9035-7943ec3b842a,increase,heat,washroom
+00931880-4549-11e9-aa52-bf2189a03a60,deactivate,lights,bedroom
+f80c6d80-45d7-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+08eed290-4520-11e9-a843-8db76f4b5e29,deactivate,lights,kitchen
+369ae490-45a2-11e9-bf4b-216bfa333ac2,change language,Chinese,none
+3e3101d0-4412-11e9-85a0-dd11eb2f13b6,increase,volume,none
+fb616850-453c-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+f4a665c0-4540-11e9-b1e4-e5985dca719e,deactivate,lights,none
+99cc3220-45ee-11e9-aa19-e96346c3828f,activate,lights,kitchen
+329d7260-4609-11e9-bc65-55b32b211b66,increase,volume,none
+464bdca0-4539-11e9-b1e4-e5985dca719e,bring,shoes,none
+ea92b070-4482-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+ee3393f0-453d-11e9-b1e4-e5985dca719e,activate,lights,washroom
+c88aad60-44e2-11e9-bb82-bdba769643e7,increase,heat,none
+23fe4250-451b-11e9-9035-7943ec3b842a,decrease,heat,bedroom
+85a1ecc0-45f0-11e9-aa19-e96346c3828f,change language,none,none
+f93c68a0-4540-11e9-b1e4-e5985dca719e,increase,volume,none
+b0c97bd0-4577-11e9-9600-8f19ade2128c,decrease,heat,washroom
+59d35550-4516-11e9-9035-7943ec3b842a,change language,Chinese,none
+38e38090-4598-11e9-bf4b-216bfa333ac2,deactivate,music,none
+5b377fb0-4607-11e9-bc65-55b32b211b66,increase,volume,none
+dfcf0680-45fd-11e9-bc65-55b32b211b66,deactivate,lights,washroom
+662fce10-4614-11e9-bc65-55b32b211b66,decrease,heat,washroom
+c4de47f0-4576-11e9-9600-8f19ade2128c,decrease,volume,none
+38785960-44ed-11e9-a1ea-79ca03012c0e,decrease,volume,none
+7e8c4b60-4465-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+f1f5b590-44fc-11e9-a1ea-79ca03012c0e,increase,heat,none
+25f20630-44d2-11e9-a8b6-e96f2628bf65,increase,heat,none
+85a8cc90-45da-11e9-81ce-69b74fd7e64e,change language,none,none
+bdb92ff0-45dd-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+d90ede40-4519-11e9-9035-7943ec3b842a,increase,volume,none
+ba0e7a90-4434-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+a5cdd2a0-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+c5258470-4455-11e9-beaa-1f3e1eab7bff,increase,volume,none
+f5ee7190-44fd-11e9-a1ea-79ca03012c0e,change language,none,none
+00234f30-45d7-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+bc5f1610-454c-11e9-aa52-bf2189a03a60,change language,none,none
+a41542a0-45d8-11e9-81ce-69b74fd7e64e,bring,socks,none
+4dc3c6f0-457f-11e9-9600-8f19ade2128c,bring,newspaper,none
+58199220-45ec-11e9-aa19-e96346c3828f,deactivate,lights,none
+bd4ba6b0-4551-11e9-aa52-bf2189a03a60,decrease,heat,none
+a1e0dfb0-44d6-11e9-a8b6-e96f2628bf65,activate,music,none
+69b6cf80-4433-11e9-beaa-1f3e1eab7bff,increase,volume,none
+52829250-44e1-11e9-bb82-bdba769643e7,decrease,heat,kitchen
+413275c0-4535-11e9-b1e4-e5985dca719e,change language,none,none
+5dcbf790-4596-11e9-bf4b-216bfa333ac2,increase,heat,kitchen
+a59cc2b0-4538-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+a5321080-4468-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+11ee1100-45e6-11e9-b578-494a5b19ab8b,bring,shoes,none
+da02bd10-457a-11e9-9600-8f19ade2128c,decrease,heat,washroom
+e92d8df0-45fd-11e9-bc65-55b32b211b66,deactivate,lights,washroom
+3a6c50d0-4553-11e9-aa52-bf2189a03a60,change language,German,none
+05d3c740-446d-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+552e8890-451a-11e9-9035-7943ec3b842a,increase,heat,kitchen
+f202ff90-454a-11e9-aa52-bf2189a03a60,increase,heat,none
+35c7bca0-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+2ec29380-4598-11e9-bf4b-216bfa333ac2,deactivate,music,none
+4ba3da90-4476-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+a27d75b0-4606-11e9-bc65-55b32b211b66,change language,none,none
+8a953050-447b-11e9-a9a5-5dbec3b8816a,activate,music,none
+57ce4100-45db-11e9-81ce-69b74fd7e64e,decrease,volume,none
+3eb24ba0-4516-11e9-9035-7943ec3b842a,change language,German,none
+c35bf2b0-453f-11e9-b1e4-e5985dca719e,decrease,heat,none
+acf752f0-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+b315dd40-44fd-11e9-a1ea-79ca03012c0e,activate,music,none
+e013d390-4540-11e9-b1e4-e5985dca719e,increase,volume,none
+4892fd20-459f-11e9-bf4b-216bfa333ac2,deactivate,lights,none
+16101420-446c-11e9-beaa-1f3e1eab7bff,bring,socks,none
+95bdb6d0-44d2-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+c5dead50-453c-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+d85cfd20-454a-11e9-aa52-bf2189a03a60,decrease,volume,none
+0ea16430-457c-11e9-9600-8f19ade2128c,deactivate,lights,washroom
+49787750-45f0-11e9-aa19-e96346c3828f,change language,Korean,none
+3a3bf9c0-459a-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+8b2c4180-457e-11e9-9600-8f19ade2128c,decrease,volume,none
+5b40e150-4511-11e9-9539-7f047cfe24d1,deactivate,lamp,none
+b034cf00-454d-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+96933590-459e-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+5ddf1760-4507-11e9-a1ea-79ca03012c0e,deactivate,lights,kitchen
+d47c7be0-457c-11e9-9600-8f19ade2128c,increase,heat,washroom
+f0b61000-4504-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+96b0c9b0-45e0-11e9-81ce-69b74fd7e64e,change language,German,none
+7cccc750-45f5-11e9-aa19-e96346c3828f,change language,German,none
+284e6b30-446e-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+d7babff0-4519-11e9-9035-7943ec3b842a,decrease,heat,none
+c61ff6a0-45ed-11e9-aa19-e96346c3828f,decrease,heat,washroom
+75b30d50-45d5-11e9-9992-dfba019cb646,decrease,volume,none
+ed14a550-450f-11e9-9539-7f047cfe24d1,deactivate,music,none
+6a636280-454c-11e9-aa52-bf2189a03a60,deactivate,music,none
+89ef9840-457d-11e9-9600-8f19ade2128c,change language,German,none
+5e6d6350-4578-11e9-9600-8f19ade2128c,activate,music,none
+cf17e600-44da-11e9-a8b6-e96f2628bf65,increase,volume,none
+48bb91f0-45da-11e9-81ce-69b74fd7e64e,change language,English,none
+f5ec5a10-44ce-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+90c202a0-4435-11e9-beaa-1f3e1eab7bff,activate,lights,none
+366b36f0-457f-11e9-9600-8f19ade2128c,decrease,heat,washroom
+cbdf0170-45f3-11e9-aa19-e96346c3828f,increase,heat,washroom
+db2166a0-4481-11e9-a9a5-5dbec3b8816a,activate,lamp,none
+37be60e0-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+8f177910-45b8-11e9-8ec0-7bf21d1cfe30,activate,lights,bedroom
+a4762d90-44f7-11e9-a1ea-79ca03012c0e,increase,volume,none
+ba29f880-454a-11e9-aa52-bf2189a03a60,deactivate,lamp,none
+2741af10-457f-11e9-9600-8f19ade2128c,decrease,heat,washroom
+18e2d830-44e5-11e9-bb82-bdba769643e7,bring,juice,none
+86376d70-45d9-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+280be610-4541-11e9-b1e4-e5985dca719e,activate,lamp,none
+7d0c1600-444f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+f9837e50-45f1-11e9-aa19-e96346c3828f,deactivate,music,none
+8536e0b0-4505-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+171eaa70-451b-11e9-9035-7943ec3b842a,decrease,heat,washroom
+e18feb40-454b-11e9-aa52-bf2189a03a60,bring,shoes,none
+df3f67d0-44d8-11e9-a8b6-e96f2628bf65,decrease,heat,none
+fdf44f90-4539-11e9-b1e4-e5985dca719e,decrease,heat,none
+c4e21610-4606-11e9-bc65-55b32b211b66,change language,English,none
+fa1af270-45e8-11e9-b578-494a5b19ab8b,activate,lights,none
+2275d810-45e0-11e9-81ce-69b74fd7e64e,bring,socks,none
+c128cd80-45d8-11e9-81ce-69b74fd7e64e,change language,none,none
+2a026620-4455-11e9-beaa-1f3e1eab7bff,change language,English,none
+48ec3950-45a2-11e9-bf4b-216bfa333ac2,change language,Chinese,none
+7cb42d60-44d0-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+f07575c0-45ce-11e9-9992-dfba019cb646,increase,volume,none
+41f12650-453f-11e9-b1e4-e5985dca719e,bring,socks,none
+2c1c1a40-4609-11e9-bc65-55b32b211b66,increase,volume,none
+fb113e80-45d6-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+0283aad0-457e-11e9-9600-8f19ade2128c,activate,lights,kitchen
+81c5b890-4472-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+25821240-4512-11e9-9539-7f047cfe24d1,bring,socks,none
+aebaa0a0-44d5-11e9-a8b6-e96f2628bf65,decrease,heat,none
+42fb13a0-45ec-11e9-aa19-e96346c3828f,deactivate,lamp,none
+0ce479b0-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+55a4cc30-4529-11e9-a843-8db76f4b5e29,increase,heat,kitchen
+268f7290-446d-11e9-beaa-1f3e1eab7bff,increase,volume,none
+ba43aa80-45d8-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+a67977c0-45e0-11e9-81ce-69b74fd7e64e,change language,Korean,none
+d5d222b0-447d-11e9-a9a5-5dbec3b8816a,bring,newspaper,none
+49aef050-44e2-11e9-bb82-bdba769643e7,change language,German,none
+4dc70660-45ef-11e9-aa19-e96346c3828f,increase,volume,none
+f41a5bc0-4527-11e9-a843-8db76f4b5e29,activate,lights,bedroom
+40d843a0-453c-11e9-b1e4-e5985dca719e,increase,volume,none
+c1fd1600-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+c797af30-4450-11e9-beaa-1f3e1eab7bff,bring,juice,none
+731389a0-45dd-11e9-81ce-69b74fd7e64e,change language,none,none
+102925f0-45da-11e9-81ce-69b74fd7e64e,bring,shoes,none
+3e30bed0-4482-11e9-a9a5-5dbec3b8816a,deactivate,lights,bedroom
+c47de7b0-4432-11e9-beaa-1f3e1eab7bff,activate,lights,none
+7bd17200-45e2-11e9-81ce-69b74fd7e64e,decrease,volume,none
+aade4560-45c8-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+15b92940-4466-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+13af8100-45ef-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+e0c45fc0-444c-11e9-beaa-1f3e1eab7bff,activate,music,none
+92e2ce90-45dc-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+27d05d40-45fd-11e9-bc65-55b32b211b66,decrease,volume,none
+610b71f0-4524-11e9-a843-8db76f4b5e29,change language,none,none
+5fbe8b20-451a-11e9-9035-7943ec3b842a,increase,volume,none
+43f73180-4529-11e9-a843-8db76f4b5e29,increase,heat,kitchen
+8b8acce0-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+d45b5390-4561-11e9-9600-8f19ade2128c,decrease,volume,none
+d026ffa0-45d8-11e9-81ce-69b74fd7e64e,increase,volume,none
+9a3c80e0-4411-11e9-85a0-dd11eb2f13b6,deactivate,lamp,none
+414d31a0-45a1-11e9-bf4b-216bfa333ac2,decrease,heat,bedroom
+ee0e5ce0-4536-11e9-b1e4-e5985dca719e,activate,lights,washroom
+3a113eb0-4536-11e9-b1e4-e5985dca719e,increase,heat,none
+e29f0dc0-44fd-11e9-a1ea-79ca03012c0e,bring,shoes,none
+66d7c9f0-457c-11e9-9600-8f19ade2128c,increase,volume,none
+39be1aa0-44ff-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+07cfa610-4614-11e9-bc65-55b32b211b66,increase,heat,washroom
+47b90df0-4549-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+156debd0-44dc-11e9-a8b6-e96f2628bf65,decrease,volume,none
+9734db00-4465-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+1752ecc0-450e-11e9-9539-7f047cfe24d1,activate,lights,kitchen
+6cca70c0-4436-11e9-beaa-1f3e1eab7bff,increase,heat,none
+52ed2ea0-451b-11e9-9035-7943ec3b842a,activate,music,none
+a5f149b0-4598-11e9-bf4b-216bfa333ac2,deactivate,lights,bedroom
+696e2570-45ee-11e9-aa19-e96346c3828f,change language,German,none
+70f4ce60-44d7-11e9-a8b6-e96f2628bf65,change language,none,none
+58e71800-44ff-11e9-a1ea-79ca03012c0e,deactivate,lights,kitchen
+b5ec9d60-44d0-11e9-a8b6-e96f2628bf65,increase,volume,none
+d926d730-45d6-11e9-81ce-69b74fd7e64e,change language,none,none
+82e06dc0-452a-11e9-a843-8db76f4b5e29,deactivate,lights,bedroom
+844b2580-4523-11e9-a843-8db76f4b5e29,increase,heat,kitchen
+83d5d100-457c-11e9-9600-8f19ade2128c,decrease,volume,none
+19beebd0-459f-11e9-bf4b-216bfa333ac2,change language,German,none
+63a74700-446a-11e9-beaa-1f3e1eab7bff,increase,heat,none
+e01c2c30-45e9-11e9-b578-494a5b19ab8b,increase,heat,none
+e4e629f0-4481-11e9-a9a5-5dbec3b8816a,deactivate,lamp,none
+3fc15750-45ea-11e9-b578-494a5b19ab8b,change language,none,none
+2bf9e600-4479-11e9-a9a5-5dbec3b8816a,increase,volume,none
+2eb06fb0-4517-11e9-9035-7943ec3b842a,deactivate,lights,none
+54191660-4519-11e9-9035-7943ec3b842a,change language,none,none
+44c2b460-4464-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+88cefbf0-454f-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+15f6ab40-4415-11e9-85a0-dd11eb2f13b6,increase,heat,washroom
+918e9e90-453f-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+131378e0-450f-11e9-9539-7f047cfe24d1,increase,heat,bedroom
+c4515930-44d1-11e9-a8b6-e96f2628bf65,decrease,heat,none
+1d315a70-4598-11e9-bf4b-216bfa333ac2,increase,heat,none
+05e04b80-454b-11e9-aa52-bf2189a03a60,activate,lights,washroom
+7c3d6cc0-453e-11e9-b1e4-e5985dca719e,increase,heat,none
+45c5d470-44d0-11e9-a8b6-e96f2628bf65,decrease,volume,none
+0b9ae190-44e5-11e9-bb82-bdba769643e7,bring,newspaper,none
+1e6aa4c0-454b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+79957d00-45e8-11e9-b578-494a5b19ab8b,deactivate,lamp,none
+13295120-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+4110e2d0-451b-11e9-9035-7943ec3b842a,deactivate,lights,bedroom
+f3564340-4539-11e9-b1e4-e5985dca719e,decrease,heat,none
+60f08d50-45dc-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+b120c200-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+32585fa0-45f4-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+f7447d50-454d-11e9-aa52-bf2189a03a60,deactivate,music,none
+7ebefba0-454b-11e9-aa52-bf2189a03a60,decrease,heat,bedroom
+628a68d0-457c-11e9-9600-8f19ade2128c,increase,volume,none
+60895fc0-451b-11e9-9035-7943ec3b842a,activate,music,none
+bfadf3a0-4433-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+18889ba0-45d4-11e9-9992-dfba019cb646,decrease,volume,none
+82918510-4517-11e9-9035-7943ec3b842a,activate,lights,kitchen
+82f2d780-45de-11e9-81ce-69b74fd7e64e,deactivate,music,none
+0880fc00-4464-11e9-beaa-1f3e1eab7bff,activate,lights,none
+85fc1270-4476-11e9-a9a5-5dbec3b8816a,activate,music,none
+67c61ff0-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+e2c304c0-44e2-11e9-bb82-bdba769643e7,deactivate,music,none
+6f01e090-44ee-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+8e064140-45e6-11e9-b578-494a5b19ab8b,increase,volume,none
+e21598f0-45ee-11e9-aa19-e96346c3828f,bring,socks,none
+eb289f40-457c-11e9-9600-8f19ade2128c,decrease,heat,kitchen
+bb80bf40-44e4-11e9-bb82-bdba769643e7,decrease,heat,bedroom
+934e5a90-447c-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+eb7d4630-4540-11e9-b1e4-e5985dca719e,increase,volume,none
+79b9f5a0-44cf-11e9-a8b6-e96f2628bf65,decrease,volume,none
+bd45a8b0-4550-11e9-aa52-bf2189a03a60,decrease,volume,none
+c8787220-45d8-11e9-81ce-69b74fd7e64e,change language,none,none
+16259590-4438-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+91453a50-450f-11e9-9539-7f047cfe24d1,increase,heat,washroom
+039356d0-4562-11e9-9600-8f19ade2128c,increase,heat,washroom
+893e4910-450e-11e9-9539-7f047cfe24d1,deactivate,lights,kitchen
+0faa6390-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+2d4abc30-457a-11e9-9600-8f19ade2128c,increase,heat,none
+989bd400-45e4-11e9-b578-494a5b19ab8b,deactivate,lights,none
+22dd5f70-450f-11e9-9539-7f047cfe24d1,increase,heat,none
+27a05310-447d-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+cbc16200-451c-11e9-9035-7943ec3b842a,change language,none,none
+5ec4b310-4520-11e9-a843-8db76f4b5e29,decrease,volume,none
+ce249f00-451f-11e9-a843-8db76f4b5e29,activate,lights,bedroom
+d94f4f50-45ed-11e9-aa19-e96346c3828f,change language,none,none
+b59ade00-454b-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+e7a6e540-44fd-11e9-a1ea-79ca03012c0e,bring,shoes,none
+48db20f0-4563-11e9-9600-8f19ade2128c,change language,none,none
+86619ca0-45d7-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+74b05130-4452-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+6bdb9ce0-4547-11e9-aa52-bf2189a03a60,activate,lights,none
+0c9d38f0-453e-11e9-b1e4-e5985dca719e,change language,German,none
+0e70c360-45e1-11e9-81ce-69b74fd7e64e,decrease,volume,none
+c2601530-45fd-11e9-bc65-55b32b211b66,deactivate,lights,kitchen
+cc10dc50-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+9482c300-4518-11e9-9035-7943ec3b842a,increase,heat,washroom
+6ae45650-4520-11e9-a843-8db76f4b5e29,decrease,volume,none
+b4539d50-4511-11e9-9539-7f047cfe24d1,decrease,heat,none
+d29466f0-44f8-11e9-a1ea-79ca03012c0e,bring,shoes,none
+f232a9c0-4608-11e9-bc65-55b32b211b66,deactivate,music,none
+3777d0b0-459a-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+d57daff0-4513-11e9-9539-7f047cfe24d1,change language,none,none
+591cb600-4607-11e9-bc65-55b32b211b66,increase,volume,none
+67015390-44cf-11e9-a8b6-e96f2628bf65,deactivate,lights,kitchen
+87097df0-45ee-11e9-aa19-e96346c3828f,decrease,heat,washroom
+4614ed30-4480-11e9-a9a5-5dbec3b8816a,increase,volume,none
+404cb850-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+c85fe9a0-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+28965540-4611-11e9-bc65-55b32b211b66,decrease,heat,washroom
+c7bbe080-4536-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+722849e0-451a-11e9-9035-7943ec3b842a,increase,volume,none
+8246c0d0-4561-11e9-9600-8f19ade2128c,increase,heat,kitchen
+cda83480-454a-11e9-aa52-bf2189a03a60,deactivate,lights,none
+dc77da20-45da-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+0fd56420-447b-11e9-a9a5-5dbec3b8816a,change language,English,none
+d39d6c80-453a-11e9-b1e4-e5985dca719e,deactivate,lights,kitchen
+3e6ba3d0-4615-11e9-bc65-55b32b211b66,change language,Korean,none
+de4f09e0-4413-11e9-85a0-dd11eb2f13b6,increase,heat,bedroom
+9ca32820-44f7-11e9-a1ea-79ca03012c0e,deactivate,lights,washroom
+90b04820-4521-11e9-a843-8db76f4b5e29,bring,juice,none
+f0e61a70-45e5-11e9-b578-494a5b19ab8b,bring,newspaper,none
+cfe9b4f0-44da-11e9-a8b6-e96f2628bf65,decrease,heat,kitchen
+56127cc0-4516-11e9-9035-7943ec3b842a,decrease,heat,none
+95b48e70-4527-11e9-a843-8db76f4b5e29,decrease,heat,none
+c76c2ab0-45b6-11e9-8ec0-7bf21d1cfe30,change language,none,none
+76cdc830-453d-11e9-b1e4-e5985dca719e,increase,heat,none
+a8e9b470-45e0-11e9-81ce-69b74fd7e64e,change language,English,none
+d1181fa0-44d6-11e9-a8b6-e96f2628bf65,bring,juice,none
+38821620-45d9-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+62c399e0-457f-11e9-9600-8f19ade2128c,bring,socks,none
+6d1cdcc0-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,bedroom
+3774ef50-453e-11e9-b1e4-e5985dca719e,increase,volume,none
+cd46cea0-45ce-11e9-9992-dfba019cb646,deactivate,lights,bedroom
+d9cbd300-44d4-11e9-a8b6-e96f2628bf65,change language,Chinese,none
+cc5107f0-4555-11e9-aa52-bf2189a03a60,decrease,volume,none
+edcc11e0-4474-11e9-a9a5-5dbec3b8816a,deactivate,lights,washroom
+008eb930-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+42f363d0-452e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+b8a15610-45e1-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+1f1b0260-45e2-11e9-81ce-69b74fd7e64e,increase,volume,none
+6e2b9860-45ec-11e9-aa19-e96346c3828f,activate,lights,washroom
+00f9cc90-4528-11e9-a843-8db76f4b5e29,activate,lights,bedroom
+93748210-45ee-11e9-aa19-e96346c3828f,deactivate,lights,washroom
+3c3d7250-44da-11e9-a8b6-e96f2628bf65,deactivate,lights,kitchen
+6b679430-45dd-11e9-81ce-69b74fd7e64e,change language,none,none
+9b46d0d0-4515-11e9-9035-7943ec3b842a,increase,volume,none
+ed776e70-45c2-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+cfd7e680-45de-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+1786e670-45fd-11e9-bc65-55b32b211b66,deactivate,lights,none
+d9aa50d0-449e-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+85b1ef60-454d-11e9-aa52-bf2189a03a60,activate,lights,washroom
+41d98160-45c8-11e9-8ec0-7bf21d1cfe30,change language,German,none
+c1607d90-454f-11e9-aa52-bf2189a03a60,decrease,heat,none
+9b0bf8a0-453f-11e9-b1e4-e5985dca719e,deactivate,music,none
+0a5fb990-44d1-11e9-a8b6-e96f2628bf65,bring,socks,none
+5a983670-45db-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+1626c3c0-4609-11e9-bc65-55b32b211b66,bring,socks,none
+b9838210-45c8-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+0c491860-44e4-11e9-bb82-bdba769643e7,decrease,volume,none
+277cb670-45e6-11e9-b578-494a5b19ab8b,activate,lights,bedroom
+44ba1040-45c1-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+e97235e0-45ee-11e9-aa19-e96346c3828f,activate,lights,bedroom
+393a0740-44e3-11e9-bb82-bdba769643e7,activate,lights,bedroom
+1a746760-4466-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+0d818150-4434-11e9-beaa-1f3e1eab7bff,increase,heat,none
+08ed59a0-45e9-11e9-b578-494a5b19ab8b,activate,lights,kitchen
+3efe5340-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+7b0994c0-454b-11e9-aa52-bf2189a03a60,decrease,volume,none
+d1f78f40-453b-11e9-b1e4-e5985dca719e,increase,heat,washroom
+204fd550-4594-11e9-9600-8f19ade2128c,increase,heat,none
+8b3e5150-446a-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+7a038220-4519-11e9-9035-7943ec3b842a,activate,lights,washroom
+89660890-460f-11e9-bc65-55b32b211b66,activate,lights,washroom
+fc2f56e0-4611-11e9-bc65-55b32b211b66,change language,Chinese,none
+d7d652a0-45e7-11e9-b578-494a5b19ab8b,change language,none,none
+264a9a00-4470-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+5b0e0420-4556-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+fa546410-460b-11e9-bc65-55b32b211b66,deactivate,lights,bedroom
+7c434d40-454b-11e9-aa52-bf2189a03a60,decrease,heat,bedroom
+7f391d30-4515-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+f67831a0-4516-11e9-9035-7943ec3b842a,bring,socks,none
+3ab1f770-4576-11e9-9600-8f19ade2128c,activate,lights,bedroom
+7caff5a0-4436-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+c4b20b90-45e9-11e9-b578-494a5b19ab8b,decrease,heat,washroom
+327eaf60-450f-11e9-9539-7f047cfe24d1,increase,heat,washroom
+c5de7310-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,kitchen
+a34e4970-4475-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+6d34c840-451b-11e9-9035-7943ec3b842a,bring,socks,none
+fedd0510-453d-11e9-b1e4-e5985dca719e,activate,lights,washroom
+7c1099b0-45e9-11e9-b578-494a5b19ab8b,increase,volume,none
+305d9ae0-4611-11e9-bc65-55b32b211b66,decrease,heat,washroom
+aa3376b0-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,none
+e56b9970-4538-11e9-b1e4-e5985dca719e,deactivate,music,none
+f809dcd0-45d4-11e9-9992-dfba019cb646,increase,volume,none
+4edce460-4609-11e9-bc65-55b32b211b66,change language,German,none
+285f2430-4607-11e9-bc65-55b32b211b66,deactivate,lamp,none
+cf08bf90-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+309f13b0-45f0-11e9-aa19-e96346c3828f,activate,lights,none
+92f81310-4512-11e9-9539-7f047cfe24d1,decrease,volume,none
+cd8fd440-457b-11e9-9600-8f19ade2128c,activate,lights,bedroom
+7a1f5520-4435-11e9-beaa-1f3e1eab7bff,change language,German,none
+40903450-45cf-11e9-9992-dfba019cb646,increase,heat,none
+33956c40-446f-11e9-a9a5-5dbec3b8816a,change language,Chinese,none
+2207e1c0-45e5-11e9-b578-494a5b19ab8b,activate,lights,none
+19ccccb0-45da-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+5e4e57e0-459f-11e9-bf4b-216bfa333ac2,increase,heat,none
+e3fbe230-454b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+3ff23910-45ef-11e9-aa19-e96346c3828f,increase,volume,none
+92de2390-45f0-11e9-aa19-e96346c3828f,bring,newspaper,none
+ec7a6110-45d3-11e9-9992-dfba019cb646,decrease,heat,none
+618a8bf0-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+14dcbd90-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,bedroom
+c1925500-45e9-11e9-b578-494a5b19ab8b,decrease,heat,none
+791d7990-45b6-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+1a69fa50-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+38e1cae0-45f0-11e9-aa19-e96346c3828f,increase,heat,bedroom
+9f7b19b0-45db-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+2d2715b0-45c9-11e9-8ec0-7bf21d1cfe30,deactivate,lights,kitchen
+c3ca5cf0-45e4-11e9-b578-494a5b19ab8b,decrease,heat,none
+d46c5400-45e4-11e9-b578-494a5b19ab8b,decrease,heat,bedroom
+f87a1b50-4546-11e9-aa52-bf2189a03a60,activate,lamp,none
+b1277360-4500-11e9-a1ea-79ca03012c0e,bring,socks,none
+e65a3790-45da-11e9-81ce-69b74fd7e64e,decrease,volume,none
+a0f24830-460e-11e9-bc65-55b32b211b66,decrease,heat,bedroom
+857a7cb0-45f2-11e9-aa19-e96346c3828f,activate,lights,kitchen
+48674fc0-44cf-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+b91485e0-45c3-11e9-8ec0-7bf21d1cfe30,change language,none,none
+658c5a90-45f2-11e9-aa19-e96346c3828f,activate,lamp,none
+def3a530-45fe-11e9-bc65-55b32b211b66,decrease,heat,none
+2b99a2a0-45ef-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+bdbfc1f0-4464-11e9-beaa-1f3e1eab7bff,increase,volume,none
+89d7e0f0-4411-11e9-85a0-dd11eb2f13b6,activate,music,none
+389eeaf0-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+634252e0-4597-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+3f2d0890-45d4-11e9-9992-dfba019cb646,activate,lights,kitchen
+137e1630-453e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+5103d390-457b-11e9-9600-8f19ade2128c,change language,English,none
+9bef9a70-4606-11e9-bc65-55b32b211b66,change language,none,none
+de30abd0-4468-11e9-beaa-1f3e1eab7bff,bring,socks,none
+e61061c0-4534-11e9-b1e4-e5985dca719e,bring,juice,none
+3ebaf140-44e1-11e9-bb82-bdba769643e7,decrease,heat,none
+8f53af30-45ee-11e9-aa19-e96346c3828f,activate,lights,kitchen
+79ae6350-4413-11e9-85a0-dd11eb2f13b6,decrease,volume,none
+662dcf20-454c-11e9-aa52-bf2189a03a60,change language,Korean,none
+9ef72fc0-45f3-11e9-aa19-e96346c3828f,increase,heat,bedroom
+0b8d9950-4520-11e9-a843-8db76f4b5e29,deactivate,lights,kitchen
+678acc10-4515-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+03bd8dd0-44e3-11e9-bb82-bdba769643e7,deactivate,lamp,none
+7597e930-459e-11e9-bf4b-216bfa333ac2,decrease,heat,bedroom
+705788d0-45db-11e9-81ce-69b74fd7e64e,decrease,volume,none
+8d863f40-454b-11e9-aa52-bf2189a03a60,decrease,volume,none
+7445f680-45da-11e9-81ce-69b74fd7e64e,decrease,volume,none
+89478de0-457c-11e9-9600-8f19ade2128c,decrease,volume,none
+8b0d29b0-45df-11e9-81ce-69b74fd7e64e,increase,heat,none
+f8b35b30-447f-11e9-a9a5-5dbec3b8816a,activate,lights,bedroom
+e61f1490-4480-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+4a3a3900-44e5-11e9-bb82-bdba769643e7,change language,none,none
+762fa010-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+cd025390-4576-11e9-9600-8f19ade2128c,decrease,volume,none
+b3eacdd0-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+4280ffe0-4563-11e9-9600-8f19ade2128c,change language,none,none
+bf82e3b0-45ee-11e9-aa19-e96346c3828f,activate,lamp,none
+3195af30-4470-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+1fdb4200-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+6b79fb30-4613-11e9-bc65-55b32b211b66,decrease,volume,none
+851adff0-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+34403680-4504-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+54bdb8c0-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+8343b170-45f0-11e9-aa19-e96346c3828f,activate,lights,none
+05d156c0-45a0-11e9-bf4b-216bfa333ac2,activate,lights,washroom
+98086c50-44e1-11e9-bb82-bdba769643e7,decrease,heat,washroom
+d49d32a0-4521-11e9-a843-8db76f4b5e29,change language,Chinese,none
+9ff3f610-44d1-11e9-a8b6-e96f2628bf65,decrease,volume,none
+4cb4f900-4511-11e9-9539-7f047cfe24d1,decrease,volume,none
+d8c10800-44fb-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+77f088f0-45cf-11e9-9992-dfba019cb646,increase,heat,washroom
+5d431170-4436-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+36bb8a40-4455-11e9-beaa-1f3e1eab7bff,change language,English,none
+8cb307d0-44ea-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+94ca0800-44d2-11e9-a8b6-e96f2628bf65,decrease,volume,none
+163c88c0-45d4-11e9-9992-dfba019cb646,decrease,volume,none
+9b715db0-44dd-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+8ca4b940-4595-11e9-9600-8f19ade2128c,decrease,volume,none
+48859760-45e6-11e9-b578-494a5b19ab8b,deactivate,lights,none
+19eee8c0-45dc-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+9a0a9230-4513-11e9-9539-7f047cfe24d1,bring,juice,none
+729f0510-455d-11e9-aa52-bf2189a03a60,change language,none,none
+6f1feb70-4594-11e9-9600-8f19ade2128c,decrease,volume,none
+bca009b0-45db-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+bfa72610-4555-11e9-aa52-bf2189a03a60,decrease,volume,none
+136fe720-45c7-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+5f5d9150-4518-11e9-9035-7943ec3b842a,activate,lights,none
+150c8770-4417-11e9-85a0-dd11eb2f13b6,deactivate,lights,none
+0d8385a0-450f-11e9-9539-7f047cfe24d1,decrease,volume,none
+a306a850-4555-11e9-aa52-bf2189a03a60,decrease,volume,none
+590da430-45ee-11e9-aa19-e96346c3828f,activate,lights,bedroom
+ec1fbdd0-44ea-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+22020490-4454-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+f8921510-45d3-11e9-9992-dfba019cb646,deactivate,lights,none
+ae37fa30-4474-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+d4892a70-459a-11e9-bf4b-216bfa333ac2,change language,German,none
+74576140-454e-11e9-aa52-bf2189a03a60,change language,none,none
+6db274e0-4438-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+d3ca6f00-4481-11e9-a9a5-5dbec3b8816a,activate,music,none
+6f6c8d00-4561-11e9-9600-8f19ade2128c,deactivate,lights,washroom
+43363940-446a-11e9-beaa-1f3e1eab7bff,activate,lights,none
+291e47a0-4519-11e9-9035-7943ec3b842a,activate,lamp,none
+a4d56090-4523-11e9-a843-8db76f4b5e29,increase,heat,washroom
+953d2120-444e-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+5fd0b390-451a-11e9-9035-7943ec3b842a,increase,heat,bedroom
+6bfcd1a0-4464-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+cc0bb7c0-45e8-11e9-b578-494a5b19ab8b,decrease,heat,none
+3e8e95e0-4438-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+476d75e0-4510-11e9-9539-7f047cfe24d1,change language,Chinese,none
+ef756f60-4464-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+8a382610-4595-11e9-9600-8f19ade2128c,decrease,volume,none
+e1b30ed0-44f7-11e9-a1ea-79ca03012c0e,decrease,volume,none
+27a841b0-44d2-11e9-a8b6-e96f2628bf65,deactivate,lights,kitchen
+bb66a270-4432-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+6bc25e70-4519-11e9-9035-7943ec3b842a,increase,volume,none
+d72710c0-45f0-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+57a39220-4518-11e9-9035-7943ec3b842a,decrease,volume,none
+faaea500-453a-11e9-b1e4-e5985dca719e,increase,volume,none
+202ebf80-45e6-11e9-b578-494a5b19ab8b,change language,none,none
+63063370-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+1f65ba90-446f-11e9-a9a5-5dbec3b8816a,change language,none,none
+2955ae50-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,none
+39143110-45e6-11e9-b578-494a5b19ab8b,activate,lights,washroom
+dff95330-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+70b29c20-4612-11e9-bc65-55b32b211b66,activate,lamp,none
+0ff300d0-44d4-11e9-a8b6-e96f2628bf65,bring,shoes,none
+1099b7a0-4451-11e9-beaa-1f3e1eab7bff,change language,German,none
+a921ac40-454f-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+2e86a920-452e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+b59bba20-4413-11e9-85a0-dd11eb2f13b6,increase,heat,none
+2e7116a0-4470-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+e5349440-44d2-11e9-a8b6-e96f2628bf65,increase,heat,none
+3249c600-45ba-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+c797d7f0-459d-11e9-bf4b-216bfa333ac2,increase,heat,none
+be0d6eb0-4512-11e9-9539-7f047cfe24d1,decrease,volume,none
+d0330dc0-45fd-11e9-bc65-55b32b211b66,deactivate,lights,kitchen
+b6994390-453d-11e9-b1e4-e5985dca719e,change language,none,none
+4c121140-446c-11e9-beaa-1f3e1eab7bff,change language,German,none
+f292ad90-4467-11e9-beaa-1f3e1eab7bff,increase,heat,none
+5920ce20-45da-11e9-81ce-69b74fd7e64e,bring,juice,none
+d978cc20-45f4-11e9-aa19-e96346c3828f,bring,newspaper,none
+a0b250e0-457d-11e9-9600-8f19ade2128c,change language,Korean,none
+36e455c0-4607-11e9-bc65-55b32b211b66,activate,lights,kitchen
+cfd27320-447c-11e9-a9a5-5dbec3b8816a,increase,heat,kitchen
+0d5b7160-44a5-11e9-a9a5-5dbec3b8816a,deactivate,lamp,none
+630b05e0-45fd-11e9-bc65-55b32b211b66,activate,music,none
+1b436c80-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+facb0b70-44de-11e9-a8b6-e96f2628bf65,deactivate,music,none
+cbe834f0-460e-11e9-bc65-55b32b211b66,decrease,heat,washroom
+3c8d7930-44fd-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+9dcee3d0-452c-11e9-b1e4-e5985dca719e,deactivate,lamp,none
+166ab200-4542-11e9-b1e4-e5985dca719e,change language,Korean,none
+aa3bee40-45f1-11e9-aa19-e96346c3828f,increase,heat,washroom
+39dd3e80-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+af2931c0-4555-11e9-aa52-bf2189a03a60,decrease,volume,none
+69bf3830-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+7c93f3d0-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+ebcaecd0-4547-11e9-aa52-bf2189a03a60,increase,volume,none
+78232eb0-45f0-11e9-aa19-e96346c3828f,change language,English,none
+7bcae8e0-460f-11e9-bc65-55b32b211b66,activate,lights,bedroom
+83f0a010-453c-11e9-b1e4-e5985dca719e,activate,lamp,none
+c1ba6890-44fb-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+68282d10-44df-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+a8d71b40-453a-11e9-b1e4-e5985dca719e,bring,shoes,none
+ac1c53d0-453d-11e9-b1e4-e5985dca719e,decrease,heat,none
+85c14ae0-460c-11e9-bc65-55b32b211b66,increase,volume,none
+e803e030-45eb-11e9-aa19-e96346c3828f,deactivate,lights,none
+e7e9fa30-4528-11e9-a843-8db76f4b5e29,bring,juice,none
+71c2c180-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+0887f780-447d-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+df891c50-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+32e86f00-4612-11e9-bc65-55b32b211b66,increase,volume,none
+2d6f5cd0-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+eef410c0-446c-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+9f3bde10-45ec-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+279c3840-45d9-11e9-81ce-69b74fd7e64e,decrease,volume,none
+a8c0d610-45e8-11e9-b578-494a5b19ab8b,activate,lights,washroom
+7e657540-45e0-11e9-81ce-69b74fd7e64e,change language,German,none
+816d2820-44fd-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+175a6f20-45c4-11e9-8ec0-7bf21d1cfe30,activate,music,none
+587d9710-451b-11e9-9035-7943ec3b842a,deactivate,music,none
+b790ed30-4541-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+243d8590-4468-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+2cc9ad90-4483-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+77426cb0-4521-11e9-a843-8db76f4b5e29,activate,music,none
+1da52060-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+877c4cf0-453e-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+5e7bbcc0-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+d149ba70-45e8-11e9-b578-494a5b19ab8b,decrease,heat,none
+27670240-453b-11e9-b1e4-e5985dca719e,increase,volume,none
+3596a970-45ee-11e9-aa19-e96346c3828f,change language,none,none
+59e7d660-45d4-11e9-9992-dfba019cb646,activate,lights,kitchen
+435a96d0-453e-11e9-b1e4-e5985dca719e,activate,music,none
+57b52d50-4473-11e9-a9a5-5dbec3b8816a,bring,shoes,none
+42856e60-443f-11e9-beaa-1f3e1eab7bff,deactivate,lights,none
+56b18f60-4578-11e9-9600-8f19ade2128c,deactivate,lights,none
+37474a30-45ef-11e9-aa19-e96346c3828f,deactivate,lights,washroom
+c91b20d0-44d2-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+0c8a7310-4524-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+51fba910-4523-11e9-a843-8db76f4b5e29,decrease,volume,none
+28345270-453d-11e9-b1e4-e5985dca719e,bring,newspaper,none
+fb573310-45d4-11e9-9992-dfba019cb646,increase,volume,none
+cd31ac10-45e6-11e9-b578-494a5b19ab8b,decrease,volume,none
+f3ed4320-45e9-11e9-b578-494a5b19ab8b,activate,music,none
+9fe132c0-4510-11e9-9539-7f047cfe24d1,deactivate,music,none
+a08f7ab0-453d-11e9-b1e4-e5985dca719e,increase,heat,bedroom
+48cf85c0-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+ee0a6ec0-4606-11e9-bc65-55b32b211b66,increase,volume,none
+a654aa60-451f-11e9-a843-8db76f4b5e29,activate,lights,none
+60b9baa0-4483-11e9-a9a5-5dbec3b8816a,bring,socks,none
+eaeeaa70-45f3-11e9-aa19-e96346c3828f,decrease,heat,none
+533ac020-4520-11e9-a843-8db76f4b5e29,change language,English,none
+f596d520-44d0-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+a8079730-45f3-11e9-aa19-e96346c3828f,increase,heat,bedroom
+e50fc3a0-44d1-11e9-a8b6-e96f2628bf65,activate,lights,kitchen
+197de9a0-453b-11e9-b1e4-e5985dca719e,increase,volume,none
+740a8000-446d-11e9-beaa-1f3e1eab7bff,increase,heat,none
+355c4fa0-45da-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+dbcf0850-451c-11e9-9035-7943ec3b842a,change language,none,none
+849156e0-44ce-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+954f2fd0-44cd-11e9-a8b6-e96f2628bf65,activate,music,none
+03d34340-44e4-11e9-bb82-bdba769643e7,decrease,volume,none
+8922baa0-45e6-11e9-b578-494a5b19ab8b,increase,volume,none
+7327fe70-454d-11e9-aa52-bf2189a03a60,activate,lights,bedroom
+79cee930-444b-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+aa1aaba0-45e6-11e9-b578-494a5b19ab8b,decrease,volume,none
+11ab5310-446f-11e9-a9a5-5dbec3b8816a,bring,shoes,none
+4f985e20-44f6-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+07648fa0-454d-11e9-aa52-bf2189a03a60,activate,music,none
+812d8b30-45ba-11e9-8ec0-7bf21d1cfe30,change language,none,none
+44a19d20-453b-11e9-b1e4-e5985dca719e,decrease,volume,none
+773d6c10-444f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+6b9add80-444e-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+42df55d0-460e-11e9-bc65-55b32b211b66,increase,heat,washroom
+4bf2d5f0-451b-11e9-9035-7943ec3b842a,decrease,heat,washroom
+c40e5b80-457b-11e9-9600-8f19ade2128c,activate,lights,kitchen
+0e798f40-45dc-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+c2abd960-453b-11e9-b1e4-e5985dca719e,increase,heat,bedroom
+ecb70c80-4481-11e9-a9a5-5dbec3b8816a,activate,lights,kitchen
+02f3e150-4548-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+40dbee30-446d-11e9-beaa-1f3e1eab7bff,increase,volume,none
+7c3cce80-4554-11e9-aa52-bf2189a03a60,activate,lamp,none
+3d3bc9b0-4541-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+81e619e0-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+49f03600-4609-11e9-bc65-55b32b211b66,decrease,volume,none
+8154be90-4483-11e9-a9a5-5dbec3b8816a,change language,none,none
+7df70da0-44d0-11e9-a8b6-e96f2628bf65,deactivate,lights,none
+feaaeb70-44e3-11e9-bb82-bdba769643e7,decrease,volume,none
+f5f93900-4597-11e9-bf4b-216bfa333ac2,activate,music,none
+e34f8810-45b8-11e9-8ec0-7bf21d1cfe30,deactivate,lights,washroom
+9de45140-45d4-11e9-9992-dfba019cb646,deactivate,lights,kitchen
+8a59f380-4464-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+0da68700-460c-11e9-bc65-55b32b211b66,deactivate,lights,bedroom
+36fab7e0-44de-11e9-a8b6-e96f2628bf65,activate,music,none
+5e5c2a00-45e0-11e9-81ce-69b74fd7e64e,change language,none,none
+d9654b30-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+b93a1340-4597-11e9-bf4b-216bfa333ac2,bring,socks,none
+e8bb3c90-45db-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+157ddee0-446f-11e9-a9a5-5dbec3b8816a,bring,shoes,none
+2d476030-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+56001320-454b-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+9fe470a0-451c-11e9-9035-7943ec3b842a,bring,shoes,none
+a73bf600-4483-11e9-a9a5-5dbec3b8816a,change language,German,none
+23c461b0-44db-11e9-a8b6-e96f2628bf65,increase,volume,none
+93e06210-45d4-11e9-9992-dfba019cb646,activate,lights,washroom
+87c9a310-4511-11e9-9539-7f047cfe24d1,activate,lights,bedroom
+530d96c0-45fe-11e9-bc65-55b32b211b66,decrease,volume,none
+f9728a40-4534-11e9-b1e4-e5985dca719e,bring,socks,none
+99e26920-45b5-11e9-8ec0-7bf21d1cfe30,increase,heat,bedroom
+f8ffe5b0-460d-11e9-bc65-55b32b211b66,increase,heat,bedroom
+46bd7380-44d3-11e9-a8b6-e96f2628bf65,deactivate,music,none
+3020fa30-4518-11e9-9035-7943ec3b842a,decrease,volume,none
+45ed9c50-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+53765070-454a-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+da87bd40-4506-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+6bebc220-454a-11e9-aa52-bf2189a03a60,deactivate,lights,bedroom
+e62a24a0-441e-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+3ecaf740-4467-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+bbcf4730-4612-11e9-bc65-55b32b211b66,activate,lights,washroom
+4c7bf430-44fc-11e9-a1ea-79ca03012c0e,increase,volume,none
+5527c920-441a-11e9-85a0-dd11eb2f13b6,increase,heat,bedroom
+0e9e2df0-44ce-11e9-a8b6-e96f2628bf65,increase,volume,none
+0f74d4c0-4453-11e9-beaa-1f3e1eab7bff,change language,English,none
+c9f3bd60-455d-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+67a18360-454c-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+ad6b4820-45e4-11e9-b578-494a5b19ab8b,decrease,volume,none
+1b531110-4536-11e9-b1e4-e5985dca719e,decrease,volume,none
+543e69e0-45e3-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+2d859240-447d-11e9-a9a5-5dbec3b8816a,decrease,heat,none
+e45b01e0-453a-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+3bc38020-45c6-11e9-8ec0-7bf21d1cfe30,deactivate,lights,none
+4450cb20-4595-11e9-9600-8f19ade2128c,increase,volume,none
+cb502ad0-4536-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+f8b21d30-45f4-11e9-aa19-e96346c3828f,bring,socks,none
+b0211ff0-454d-11e9-aa52-bf2189a03a60,deactivate,lights,kitchen
+c32c4670-455b-11e9-aa52-bf2189a03a60,decrease,heat,none
+e665b9f0-4411-11e9-85a0-dd11eb2f13b6,activate,lights,washroom
+a9c2cd70-457f-11e9-9600-8f19ade2128c,change language,Chinese,none
+c3bcfb00-45da-11e9-81ce-69b74fd7e64e,activate,lights,none
+9d791a20-4515-11e9-9035-7943ec3b842a,increase,volume,none
+51c2a270-4549-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+6920e520-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+2d5a91c0-4519-11e9-9035-7943ec3b842a,deactivate,lamp,none
+ed2492d0-446a-11e9-beaa-1f3e1eab7bff,increase,volume,none
+7a42f5c0-4511-11e9-9539-7f047cfe24d1,activate,lights,kitchen
+0f605a80-4594-11e9-9600-8f19ade2128c,increase,volume,none
+d91fb070-45c4-11e9-8ec0-7bf21d1cfe30,deactivate,lights,kitchen
+db0a5eb0-459e-11e9-bf4b-216bfa333ac2,bring,shoes,none
+8b85cc70-452c-11e9-b1e4-e5985dca719e,deactivate,lights,none
+91096780-4417-11e9-85a0-dd11eb2f13b6,activate,lamp,none
+0d3883c0-45dc-11e9-81ce-69b74fd7e64e,decrease,volume,none
+0bfa0380-441f-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+91fee0d0-4524-11e9-a843-8db76f4b5e29,change language,German,none
+ed123aa0-45db-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+30103d10-4533-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+f23fa4b0-459d-11e9-bf4b-216bfa333ac2,increase,heat,bedroom
+e418ba00-4540-11e9-b1e4-e5985dca719e,increase,volume,none
+7a506570-4520-11e9-a843-8db76f4b5e29,change language,Korean,none
+ab4f5f40-45df-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+318c08c0-4611-11e9-bc65-55b32b211b66,bring,newspaper,none
+889d5f80-449d-11e9-a9a5-5dbec3b8816a,increase,volume,none
+48034800-45e6-11e9-b578-494a5b19ab8b,change language,English,none
+d3642cb0-453d-11e9-b1e4-e5985dca719e,change language,Chinese,none
+0a427f80-44cf-11e9-a8b6-e96f2628bf65,bring,socks,none
+03df57f0-4536-11e9-b1e4-e5985dca719e,deactivate,lights,none
+a7db2dd0-45e4-11e9-b578-494a5b19ab8b,increase,volume,none
+7789ec00-45dc-11e9-81ce-69b74fd7e64e,change language,none,none
+8aafa6a0-44fe-11e9-a1ea-79ca03012c0e,change language,German,none
+30580fd0-4454-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+9cfc8ec0-4523-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+423a7930-45e0-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+bc47ef90-44d3-11e9-a8b6-e96f2628bf65,increase,volume,none
+dcc40890-44cd-11e9-a8b6-e96f2628bf65,deactivate,lights,kitchen
+6c038ca0-460a-11e9-bc65-55b32b211b66,change language,none,none
+f98a4040-459d-11e9-bf4b-216bfa333ac2,increase,heat,bedroom
+969cdd70-45e9-11e9-b578-494a5b19ab8b,decrease,heat,none
+a284ef80-4434-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+070c4f80-45e7-11e9-b578-494a5b19ab8b,increase,heat,bedroom
+f576fa90-45a0-11e9-bf4b-216bfa333ac2,increase,heat,washroom
+2412abf0-44df-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+e05187a0-4476-11e9-a9a5-5dbec3b8816a,change language,none,none
+fb087440-457b-11e9-9600-8f19ade2128c,deactivate,lights,kitchen
+1779c120-457b-11e9-9600-8f19ade2128c,bring,socks,none
+4e90bba0-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+ed3c7ec0-45b6-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+5c6b4440-44d4-11e9-a8b6-e96f2628bf65,increase,volume,none
+b3d1ea00-44ec-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+a2716360-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,none
+01583c20-446b-11e9-beaa-1f3e1eab7bff,increase,volume,none
+d560de40-45c5-11e9-8ec0-7bf21d1cfe30,increase,heat,kitchen
+d4441880-4555-11e9-aa52-bf2189a03a60,decrease,volume,none
+dcdbaaa0-454e-11e9-aa52-bf2189a03a60,change language,Korean,none
+1850eb00-45ee-11e9-aa19-e96346c3828f,decrease,heat,none
+48edf720-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+2c343c90-454d-11e9-aa52-bf2189a03a60,increase,heat,none
+a0cb1420-45ed-11e9-aa19-e96346c3828f,increase,heat,none
+8b9115f0-444e-11e9-beaa-1f3e1eab7bff,deactivate,lamp,none
+0f2ad7c0-4535-11e9-b1e4-e5985dca719e,bring,shoes,none
+be4f46e0-4608-11e9-bc65-55b32b211b66,decrease,heat,bedroom
+46fc4c80-446b-11e9-beaa-1f3e1eab7bff,increase,heat,none
+4fe89f60-4556-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+76669620-45e6-11e9-b578-494a5b19ab8b,increase,volume,none
+a70f0040-454c-11e9-aa52-bf2189a03a60,increase,volume,none
+64c7b260-45ef-11e9-aa19-e96346c3828f,increase,volume,none
+85184db0-446c-11e9-beaa-1f3e1eab7bff,deactivate,lights,none
+46b10a00-45dc-11e9-81ce-69b74fd7e64e,bring,juice,none
+e92e49d0-4453-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+a84261d0-45e9-11e9-b578-494a5b19ab8b,decrease,volume,none
+fdc172c0-45c8-11e9-8ec0-7bf21d1cfe30,activate,lights,bedroom
+353e5f00-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,none
+88f557d0-44cf-11e9-a8b6-e96f2628bf65,decrease,heat,none
+243f6530-4577-11e9-9600-8f19ade2128c,increase,heat,bedroom
+61467e30-446b-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+f467acf0-446d-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+ba4ae690-4611-11e9-bc65-55b32b211b66,change language,none,none
+93ad42f0-45ba-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+d06da910-4479-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+6e9e0330-4481-11e9-a9a5-5dbec3b8816a,change language,Korean,none
+dc9792a0-44d3-11e9-a8b6-e96f2628bf65,increase,volume,none
+9da892f0-4533-11e9-b1e4-e5985dca719e,increase,heat,washroom
+dd2a0ff0-45d6-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+b880abc0-453e-11e9-b1e4-e5985dca719e,increase,heat,washroom
+2f9826f0-446f-11e9-a9a5-5dbec3b8816a,change language,none,none
+851b85e0-45c8-11e9-8ec0-7bf21d1cfe30,deactivate,lights,none
+e3a45ae0-4520-11e9-a843-8db76f4b5e29,increase,heat,washroom
+8600dd40-454e-11e9-aa52-bf2189a03a60,change language,none,none
+73a5dc40-44e5-11e9-bb82-bdba769643e7,change language,Chinese,none
+66e327b0-4594-11e9-9600-8f19ade2128c,increase,volume,none
+e8b92ca0-45ce-11e9-9992-dfba019cb646,deactivate,lights,washroom
+b73b8d30-4470-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+5d405c10-4467-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+3ac55f20-45c8-11e9-8ec0-7bf21d1cfe30,change language,English,none
+5a79efc0-457d-11e9-9600-8f19ade2128c,bring,shoes,none
+f1292290-4453-11e9-beaa-1f3e1eab7bff,increase,volume,none
+09941640-44ff-11e9-a1ea-79ca03012c0e,deactivate,lamp,none
+ecc12930-4482-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+1201c120-4517-11e9-9035-7943ec3b842a,change language,none,none
+78cb27e0-4416-11e9-85a0-dd11eb2f13b6,change language,none,none
+a5334180-45f3-11e9-aa19-e96346c3828f,increase,heat,bedroom
+5c149840-4612-11e9-bc65-55b32b211b66,deactivate,music,none
+36495ed0-45c6-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+bff6e5a0-4506-11e9-a1ea-79ca03012c0e,deactivate,lamp,none
+2536cce0-451c-11e9-9035-7943ec3b842a,activate,music,none
+62919f90-44de-11e9-a8b6-e96f2628bf65,increase,volume,none
+22e4ec60-45c6-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+d3741780-45c7-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+4c8761e0-4528-11e9-a843-8db76f4b5e29,decrease,heat,kitchen
+83a4d380-460c-11e9-bc65-55b32b211b66,increase,volume,none
+7bf7fc10-45fe-11e9-bc65-55b32b211b66,increase,heat,bedroom
+79030960-45da-11e9-81ce-69b74fd7e64e,activate,lights,none
+a8557270-45da-11e9-81ce-69b74fd7e64e,deactivate,music,none
+9ac535a0-44d1-11e9-a8b6-e96f2628bf65,increase,volume,none
+64fb2d30-45e9-11e9-b578-494a5b19ab8b,deactivate,lights,bedroom
+c8f9ed90-446c-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+c56daf80-459e-11e9-bf4b-216bfa333ac2,bring,juice,none
+0ba501b0-444b-11e9-beaa-1f3e1eab7bff,deactivate,lights,none
+3f786e10-4553-11e9-aa52-bf2189a03a60,change language,Korean,none
+7a25dff0-4555-11e9-aa52-bf2189a03a60,increase,volume,none
+118c2010-45d4-11e9-9992-dfba019cb646,increase,volume,none
+9121dc50-45ea-11e9-b578-494a5b19ab8b,increase,volume,none
+8258ff00-450e-11e9-9539-7f047cfe24d1,activate,lights,washroom
+b49f1c10-454f-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+541025a0-452d-11e9-b1e4-e5985dca719e,change language,Korean,none
+65ae10d0-4599-11e9-bf4b-216bfa333ac2,decrease,volume,none
+35d5c700-457a-11e9-9600-8f19ade2128c,increase,heat,none
+73e2c5e0-45f0-11e9-aa19-e96346c3828f,decrease,heat,washroom
+73dca860-4611-11e9-bc65-55b32b211b66,bring,shoes,none
+ed68ae30-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+205e7de0-45ed-11e9-aa19-e96346c3828f,increase,heat,none
+d084a080-454a-11e9-aa52-bf2189a03a60,decrease,volume,none
+ca852670-4435-11e9-beaa-1f3e1eab7bff,deactivate,lamp,none
+68599790-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+aa35b8f0-44ce-11e9-a8b6-e96f2628bf65,decrease,heat,kitchen
+cd2478a0-4515-11e9-9035-7943ec3b842a,bring,newspaper,none
+bf7f7040-4549-11e9-aa52-bf2189a03a60,bring,shoes,none
+ac89f370-4521-11e9-a843-8db76f4b5e29,bring,socks,none
+a7892df0-457b-11e9-9600-8f19ade2128c,activate,lamp,none
+6657d2e0-452c-11e9-b1e4-e5985dca719e,decrease,volume,none
+08130390-4607-11e9-bc65-55b32b211b66,decrease,heat,none
+b5289850-4608-11e9-bc65-55b32b211b66,decrease,heat,kitchen
+23f50440-44ff-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+06ed1630-440f-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+0ac21080-4563-11e9-9600-8f19ade2128c,bring,juice,none
+d216d8e0-4500-11e9-a1ea-79ca03012c0e,change language,none,none
+01975660-457b-11e9-9600-8f19ade2128c,bring,newspaper,none
+685784c0-457f-11e9-9600-8f19ade2128c,bring,socks,none
+9c60a640-450a-11e9-9539-7f047cfe24d1,increase,volume,none
+7a6e9120-4436-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+6d4284b0-44eb-11e9-a1ea-79ca03012c0e,bring,socks,none
+62dfd600-45e3-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+bc456290-4607-11e9-bc65-55b32b211b66,decrease,volume,none
+26aea1f0-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+1ce48010-45f2-11e9-aa19-e96346c3828f,increase,volume,none
+b2685a10-444b-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+22f97ea0-45ee-11e9-aa19-e96346c3828f,increase,heat,washroom
+004725b0-45e9-11e9-b578-494a5b19ab8b,increase,volume,none
+1e0716d0-45e1-11e9-81ce-69b74fd7e64e,decrease,heat,none
+1b9c13f0-4465-11e9-beaa-1f3e1eab7bff,increase,heat,none
+3f746f70-45a0-11e9-bf4b-216bfa333ac2,deactivate,lights,washroom
+99b19cf0-4538-11e9-b1e4-e5985dca719e,decrease,heat,kitchen
+3b85edb0-44d0-11e9-a8b6-e96f2628bf65,decrease,volume,none
+47e53770-441f-11e9-beaa-1f3e1eab7bff,change language,English,none
+3ac44450-45e1-11e9-81ce-69b74fd7e64e,deactivate,lamp,none
+14b60fd0-45d4-11e9-9992-dfba019cb646,activate,lamp,none
+47195940-454e-11e9-aa52-bf2189a03a60,bring,socks,none
+81616680-4538-11e9-b1e4-e5985dca719e,decrease,heat,none
+399a25c0-45ed-11e9-aa19-e96346c3828f,increase,heat,kitchen
+b87e0c00-4433-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+f88931c0-44de-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+3cc34f00-45e9-11e9-b578-494a5b19ab8b,activate,lights,washroom
+a81f70c0-454a-11e9-aa52-bf2189a03a60,activate,music,none
+de27bbd0-4510-11e9-9539-7f047cfe24d1,activate,lights,washroom
+05ffb510-4474-11e9-a9a5-5dbec3b8816a,activate,lights,none
+92c6eb90-44ff-11e9-a1ea-79ca03012c0e,increase,volume,none
+46861140-444e-11e9-beaa-1f3e1eab7bff,activate,lights,none
+594bf0f0-44d6-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+c2043b70-44fe-11e9-a1ea-79ca03012c0e,activate,lights,none
+1ed0b320-4607-11e9-bc65-55b32b211b66,activate,lamp,none
+60079f50-449c-11e9-a9a5-5dbec3b8816a,deactivate,music,none
+12a5c6f0-44e3-11e9-bb82-bdba769643e7,activate,lights,kitchen
+fb33f700-45fd-11e9-bc65-55b32b211b66,increase,volume,none
+8729eb30-4512-11e9-9539-7f047cfe24d1,change language,Chinese,none
+12ddc0d0-45e9-11e9-b578-494a5b19ab8b,decrease,volume,none
+9590c7d0-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+d15e28a0-45ef-11e9-aa19-e96346c3828f,bring,shoes,none
+db718230-4520-11e9-a843-8db76f4b5e29,increase,heat,washroom
+ad605d80-4435-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+8565ee90-4416-11e9-85a0-dd11eb2f13b6,change language,none,none
+48ab91c0-45ed-11e9-aa19-e96346c3828f,increase,heat,bedroom
+2a7194d0-45d8-11e9-81ce-69b74fd7e64e,decrease,volume,none
+456472c0-454d-11e9-aa52-bf2189a03a60,activate,music,none
+94fd39d0-457e-11e9-9600-8f19ade2128c,decrease,volume,none
+bb557370-453a-11e9-b1e4-e5985dca719e,change language,none,none
+e016e9f0-45c6-11e9-8ec0-7bf21d1cfe30,bring,shoes,none
+40144780-4464-11e9-beaa-1f3e1eab7bff,activate,music,none
+86f5b930-457d-11e9-9600-8f19ade2128c,change language,Chinese,none
+07c3a370-4438-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+c888d9f0-45e5-11e9-b578-494a5b19ab8b,activate,music,none
+45b569a0-44e4-11e9-bb82-bdba769643e7,increase,heat,kitchen
+b804fca0-44fd-11e9-a1ea-79ca03012c0e,bring,newspaper,none
+6f103b00-4547-11e9-aa52-bf2189a03a60,activate,lights,washroom
+f67c0490-454a-11e9-aa52-bf2189a03a60,decrease,heat,none
+6b8bc3d0-4576-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+59867860-4517-11e9-9035-7943ec3b842a,deactivate,music,none
+a99b26f0-45dc-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+adbaa5e0-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+738feff0-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,kitchen
+5cc95ea0-4528-11e9-a843-8db76f4b5e29,deactivate,lights,washroom
+cba649c0-45e9-11e9-b578-494a5b19ab8b,decrease,heat,washroom
+c291c3a0-45e9-11e9-b578-494a5b19ab8b,decrease,heat,washroom
+176b3e50-441f-11e9-beaa-1f3e1eab7bff,change language,none,none
+cacea320-4554-11e9-aa52-bf2189a03a60,activate,lights,bedroom
+91247440-4501-11e9-a1ea-79ca03012c0e,deactivate,lights,washroom
+264b1490-4483-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+e1d90a60-4518-11e9-9035-7943ec3b842a,activate,lights,bedroom
+ac7bd030-4501-11e9-a1ea-79ca03012c0e,increase,volume,none
+240dc950-4534-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+ddc87810-4500-11e9-a1ea-79ca03012c0e,change language,German,none
+5c0346e0-45d5-11e9-9992-dfba019cb646,increase,volume,none
+86bce360-45d4-11e9-9992-dfba019cb646,activate,lights,washroom
+9edd6650-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+a954bd40-451a-11e9-9035-7943ec3b842a,increase,heat,washroom
+00a88c60-4535-11e9-b1e4-e5985dca719e,bring,socks,none
+6bee1e70-44ce-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+b8a18690-4504-11e9-a1ea-79ca03012c0e,decrease,volume,none
+b4e49f60-45e5-11e9-b578-494a5b19ab8b,increase,volume,none
+adaa5550-45d6-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+b2754560-44da-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+694bf870-45e3-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+f3536040-453d-11e9-b1e4-e5985dca719e,change language,English,none
+e17cd8e0-44d1-11e9-a8b6-e96f2628bf65,activate,music,none
+e1b477c0-44de-11e9-a8b6-e96f2628bf65,activate,lights,kitchen
+e0a9c410-4516-11e9-9035-7943ec3b842a,change language,none,none
+12f85c20-44d5-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+ac1a3a40-45e8-11e9-b578-494a5b19ab8b,increase,volume,none
+4622c2e0-450f-11e9-9539-7f047cfe24d1,activate,music,none
+cfac0f00-45f3-11e9-aa19-e96346c3828f,increase,heat,washroom
+1f818400-45f0-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+95184b30-45e7-11e9-b578-494a5b19ab8b,deactivate,music,none
+c96c7fb0-44d3-11e9-a8b6-e96f2628bf65,increase,volume,none
+1c552690-446c-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+54756990-454d-11e9-aa52-bf2189a03a60,deactivate,lamp,none
+6b979dc0-4541-11e9-b1e4-e5985dca719e,increase,heat,washroom
+6aa78a90-4453-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+38ce2110-451a-11e9-9035-7943ec3b842a,increase,heat,none
+d89c9a80-4413-11e9-85a0-dd11eb2f13b6,increase,heat,bedroom
+a9874de0-4539-11e9-b1e4-e5985dca719e,change language,Chinese,none
+b4796800-45c5-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+b604cac0-4548-11e9-aa52-bf2189a03a60,increase,heat,washroom
+60e4f290-45f2-11e9-aa19-e96346c3828f,activate,lamp,none
+4eb79540-455d-11e9-aa52-bf2189a03a60,bring,shoes,none
+ea8966a0-444b-11e9-beaa-1f3e1eab7bff,increase,volume,none
+8a4f8590-460c-11e9-bc65-55b32b211b66,increase,volume,none
+ef4d9ee0-441e-11e9-beaa-1f3e1eab7bff,bring,juice,none
+f8f34c50-452d-11e9-b1e4-e5985dca719e,increase,heat,washroom
+04074160-452d-11e9-b1e4-e5985dca719e,deactivate,lights,kitchen
+c99e4f90-454b-11e9-aa52-bf2189a03a60,bring,juice,none
+5bebe730-4539-11e9-b1e4-e5985dca719e,change language,none,none
+33a69ec0-4479-11e9-a9a5-5dbec3b8816a,increase,volume,none
+128651c0-4417-11e9-85a0-dd11eb2f13b6,activate,lights,none
+76cbe3b0-454e-11e9-aa52-bf2189a03a60,increase,volume,none
+af1f11a0-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+0e472400-4470-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+f01fe540-45da-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+3d6563d0-4517-11e9-9035-7943ec3b842a,change language,Chinese,none
+40463470-454a-11e9-aa52-bf2189a03a60,deactivate,lights,none
+bc82d1b0-44ff-11e9-a1ea-79ca03012c0e,decrease,volume,none
+a8cd9fb0-4419-11e9-85a0-dd11eb2f13b6,increase,volume,none
+6310a1b0-452d-11e9-b1e4-e5985dca719e,activate,lights,washroom
+0662ce50-4511-11e9-9539-7f047cfe24d1,deactivate,lights,none
+cebd6e70-45e1-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+9df68ad0-4602-11e9-bc65-55b32b211b66,decrease,volume,none
+75b73ac0-45cf-11e9-9992-dfba019cb646,increase,heat,washroom
+4c8701d0-452a-11e9-a843-8db76f4b5e29,activate,lights,washroom
+63a2d8c0-44ef-11e9-a1ea-79ca03012c0e,change language,Chinese,none
+0ae2caa0-4531-11e9-b1e4-e5985dca719e,activate,music,none
+fc563f50-44de-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+6ca0bf30-45d7-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+787e6340-441d-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+970f7240-4521-11e9-a843-8db76f4b5e29,bring,juice,none
+481bd820-452d-11e9-b1e4-e5985dca719e,activate,lights,washroom
+e3f24870-454f-11e9-aa52-bf2189a03a60,decrease,heat,bedroom
+173a6070-4576-11e9-9600-8f19ade2128c,activate,lights,none
+1cd7e7d0-45f0-11e9-aa19-e96346c3828f,increase,heat,kitchen
+a9615ce0-4519-11e9-9035-7943ec3b842a,increase,heat,none
+633eb120-45de-11e9-81ce-69b74fd7e64e,increase,volume,none
+79810110-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+afd89350-454f-11e9-aa52-bf2189a03a60,increase,heat,washroom
+45726fa0-4454-11e9-beaa-1f3e1eab7bff,increase,heat,none
+91d6ab30-45db-11e9-81ce-69b74fd7e64e,deactivate,lights,kitchen
+dcbf7d40-44e4-11e9-bb82-bdba769643e7,decrease,heat,washroom
+97820a70-4482-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+00e83990-459a-11e9-bf4b-216bfa333ac2,decrease,heat,kitchen
+92934e00-45e7-11e9-b578-494a5b19ab8b,deactivate,music,none
+ea5f08e0-45d8-11e9-81ce-69b74fd7e64e,increase,volume,none
+beeb5ff0-4480-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+3c4ecf80-446e-11e9-beaa-1f3e1eab7bff,bring,juice,none
+302b7940-460f-11e9-bc65-55b32b211b66,deactivate,music,none
+1ee3e260-4459-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+3c19c760-45cf-11e9-9992-dfba019cb646,increase,heat,none
+e64fccf0-45fe-11e9-bc65-55b32b211b66,decrease,heat,none
+599c6a30-453f-11e9-b1e4-e5985dca719e,change language,none,none
+baff3580-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,kitchen
+0cd6d690-45ee-11e9-aa19-e96346c3828f,bring,juice,none
+67c24c30-45d8-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+4a9917a0-45f2-11e9-aa19-e96346c3828f,deactivate,music,none
+cd9adff0-44fb-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+0eca7930-453e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+67cb1310-460a-11e9-bc65-55b32b211b66,change language,none,none
+3b608460-451d-11e9-9035-7943ec3b842a,change language,German,none
+18e540f0-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+03023d10-4433-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+06a70270-4541-11e9-b1e4-e5985dca719e,decrease,volume,none
+8502e740-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,none
+fd2d6af0-45da-11e9-81ce-69b74fd7e64e,increase,volume,none
+86eba390-446b-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+ae8eff40-45f2-11e9-aa19-e96346c3828f,activate,lights,bedroom
+df735800-44f7-11e9-a1ea-79ca03012c0e,decrease,volume,none
+717e8730-45dc-11e9-81ce-69b74fd7e64e,change language,none,none
+55540620-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+1b858e20-45b7-11e9-8ec0-7bf21d1cfe30,activate,lights,none
+41d27ec0-4513-11e9-9539-7f047cfe24d1,increase,heat,washroom
+ec509b80-45df-11e9-81ce-69b74fd7e64e,decrease,heat,none
+1da8c750-447a-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+d8325690-453d-11e9-b1e4-e5985dca719e,decrease,heat,none
+baf06340-45ee-11e9-aa19-e96346c3828f,increase,volume,none
+dd2a21e0-45d4-11e9-9992-dfba019cb646,increase,volume,none
+cd90f510-4520-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+16f42c50-454d-11e9-aa52-bf2189a03a60,deactivate,lights,none
+777e39a0-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,kitchen
+2525a3d0-4435-11e9-beaa-1f3e1eab7bff,bring,socks,none
+fd247850-447c-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+6ed614f0-4607-11e9-bc65-55b32b211b66,increase,volume,none
+53c11d00-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+026b90b0-4607-11e9-bc65-55b32b211b66,decrease,heat,none
+c3681540-440e-11e9-85a0-dd11eb2f13b6,increase,heat,none
+29fd4f60-45fd-11e9-bc65-55b32b211b66,increase,heat,none
+496cc0f0-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+86c3e920-44e0-11e9-bb82-bdba769643e7,decrease,volume,none
+9c2d5270-45d4-11e9-9992-dfba019cb646,activate,lights,washroom
+5c5f1090-45d7-11e9-81ce-69b74fd7e64e,activate,lights,kitchen
+9f6394c0-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+f4d43c30-45f3-11e9-aa19-e96346c3828f,decrease,heat,none
+01f6c2e0-4467-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+669c0270-4519-11e9-9035-7943ec3b842a,increase,volume,none
+0e921bd0-44d5-11e9-a8b6-e96f2628bf65,change language,Chinese,none
+25bc0bc0-45c7-11e9-8ec0-7bf21d1cfe30,change language,Korean,none
+4ec1eaa0-444e-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+c5c59b50-4521-11e9-a843-8db76f4b5e29,bring,shoes,none
+76675fd0-45ee-11e9-aa19-e96346c3828f,decrease,heat,washroom
+c6c436b0-450d-11e9-9539-7f047cfe24d1,decrease,volume,none
+e55c26a0-4468-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+40ba5840-4474-11e9-a9a5-5dbec3b8816a,decrease,heat,none
+8f777af0-45da-11e9-81ce-69b74fd7e64e,change language,none,none
+0df2c330-4504-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+2cb34770-45d8-11e9-81ce-69b74fd7e64e,decrease,volume,none
+037eed70-44ff-11e9-a1ea-79ca03012c0e,deactivate,lamp,none
+ef6b3290-44da-11e9-a8b6-e96f2628bf65,increase,volume,none
+3a5a21f0-460f-11e9-bc65-55b32b211b66,activate,music,none
+44cf9aa0-45ee-11e9-aa19-e96346c3828f,activate,music,none
+b3f255f0-457e-11e9-9600-8f19ade2128c,increase,heat,none
+35ed1360-45d9-11e9-81ce-69b74fd7e64e,change language,Korean,none
+58f0db20-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+27b2d060-44cf-11e9-a8b6-e96f2628bf65,change language,none,none
+b0166800-4541-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+19b23150-4541-11e9-b1e4-e5985dca719e,decrease,volume,none
+56fc2260-4577-11e9-9600-8f19ade2128c,increase,heat,washroom
+b3f36570-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,none
+a5095d50-452d-11e9-b1e4-e5985dca719e,increase,heat,none
+b2906480-4548-11e9-aa52-bf2189a03a60,increase,heat,washroom
+68f921d0-4454-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+657ecf60-45d9-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+d13d32d0-44e1-11e9-bb82-bdba769643e7,bring,juice,none
+3b00bfd0-45db-11e9-81ce-69b74fd7e64e,deactivate,lamp,none
+5ef98750-4473-11e9-a9a5-5dbec3b8816a,change language,none,none
+5c29fce0-44d1-11e9-a8b6-e96f2628bf65,increase,volume,none
+bb31d2f0-4547-11e9-aa52-bf2189a03a60,increase,volume,none
+0dc0e310-45db-11e9-81ce-69b74fd7e64e,deactivate,lights,kitchen
+03739000-45f5-11e9-aa19-e96346c3828f,change language,English,none
+166d4870-45a2-11e9-bf4b-216bfa333ac2,change language,none,none
+9d7e9b50-45b8-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+3da4a2c0-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+e9a7a950-45e4-11e9-b578-494a5b19ab8b,deactivate,lamp,none
+32ab9740-45c9-11e9-8ec0-7bf21d1cfe30,deactivate,lights,kitchen
+e7b42d10-453c-11e9-b1e4-e5985dca719e,deactivate,lights,kitchen
+4be488d0-4541-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+7c31d9e0-4413-11e9-85a0-dd11eb2f13b6,decrease,volume,none
+98875200-446d-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+55ea8ce0-45db-11e9-81ce-69b74fd7e64e,decrease,volume,none
+3154d560-450f-11e9-9539-7f047cfe24d1,increase,heat,kitchen
+9c625b90-4468-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+afa3bee0-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,none
+3acb4a80-4473-11e9-a9a5-5dbec3b8816a,bring,socks,none
+a9569950-45db-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+fd12e080-454a-11e9-aa52-bf2189a03a60,activate,lights,washroom
+536d47c0-45a2-11e9-bf4b-216bfa333ac2,change language,Chinese,none
+8cf5d790-4576-11e9-9600-8f19ade2128c,deactivate,lights,washroom
+fbe03fb0-4454-11e9-beaa-1f3e1eab7bff,bring,socks,none
+1890ec20-45ec-11e9-aa19-e96346c3828f,decrease,heat,none
+a6c0d280-4547-11e9-aa52-bf2189a03a60,increase,heat,none
+e31302b0-44a4-11e9-a9a5-5dbec3b8816a,activate,music,none
+7d3d7dd0-4521-11e9-a843-8db76f4b5e29,bring,newspaper,none
+ef96c4a0-45c5-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+bbd9e470-45e4-11e9-b578-494a5b19ab8b,increase,heat,none
+5a391cf0-45cf-11e9-9992-dfba019cb646,increase,heat,bedroom
+9d540bf0-44d3-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+9a01c240-4608-11e9-bc65-55b32b211b66,activate,lights,washroom
+ad9896d0-447d-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+bf92c620-4415-11e9-85a0-dd11eb2f13b6,bring,newspaper,none
+9c1b10d0-4451-11e9-beaa-1f3e1eab7bff,increase,volume,none
+87db7fd0-4481-11e9-a9a5-5dbec3b8816a,change language,English,none
+50f82250-4550-11e9-aa52-bf2189a03a60,increase,volume,none
+7e57e9f0-44de-11e9-a8b6-e96f2628bf65,increase,heat,none
+5d557520-45f0-11e9-aa19-e96346c3828f,increase,heat,washroom
+5809f1d0-45d8-11e9-81ce-69b74fd7e64e,increase,heat,none
+b6453560-4467-11e9-beaa-1f3e1eab7bff,increase,volume,none
+513cb410-460e-11e9-bc65-55b32b211b66,decrease,heat,none
+96ed0900-45d8-11e9-81ce-69b74fd7e64e,deactivate,lights,kitchen
+53fc5b40-4548-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+026fcbf0-4542-11e9-b1e4-e5985dca719e,change language,none,none
+5a9e4cb0-4435-11e9-beaa-1f3e1eab7bff,change language,Korean,none
+53906490-44fc-11e9-a1ea-79ca03012c0e,increase,volume,none
+a0b06df0-45f2-11e9-aa19-e96346c3828f,activate,lights,bedroom
+92b95390-459a-11e9-bf4b-216bfa333ac2,bring,shoes,none
+f09c60f0-4519-11e9-9035-7943ec3b842a,increase,heat,kitchen
+3cb518e0-4512-11e9-9539-7f047cfe24d1,bring,shoes,none
+73bfb4f0-4529-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+eda270e0-45d4-11e9-9992-dfba019cb646,increase,volume,none
+b7530b50-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+35637200-45ce-11e9-9992-dfba019cb646,increase,volume,none
+24853e00-460a-11e9-bc65-55b32b211b66,decrease,heat,washroom
+7508d8c0-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+c0b8a690-45d8-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+90ec29c0-454f-11e9-aa52-bf2189a03a60,increase,heat,washroom
+5e7d1960-4539-11e9-b1e4-e5985dca719e,change language,none,none
+87ee6390-44d9-11e9-a8b6-e96f2628bf65,activate,lights,kitchen
+69323fc0-443f-11e9-beaa-1f3e1eab7bff,increase,heat,none
+18f7e200-4541-11e9-b1e4-e5985dca719e,deactivate,music,none
+4f9b7d20-44cf-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+839b8bc0-44fb-11e9-a1ea-79ca03012c0e,decrease,volume,none
+0259d8e0-45c4-11e9-8ec0-7bf21d1cfe30,change language,Korean,none
+81911e60-444e-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+f251a5b0-4553-11e9-aa52-bf2189a03a60,decrease,volume,none
+f86defa0-45f1-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+e434e8c0-45e9-11e9-b578-494a5b19ab8b,deactivate,lamp,none
+5f52eb40-45ce-11e9-9992-dfba019cb646,decrease,heat,none
+0b6ae1f0-45d7-11e9-81ce-69b74fd7e64e,increase,heat,none
+76597bf0-45d4-11e9-9992-dfba019cb646,activate,lights,bedroom
+03f7e3d0-4548-11e9-aa52-bf2189a03a60,decrease,volume,none
+527efb10-45ed-11e9-aa19-e96346c3828f,increase,heat,bedroom
+03b33c10-457c-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+8b6dfb40-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+49875ef0-4541-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+48323870-443f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+95528bd0-4478-11e9-a9a5-5dbec3b8816a,activate,lamp,none
+7213ac60-460a-11e9-bc65-55b32b211b66,deactivate,music,none
+0655d6d0-44e1-11e9-bb82-bdba769643e7,increase,heat,washroom
+d8df8f70-459e-11e9-bf4b-216bfa333ac2,bring,socks,none
+4a50ef80-454c-11e9-aa52-bf2189a03a60,change language,Korean,none
+4a635650-455d-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+8e2875e0-454f-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+101bb650-4507-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+ae74e8d0-4548-11e9-aa52-bf2189a03a60,increase,heat,washroom
+9550a480-44cf-11e9-a8b6-e96f2628bf65,increase,volume,none
+23c5c2b0-4456-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+cdb861f0-451a-11e9-9035-7943ec3b842a,decrease,heat,kitchen
+2ed8a140-4550-11e9-aa52-bf2189a03a60,bring,newspaper,none
+e2693930-45d8-11e9-81ce-69b74fd7e64e,increase,volume,none
+35edf460-45f2-11e9-aa19-e96346c3828f,increase,heat,none
+967562a0-45c5-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+42dbdcc0-45f5-11e9-aa19-e96346c3828f,change language,Chinese,none
+cf843880-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+095deaf0-4416-11e9-85a0-dd11eb2f13b6,bring,newspaper,none
+dc34efe0-4539-11e9-b1e4-e5985dca719e,increase,volume,none
+634ab5c0-4533-11e9-b1e4-e5985dca719e,increase,heat,bedroom
+c48a7040-45f2-11e9-aa19-e96346c3828f,deactivate,lights,kitchen
+a66c1f90-4607-11e9-bc65-55b32b211b66,decrease,volume,none
+8ac697d0-443f-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+7839c4a0-44d7-11e9-a8b6-e96f2628bf65,change language,none,none
+a3ad0c20-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+69bdbef0-4594-11e9-9600-8f19ade2128c,increase,volume,none
+9a4b1da0-4513-11e9-9539-7f047cfe24d1,decrease,heat,kitchen
+4841de00-45ee-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+0981cb90-44a3-11e9-a9a5-5dbec3b8816a,activate,music,none
+24df8890-4481-11e9-a9a5-5dbec3b8816a,activate,music,none
+81238930-45f3-11e9-aa19-e96346c3828f,increase,heat,kitchen
+43c90aa0-45ef-11e9-aa19-e96346c3828f,increase,volume,none
+402e08a0-4536-11e9-b1e4-e5985dca719e,decrease,heat,none
+4759fa50-4412-11e9-85a0-dd11eb2f13b6,increase,volume,none
+e5cbd3f0-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+2eddfd70-4519-11e9-9035-7943ec3b842a,increase,volume,none
+ac8be810-4549-11e9-aa52-bf2189a03a60,bring,socks,none
+52f96e00-44f7-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+e512bf70-4606-11e9-bc65-55b32b211b66,activate,lights,none
+11609ac0-44f9-11e9-a1ea-79ca03012c0e,change language,Korean,none
+fbbf9630-45f2-11e9-aa19-e96346c3828f,increase,volume,none
+e7d9aa70-45c0-11e9-8ec0-7bf21d1cfe30,deactivate,lights,bedroom
+43567f10-45b5-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+af9a4c40-4517-11e9-9035-7943ec3b842a,activate,lights,washroom
+979a4d50-4546-11e9-aa52-bf2189a03a60,deactivate,music,none
+496aa000-45c1-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+50b27820-44df-11e9-a8b6-e96f2628bf65,bring,socks,none
+fcebc660-44cf-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+974bbb10-45e9-11e9-b578-494a5b19ab8b,increase,volume,none
+460257e0-4536-11e9-b1e4-e5985dca719e,decrease,heat,none
+33a5bd70-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,bedroom
+2ef9c0c0-45f3-11e9-aa19-e96346c3828f,increase,volume,none
+9ffbd930-446c-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+b07fb250-455b-11e9-aa52-bf2189a03a60,decrease,heat,none
+c6165350-45e5-11e9-b578-494a5b19ab8b,increase,heat,none
+a2352610-45da-11e9-81ce-69b74fd7e64e,decrease,heat,none
+f4b9b050-45e8-11e9-b578-494a5b19ab8b,bring,shoes,none
+3f7820f0-4548-11e9-aa52-bf2189a03a60,increase,heat,none
+d1abb3f0-4611-11e9-bc65-55b32b211b66,change language,German,none
+fc6d0330-4500-11e9-a1ea-79ca03012c0e,activate,music,none
+435899a0-44ff-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+760eca90-4464-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+8070b4c0-45c3-11e9-8ec0-7bf21d1cfe30,bring,newspaper,none
+88469210-454f-11e9-aa52-bf2189a03a60,deactivate,lamp,none
+c1a65a90-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+0b154690-44d4-11e9-a8b6-e96f2628bf65,decrease,volume,none
+67400040-453d-11e9-b1e4-e5985dca719e,decrease,volume,none
+dabb9050-457b-11e9-9600-8f19ade2128c,activate,lights,washroom
+0e19e680-4541-11e9-b1e4-e5985dca719e,decrease,volume,none
+1f62a450-44d2-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+c300ab50-4597-11e9-bf4b-216bfa333ac2,bring,shoes,none
+a1209c40-45ef-11e9-aa19-e96346c3828f,increase,heat,none
+21d29440-4511-11e9-9539-7f047cfe24d1,increase,heat,none
+6d6e29e0-45ee-11e9-aa19-e96346c3828f,activate,lights,washroom
+0e430960-45f1-11e9-aa19-e96346c3828f,change language,Chinese,none
+afeb94a0-44d7-11e9-a8b6-e96f2628bf65,change language,Chinese,none
+d6f17230-4479-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+7da9cc70-44da-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+4bdfbbe0-4607-11e9-bc65-55b32b211b66,increase,volume,none
+9557e850-454f-11e9-aa52-bf2189a03a60,activate,lights,none
+3f5a1aa0-44e5-11e9-bb82-bdba769643e7,bring,shoes,none
+6ea33330-4609-11e9-bc65-55b32b211b66,increase,heat,kitchen
+96493d00-45da-11e9-81ce-69b74fd7e64e,increase,heat,none
+ab3a5f60-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+6f1e8eb0-454e-11e9-aa52-bf2189a03a60,increase,volume,none
+2b19a7c0-45f0-11e9-aa19-e96346c3828f,activate,music,none
+6cb1c440-45d9-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+9fa2eb10-452d-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+534af840-45da-11e9-81ce-69b74fd7e64e,change language,Korean,none
+0afa7de0-451c-11e9-9035-7943ec3b842a,change language,English,none
+9ac33090-45d3-11e9-9992-dfba019cb646,activate,lights,none
+4ee358a0-453b-11e9-b1e4-e5985dca719e,decrease,volume,none
+b0d07380-45e1-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+e22cec90-4561-11e9-9600-8f19ade2128c,increase,heat,washroom
+2afec870-450e-11e9-9539-7f047cfe24d1,increase,heat,none
+444ae1e0-454c-11e9-aa52-bf2189a03a60,change language,Chinese,none
+582c7980-45ce-11e9-9992-dfba019cb646,decrease,heat,none
+d43233a0-4554-11e9-aa52-bf2189a03a60,activate,lights,washroom
+a65e9fd0-44fb-11e9-a1ea-79ca03012c0e,activate,music,none
+79c57f10-4466-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+17634ad0-44ea-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+8310d730-4467-11e9-beaa-1f3e1eab7bff,increase,volume,none
+71381be0-457a-11e9-9600-8f19ade2128c,increase,heat,washroom
+3e726960-454b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+967d6500-45dd-11e9-81ce-69b74fd7e64e,change language,German,none
+019d5600-451c-11e9-9035-7943ec3b842a,change language,Chinese,none
+b16d4ed0-4528-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+4f56ffc0-45f0-11e9-aa19-e96346c3828f,decrease,heat,washroom
+1bee0660-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+dfa81470-4577-11e9-9600-8f19ade2128c,bring,socks,none
+0d2c4a80-4436-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+1765ac80-4481-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+e37570e0-460b-11e9-bc65-55b32b211b66,deactivate,lights,bedroom
+6a24d5e0-452b-11e9-a843-8db76f4b5e29,change language,none,none
+9219a7b0-4517-11e9-9035-7943ec3b842a,activate,lights,bedroom
+9777be70-4578-11e9-9600-8f19ade2128c,activate,music,none
+aef9e200-4521-11e9-a843-8db76f4b5e29,bring,socks,none
+3f10b3e0-4609-11e9-bc65-55b32b211b66,decrease,volume,none
+37c07850-446f-11e9-a9a5-5dbec3b8816a,change language,Korean,none
+d2df6380-45c5-11e9-8ec0-7bf21d1cfe30,activate,lamp,none
+897f13f0-4450-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+f94e0350-45d9-11e9-81ce-69b74fd7e64e,bring,socks,none
+f8ff65a0-44fe-11e9-a1ea-79ca03012c0e,activate,music,none
+129b1250-45c4-11e9-8ec0-7bf21d1cfe30,change language,none,none
+f3caeec0-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+aed85ea0-44d1-11e9-a8b6-e96f2628bf65,increase,heat,none
+efdd69e0-446d-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+35623f20-4542-11e9-b1e4-e5985dca719e,change language,German,none
+1cd50290-4438-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+8f321a80-454b-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+bcf6f000-459e-11e9-bf4b-216bfa333ac2,bring,newspaper,none
+32bf6510-4513-11e9-9539-7f047cfe24d1,decrease,heat,bedroom
+6df80d50-44d0-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+ccafe4d0-45d9-11e9-81ce-69b74fd7e64e,deactivate,music,none
+1c27daf0-44ee-11e9-a1ea-79ca03012c0e,decrease,heat,kitchen
+1ba38ab0-45e9-11e9-b578-494a5b19ab8b,decrease,volume,none
+a930ade0-45f3-11e9-aa19-e96346c3828f,increase,heat,none
+826423e0-4611-11e9-bc65-55b32b211b66,bring,juice,none
+83e08e80-45c0-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+44f02390-4541-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+22ebd460-457d-11e9-9600-8f19ade2128c,decrease,heat,washroom
+2075d9b0-452d-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+0a92a8a0-454e-11e9-aa52-bf2189a03a60,bring,newspaper,none
+6b493930-454d-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+b4277ed0-45c2-11e9-8ec0-7bf21d1cfe30,increase,heat,kitchen
+d8226180-45c0-11e9-8ec0-7bf21d1cfe30,deactivate,lights,kitchen
+4ea78f50-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+a0b78190-45ec-11e9-aa19-e96346c3828f,activate,lamp,none
+8c0210b0-44d1-11e9-a8b6-e96f2628bf65,activate,lights,none
+1d737c10-4562-11e9-9600-8f19ade2128c,decrease,heat,none
+08a1f790-45cf-11e9-9992-dfba019cb646,increase,volume,none
+0001d0c0-4614-11e9-bc65-55b32b211b66,increase,heat,washroom
+76154420-446d-11e9-beaa-1f3e1eab7bff,increase,heat,none
+9bb9af90-4454-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+fb674660-45d9-11e9-81ce-69b74fd7e64e,bring,socks,none
+1b8e0390-44fc-11e9-a1ea-79ca03012c0e,deactivate,lights,bedroom
+d3ed6950-441e-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+63742b60-4562-11e9-9600-8f19ade2128c,decrease,heat,kitchen
+d2d949e0-44d1-11e9-a8b6-e96f2628bf65,increase,volume,none
+c5d5f9c0-4547-11e9-aa52-bf2189a03a60,activate,music,none
+544701d0-44e5-11e9-bb82-bdba769643e7,change language,none,none
+617a7df0-4454-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+f46d5110-4453-11e9-beaa-1f3e1eab7bff,increase,volume,none
+99cafba0-45d8-11e9-81ce-69b74fd7e64e,bring,socks,none
+632d72c0-44d0-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+efdb57a0-45d9-11e9-81ce-69b74fd7e64e,bring,juice,none
+b21ac370-4605-11e9-bc65-55b32b211b66,deactivate,lights,none
+3deca1b0-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+06170bf0-4598-11e9-bf4b-216bfa333ac2,deactivate,lights,none
+62f6dbb0-457b-11e9-9600-8f19ade2128c,change language,Chinese,none
+b3bfe370-44fe-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+ba901370-45f1-11e9-aa19-e96346c3828f,change language,German,none
+1f760460-45c6-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+f5a70ca0-45df-11e9-81ce-69b74fd7e64e,decrease,heat,kitchen
+c445cb30-44f7-11e9-a1ea-79ca03012c0e,decrease,volume,none
+319b69a0-4472-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+54c79e60-4433-11e9-beaa-1f3e1eab7bff,increase,volume,none
+a94c3350-457e-11e9-9600-8f19ade2128c,decrease,volume,none
+ef9cbdc0-4475-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+d550e780-44fb-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+eba92d30-45b9-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+a6e53950-4519-11e9-9035-7943ec3b842a,decrease,volume,none
+16aaef10-45e1-11e9-81ce-69b74fd7e64e,increase,heat,none
+3551cdf0-454e-11e9-aa52-bf2189a03a60,bring,socks,none
+ac738b90-45ed-11e9-aa19-e96346c3828f,increase,heat,none
+0506e080-4450-11e9-beaa-1f3e1eab7bff,increase,heat,none
+18d7cc50-4540-11e9-b1e4-e5985dca719e,activate,lights,washroom
+e9a3c210-457e-11e9-9600-8f19ade2128c,increase,heat,washroom
+8c83b460-45f0-11e9-aa19-e96346c3828f,decrease,heat,none
+10b5dc00-451e-11e9-a843-8db76f4b5e29,change language,none,none
+5a36df70-44d1-11e9-a8b6-e96f2628bf65,change language,Chinese,none
+30746390-45d7-11e9-81ce-69b74fd7e64e,activate,lamp,none
+abc1fd90-45e7-11e9-b578-494a5b19ab8b,bring,juice,none
+5e65fc10-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+e00c77f0-45ed-11e9-aa19-e96346c3828f,increase,heat,bedroom
+bba6ade0-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,none
+1364ce50-45ed-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+3ba9d3f0-44d1-11e9-a8b6-e96f2628bf65,change language,none,none
+7c629da0-4562-11e9-9600-8f19ade2128c,decrease,heat,bedroom
+1a9ff2b0-44ff-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+a87994b0-45b8-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+fa24b470-45fe-11e9-bc65-55b32b211b66,decrease,heat,kitchen
+21f9bb80-45e6-11e9-b578-494a5b19ab8b,change language,none,none
+4658fdb0-4415-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+c5af2230-44d6-11e9-a8b6-e96f2628bf65,bring,newspaper,none
+fa801960-44d6-11e9-a8b6-e96f2628bf65,bring,socks,none
+e6e47230-4606-11e9-bc65-55b32b211b66,deactivate,lights,none
+6e7468d0-454a-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+42234f20-4519-11e9-9035-7943ec3b842a,bring,socks,none
+ef510520-452d-11e9-b1e4-e5985dca719e,increase,heat,washroom
+df924ee0-453d-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+b76c0140-455b-11e9-aa52-bf2189a03a60,decrease,heat,none
+6cc3ee00-446b-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+d09fde50-45c6-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+ed3f6530-4517-11e9-9035-7943ec3b842a,increase,volume,none
+19326b00-45e6-11e9-b578-494a5b19ab8b,change language,none,none
+07535ed0-441f-11e9-beaa-1f3e1eab7bff,bring,shoes,none
+b2a44600-4519-11e9-9035-7943ec3b842a,deactivate,lights,bedroom
+24fa23b0-45b9-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+1702b560-45c8-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+03c641c0-4522-11e9-a843-8db76f4b5e29,change language,Korean,none
+71e79ec0-4517-11e9-9035-7943ec3b842a,deactivate,lamp,none
+ce493390-4607-11e9-bc65-55b32b211b66,increase,heat,none
+0c744aa0-4532-11e9-b1e4-e5985dca719e,activate,lights,washroom
+50dd4520-4541-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+646b51c0-4453-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+217504b0-45f2-11e9-aa19-e96346c3828f,decrease,heat,washroom
+8f17a780-45b5-11e9-8ec0-7bf21d1cfe30,increase,heat,kitchen
+1b40e480-4479-11e9-a9a5-5dbec3b8816a,deactivate,lights,washroom
+6c00e6e0-4541-11e9-b1e4-e5985dca719e,activate,lights,washroom
+94c53fb0-4517-11e9-9035-7943ec3b842a,deactivate,lights,none
+80147d30-4411-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+9488c0a0-44cf-11e9-a8b6-e96f2628bf65,activate,music,none
+5206c230-460b-11e9-bc65-55b32b211b66,activate,lights,washroom
+f7db3860-4437-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+77d7b8f0-454f-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+4c4d6f50-44ea-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+77766200-45f2-11e9-aa19-e96346c3828f,activate,lights,none
+6f621350-447d-11e9-a9a5-5dbec3b8816a,decrease,heat,kitchen
+9f7215d0-45d7-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+e5480340-45e5-11e9-b578-494a5b19ab8b,deactivate,music,none
+a15cf5c0-44ee-11e9-a1ea-79ca03012c0e,bring,newspaper,none
+d50da6c0-4468-11e9-beaa-1f3e1eab7bff,bring,socks,none
+5d657350-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+7a7994f0-44f7-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+69811510-44d9-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+ab1485e0-45ef-11e9-aa19-e96346c3828f,increase,heat,kitchen
+531e5c80-4536-11e9-b1e4-e5985dca719e,activate,music,none
+da254cb0-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+933aeed0-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+21aa0a00-44d7-11e9-a8b6-e96f2628bf65,bring,shoes,none
+9930b610-4599-11e9-bf4b-216bfa333ac2,increase,heat,bedroom
+d86d1760-45c6-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+34356260-4607-11e9-bc65-55b32b211b66,activate,lights,kitchen
+138bb940-45d7-11e9-81ce-69b74fd7e64e,increase,heat,none
+2170c160-4562-11e9-9600-8f19ade2128c,decrease,heat,none
+1f3e4f00-4578-11e9-9600-8f19ade2128c,change language,Chinese,none
+5affd720-4505-11e9-a1ea-79ca03012c0e,decrease,heat,kitchen
+16a115a0-44d1-11e9-a8b6-e96f2628bf65,bring,socks,none
+4a4a9960-45b9-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+69583a30-45f3-11e9-aa19-e96346c3828f,increase,heat,none
+fe548b30-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+6250cad0-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+ac558bb0-44ce-11e9-a8b6-e96f2628bf65,decrease,heat,kitchen
+981a31d0-45ed-11e9-aa19-e96346c3828f,decrease,heat,none
+1001d260-45db-11e9-81ce-69b74fd7e64e,deactivate,lights,kitchen
+bc581960-4519-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+0c5e5e60-4542-11e9-b1e4-e5985dca719e,change language,none,none
+e9530b80-4435-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+29da4cf0-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+29b81590-45e8-11e9-b578-494a5b19ab8b,deactivate,music,none
+fb99da00-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+a032d030-4547-11e9-aa52-bf2189a03a60,increase,heat,none
+e37ac2c0-4534-11e9-b1e4-e5985dca719e,bring,juice,none
+428e8140-460f-11e9-bc65-55b32b211b66,activate,lamp,none
+585f19f0-4518-11e9-9035-7943ec3b842a,deactivate,music,none
+6be2cb90-45c5-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+447cf380-45fe-11e9-bc65-55b32b211b66,decrease,volume,none
+28087060-4551-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+5cd6bd90-4553-11e9-aa52-bf2189a03a60,activate,lights,bedroom
+4b9ea840-4467-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+e1342360-450e-11e9-9539-7f047cfe24d1,decrease,volume,none
+9d444ec0-4476-11e9-a9a5-5dbec3b8816a,bring,juice,none
+0e7a9430-452d-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+1bbe9430-4522-11e9-a843-8db76f4b5e29,deactivate,music,none
+ac1d5550-4529-11e9-a843-8db76f4b5e29,increase,volume,none
+d089f820-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+f5b22d00-45db-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+a9125e00-45d3-11e9-9992-dfba019cb646,deactivate,lights,none
+da5e59f0-451f-11e9-a843-8db76f4b5e29,activate,lights,washroom
+965a01e0-4606-11e9-bc65-55b32b211b66,change language,none,none
+79acb950-454a-11e9-aa52-bf2189a03a60,increase,volume,none
+52e1b3f0-457e-11e9-9600-8f19ade2128c,deactivate,lights,washroom
+57f6b920-45f2-11e9-aa19-e96346c3828f,activate,music,none
+5225e2d0-4522-11e9-a843-8db76f4b5e29,decrease,heat,none
+0856a5a0-45ee-11e9-aa19-e96346c3828f,bring,juice,none
+49fdfbe0-44fc-11e9-a1ea-79ca03012c0e,increase,volume,none
+6d91a060-453e-11e9-b1e4-e5985dca719e,decrease,volume,none
+9edb3cb0-4419-11e9-85a0-dd11eb2f13b6,increase,volume,none
+d6b70780-4609-11e9-bc65-55b32b211b66,decrease,heat,none
+69499300-45d9-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+39204000-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+6d957fe0-455d-11e9-aa52-bf2189a03a60,change language,none,none
+98506bd0-4523-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+82919a30-4519-11e9-9035-7943ec3b842a,change language,Chinese,none
+9aa54cb0-45f1-11e9-aa19-e96346c3828f,change language,Chinese,none
+064a1340-446e-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+b2bd20f0-45e4-11e9-b578-494a5b19ab8b,decrease,heat,none
+b6f66ec0-45ed-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+c6c8af30-45ec-11e9-aa19-e96346c3828f,activate,lights,kitchen
+fed83a40-4465-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+ebd14ad0-460a-11e9-bc65-55b32b211b66,activate,lights,kitchen
+4a20d970-4539-11e9-b1e4-e5985dca719e,decrease,volume,none
+98fa6550-4450-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+7a1c5e50-453a-11e9-b1e4-e5985dca719e,bring,newspaper,none
+221bd7d0-4549-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+8bf51ae0-45ee-11e9-aa19-e96346c3828f,deactivate,lights,none
+77af6c10-4531-11e9-b1e4-e5985dca719e,activate,music,none
+150a7670-44d9-11e9-a8b6-e96f2628bf65,activate,music,none
+aa319e10-447d-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+c83764c0-45c8-11e9-8ec0-7bf21d1cfe30,activate,music,none
+241ac2d0-454e-11e9-aa52-bf2189a03a60,deactivate,lights,kitchen
+c7a142a0-45f1-11e9-aa19-e96346c3828f,change language,Chinese,none
+da3a34b0-4562-11e9-9600-8f19ade2128c,activate,music,none
+49e93790-454d-11e9-aa52-bf2189a03a60,activate,lamp,none
+d47f3300-45d4-11e9-9992-dfba019cb646,increase,volume,none
+28976330-44ff-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+fd3cfa90-4546-11e9-aa52-bf2189a03a60,activate,lamp,none
+76c0d2b0-44f7-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+f9f849c0-44ec-11e9-a1ea-79ca03012c0e,increase,volume,none
+5e57b1a0-45ea-11e9-b578-494a5b19ab8b,change language,Chinese,none
+c139a430-4519-11e9-9035-7943ec3b842a,increase,volume,none
+ea056eb0-44fd-11e9-a1ea-79ca03012c0e,bring,shoes,none
+65ee2410-45ba-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+2ef2da70-4518-11e9-9035-7943ec3b842a,deactivate,music,none
+ce5c5420-460c-11e9-bc65-55b32b211b66,decrease,volume,none
+56c65ae0-44ff-11e9-a1ea-79ca03012c0e,deactivate,lights,kitchen
+3a0de720-44e5-11e9-bb82-bdba769643e7,bring,shoes,none
+f5013910-45c6-11e9-8ec0-7bf21d1cfe30,increase,heat,kitchen
+74fdea30-453d-11e9-b1e4-e5985dca719e,increase,heat,none
+49aa1820-444f-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+7789a220-4511-11e9-9539-7f047cfe24d1,increase,heat,kitchen
+b74f9720-4480-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+f2445c90-4411-11e9-85a0-dd11eb2f13b6,activate,lights,washroom
+be445190-45e0-11e9-81ce-69b74fd7e64e,change language,German,none
+505f8aa0-4536-11e9-b1e4-e5985dca719e,activate,music,none
+2b7b78a0-45b5-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+a99114e0-4518-11e9-9035-7943ec3b842a,activate,music,none
+a212cb90-441a-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+ca5d8610-4539-11e9-b1e4-e5985dca719e,increase,heat,washroom
+052d4990-45d7-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+572a01b0-44de-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+ad285a80-451a-11e9-9035-7943ec3b842a,decrease,heat,none
+fb466800-45c5-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+124b2620-45db-11e9-81ce-69b74fd7e64e,deactivate,lights,bedroom
+71d15470-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+854f8d40-450f-11e9-9539-7f047cfe24d1,increase,heat,washroom
+0799f6b0-457d-11e9-9600-8f19ade2128c,decrease,heat,bedroom
+e4412f80-45c2-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+6d528350-4474-11e9-a9a5-5dbec3b8816a,deactivate,lamp,none
+9f47ad70-45b6-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+ec88df10-451a-11e9-9035-7943ec3b842a,decrease,heat,washroom
+79836f10-45fd-11e9-bc65-55b32b211b66,activate,lights,none
+1bfac0c0-454c-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+364911f0-451c-11e9-9035-7943ec3b842a,deactivate,lights,none
+b32e9680-45db-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+cda6bb80-4466-11e9-beaa-1f3e1eab7bff,increase,volume,none
+af6fe960-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+09d4cc10-45ec-11e9-aa19-e96346c3828f,increase,heat,none
+aa58de30-45c7-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+55e4b6f0-45cf-11e9-9992-dfba019cb646,increase,heat,bedroom
+524199a0-454d-11e9-aa52-bf2189a03a60,deactivate,lamp,none
+12e9bd10-454c-11e9-aa52-bf2189a03a60,decrease,heat,none
+461b57c0-452e-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+7863caf0-4510-11e9-9539-7f047cfe24d1,activate,lights,none
+40077900-44e2-11e9-bb82-bdba769643e7,change language,Chinese,none
+39d72cd0-453f-11e9-b1e4-e5985dca719e,bring,socks,none
+fdab2940-4594-11e9-9600-8f19ade2128c,activate,lights,washroom
+4d82f2f0-45b7-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+b9dd4d30-454c-11e9-aa52-bf2189a03a60,change language,none,none
+6fc1a1e0-4611-11e9-bc65-55b32b211b66,bring,newspaper,none
+9138b220-460a-11e9-bc65-55b32b211b66,change language,Chinese,none
+4df27ae0-4539-11e9-b1e4-e5985dca719e,bring,shoes,none
+834da3e0-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+c344ee40-44fd-11e9-a1ea-79ca03012c0e,bring,juice,none
+e14319d0-4606-11e9-bc65-55b32b211b66,activate,lights,none
+1522bfc0-44e1-11e9-bb82-bdba769643e7,increase,heat,washroom
+4c709ee0-4412-11e9-85a0-dd11eb2f13b6,increase,volume,none
+fba75ca0-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+31616430-45ee-11e9-aa19-e96346c3828f,deactivate,lamp,none
+f6097c60-4539-11e9-b1e4-e5985dca719e,increase,heat,none
+5a148030-451a-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+de3c0e80-450d-11e9-9539-7f047cfe24d1,increase,heat,none
+ff854da0-452a-11e9-a843-8db76f4b5e29,decrease,volume,none
+86d9e5b0-452e-11e9-b1e4-e5985dca719e,bring,newspaper,none
+574b0a20-44d1-11e9-a8b6-e96f2628bf65,change language,English,none
+2a11b1a0-45c4-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+ec452450-44e3-11e9-bb82-bdba769643e7,decrease,volume,none
+ec4c16a0-453a-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+4329b310-454f-11e9-aa52-bf2189a03a60,increase,heat,none
+59456600-453e-11e9-b1e4-e5985dca719e,decrease,volume,none
+352a5a40-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+50a01dd0-457d-11e9-9600-8f19ade2128c,bring,socks,none
+74a03040-4531-11e9-b1e4-e5985dca719e,activate,music,none
+926ab860-45dc-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+45b88a30-4521-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+f6e62c10-45ce-11e9-9992-dfba019cb646,increase,volume,none
+5be29400-451b-11e9-9035-7943ec3b842a,bring,juice,none
+6edfd530-4594-11e9-9600-8f19ade2128c,activate,lights,bedroom
+61888c00-4536-11e9-b1e4-e5985dca719e,activate,lamp,none
+d76fab40-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+f2e855b0-457a-11e9-9600-8f19ade2128c,deactivate,music,none
+6ddb5de0-45de-11e9-81ce-69b74fd7e64e,increase,heat,none
+0f3e99b0-45ec-11e9-aa19-e96346c3828f,increase,heat,none
+6aa51110-45e9-11e9-b578-494a5b19ab8b,increase,heat,washroom
+99fbf6e0-45fd-11e9-bc65-55b32b211b66,activate,lights,bedroom
+2ae0b430-4481-11e9-a9a5-5dbec3b8816a,bring,newspaper,none
+43b47990-45e1-11e9-81ce-69b74fd7e64e,activate,lights,none
+b350f630-4518-11e9-9035-7943ec3b842a,activate,lamp,none
+9fc276d0-4576-11e9-9600-8f19ade2128c,increase,volume,none
+5421a070-459e-11e9-bf4b-216bfa333ac2,increase,heat,washroom
+fcae0430-454a-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+d760be80-4468-11e9-beaa-1f3e1eab7bff,bring,socks,none
+86435630-44da-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+aa6585a0-4549-11e9-aa52-bf2189a03a60,decrease,volume,none
+0bbc0180-450e-11e9-9539-7f047cfe24d1,increase,heat,none
+e6e75510-4519-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+b8ac2dc0-452c-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+dcf711d0-4451-11e9-beaa-1f3e1eab7bff,increase,heat,none
+e7668530-45df-11e9-81ce-69b74fd7e64e,decrease,heat,none
+57249b10-45fd-11e9-bc65-55b32b211b66,decrease,heat,none
+2824fd40-454a-11e9-aa52-bf2189a03a60,activate,lights,washroom
+4d00fab0-4554-11e9-aa52-bf2189a03a60,increase,heat,none
+02e1dda0-4450-11e9-beaa-1f3e1eab7bff,increase,heat,none
+229fb850-460e-11e9-bc65-55b32b211b66,increase,heat,washroom
+f7e8d360-45ec-11e9-aa19-e96346c3828f,activate,lights,washroom
+eb54b8b0-45c6-11e9-8ec0-7bf21d1cfe30,change language,none,none
+31f0d820-45dc-11e9-81ce-69b74fd7e64e,activate,music,none
+6fc5ebd0-460a-11e9-bc65-55b32b211b66,change language,none,none
+69c150c0-4539-11e9-b1e4-e5985dca719e,change language,none,none
+3bb6f820-4475-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+39b2b4b0-451a-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+92ae29b0-44ce-11e9-a8b6-e96f2628bf65,activate,lights,none
+90d88210-454c-11e9-aa52-bf2189a03a60,deactivate,lights,none
+d963a420-444c-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+15b43560-4615-11e9-bc65-55b32b211b66,change language,German,none
+164dfe80-44cf-11e9-a8b6-e96f2628bf65,bring,shoes,none
+fba60350-44f8-11e9-a1ea-79ca03012c0e,change language,German,none
+ff3bbf30-4432-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+4b70b430-4548-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+d6d18880-4505-11e9-a1ea-79ca03012c0e,bring,shoes,none
+b266e3f0-44ce-11e9-a8b6-e96f2628bf65,decrease,heat,kitchen
+1d95c9a0-447c-11e9-a9a5-5dbec3b8816a,deactivate,lights,bedroom
+0cffdf30-45ea-11e9-b578-494a5b19ab8b,increase,heat,washroom
+2b7ed340-4521-11e9-a843-8db76f4b5e29,decrease,heat,kitchen
+fde3e8b0-45e5-11e9-b578-494a5b19ab8b,bring,socks,none
+f7e99e50-454a-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+7a129450-457c-11e9-9600-8f19ade2128c,decrease,volume,none
+446265a0-4609-11e9-bc65-55b32b211b66,decrease,volume,none
+014e42a0-457f-11e9-9600-8f19ade2128c,decrease,heat,none
+c1117b50-45e0-11e9-81ce-69b74fd7e64e,change language,Korean,none
+1db24780-451a-11e9-9035-7943ec3b842a,activate,lights,washroom
+0f3937b0-4419-11e9-85a0-dd11eb2f13b6,activate,lights,bedroom
+daaf1dd0-4476-11e9-a9a5-5dbec3b8816a,change language,none,none
+fc3f65e0-4534-11e9-b1e4-e5985dca719e,bring,socks,none
+dce58150-45e0-11e9-81ce-69b74fd7e64e,deactivate,lights,none
+38233720-4482-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+e6175480-4511-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+395041d0-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,kitchen
+63805df0-45f2-11e9-aa19-e96346c3828f,change language,none,none
+7bb8e010-4465-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+5f035b30-454b-11e9-aa52-bf2189a03a60,increase,volume,none
+2d874db0-4482-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+75e984e0-454c-11e9-aa52-bf2189a03a60,bring,newspaper,none
+6a9eade0-4538-11e9-b1e4-e5985dca719e,increase,heat,washroom
+c9fa7f90-446a-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+bc3caba0-45e9-11e9-b578-494a5b19ab8b,decrease,volume,none
+7e23de60-459e-11e9-bf4b-216bfa333ac2,decrease,heat,bedroom
+40e1fed0-45c4-11e9-8ec0-7bf21d1cfe30,increase,heat,none
+c1370130-44ce-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+f306d450-4434-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+e15d9510-44a5-11e9-a9a5-5dbec3b8816a,increase,volume,none
+97a1a7c0-447f-11e9-a9a5-5dbec3b8816a,activate,lights,none
+cdb05df0-4562-11e9-9600-8f19ade2128c,decrease,heat,washroom
+854cb4c0-45d8-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+70095620-4549-11e9-aa52-bf2189a03a60,bring,newspaper,none
+a70b0450-446a-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+77604c80-45f3-11e9-aa19-e96346c3828f,increase,heat,none
+85852750-457f-11e9-9600-8f19ade2128c,change language,none,none
+500d1f80-4523-11e9-a843-8db76f4b5e29,decrease,volume,none
+0ffc1500-4536-11e9-b1e4-e5985dca719e,increase,volume,none
+ad893090-4609-11e9-bc65-55b32b211b66,deactivate,lights,washroom
+332c33c0-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+99c2bd70-4608-11e9-bc65-55b32b211b66,decrease,heat,none
+533c7640-444e-11e9-beaa-1f3e1eab7bff,increase,volume,none
+c6dc6af0-444f-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+6872ab40-45ea-11e9-b578-494a5b19ab8b,change language,Chinese,none
+fc42c240-4529-11e9-a843-8db76f4b5e29,deactivate,lamp,none
+78c09ed0-45fe-11e9-bc65-55b32b211b66,increase,heat,bedroom
+0a224f90-441a-11e9-85a0-dd11eb2f13b6,decrease,volume,none
+87903a20-45ee-11e9-aa19-e96346c3828f,activate,lights,none
+3efa49b0-45dd-11e9-81ce-69b74fd7e64e,bring,juice,none
+f4a43e80-4522-11e9-a843-8db76f4b5e29,deactivate,lights,kitchen
+3a9f4df0-4472-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+3d362c90-450e-11e9-9539-7f047cfe24d1,activate,lights,none
+3ee55a70-44d2-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+8af29510-4598-11e9-bf4b-216bfa333ac2,activate,lamp,none
+3fb329d0-4466-11e9-beaa-1f3e1eab7bff,bring,juice,none
+8de64c50-4519-11e9-9035-7943ec3b842a,change language,Chinese,none
+564fabf0-460a-11e9-bc65-55b32b211b66,bring,socks,none
+da1eb270-45db-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+d5a0ad10-446a-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+96682b70-4481-11e9-a9a5-5dbec3b8816a,deactivate,lights,washroom
+03d31e80-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+63fca930-454a-11e9-aa52-bf2189a03a60,decrease,volume,none
+f4280230-45e9-11e9-b578-494a5b19ab8b,increase,heat,kitchen
+2fa4e1c0-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+4b931f60-453f-11e9-b1e4-e5985dca719e,bring,shoes,none
+fbbd3b90-454a-11e9-aa52-bf2189a03a60,decrease,heat,none
+33afb9b0-452d-11e9-b1e4-e5985dca719e,change language,none,none
+2b4dc750-4454-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+6686dd80-44fd-11e9-a1ea-79ca03012c0e,decrease,heat,kitchen
+0e83a6c0-45ef-11e9-aa19-e96346c3828f,change language,none,none
+77dca1b0-45a1-11e9-bf4b-216bfa333ac2,bring,newspaper,none
+9f3a50f0-44fb-11e9-a1ea-79ca03012c0e,deactivate,music,none
+56441870-4534-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+d3e6ac70-45e8-11e9-b578-494a5b19ab8b,deactivate,music,none
+53af4840-45ee-11e9-aa19-e96346c3828f,activate,lamp,none
+19f27090-45ef-11e9-aa19-e96346c3828f,increase,heat,bedroom
+5c645fb0-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+c3f9adc0-4549-11e9-aa52-bf2189a03a60,decrease,volume,none
+f2765110-4519-11e9-9035-7943ec3b842a,increase,volume,none
+3ca6d940-45dc-11e9-81ce-69b74fd7e64e,bring,newspaper,none
+3c26c230-447b-11e9-a9a5-5dbec3b8816a,deactivate,music,none
+d1db08c0-454a-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+44f9ae40-4435-11e9-beaa-1f3e1eab7bff,change language,none,none
+69a124c0-451c-11e9-9035-7943ec3b842a,decrease,heat,none
+9f974870-4413-11e9-85a0-dd11eb2f13b6,decrease,volume,none
+2b84a190-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+f6a25da0-4510-11e9-9539-7f047cfe24d1,activate,music,none
+4fa68e40-460f-11e9-bc65-55b32b211b66,deactivate,lamp,none
+44223690-44d0-11e9-a8b6-e96f2628bf65,decrease,volume,none
+2d5ef0e0-4450-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+33324b10-45d7-11e9-81ce-69b74fd7e64e,activate,lamp,none
+ad78a1f0-455d-11e9-aa52-bf2189a03a60,change language,Chinese,none
+fa76f870-4464-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+7a57c320-460a-11e9-bc65-55b32b211b66,activate,music,none
+eea94140-45ce-11e9-9992-dfba019cb646,increase,volume,none
+d0debc10-45c6-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+20bd7350-45d8-11e9-81ce-69b74fd7e64e,decrease,volume,none
+d676f970-45d6-11e9-81ce-69b74fd7e64e,deactivate,lights,none
+9dd1b940-4548-11e9-aa52-bf2189a03a60,increase,heat,washroom
+9db7b570-45f4-11e9-aa19-e96346c3828f,bring,socks,none
+7936cfc0-457b-11e9-9600-8f19ade2128c,increase,volume,none
+3bf98f20-4464-11e9-beaa-1f3e1eab7bff,activate,music,none
+aff8f7e0-45e4-11e9-b578-494a5b19ab8b,decrease,heat,none
+3e05def0-45da-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+9decb810-4608-11e9-bc65-55b32b211b66,decrease,heat,none
+465c3520-44dd-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+e683a8e0-4527-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+459c0c40-4547-11e9-aa52-bf2189a03a60,activate,lights,none
+aadbe780-45e0-11e9-81ce-69b74fd7e64e,change language,German,none
+219688f0-454e-11e9-aa52-bf2189a03a60,deactivate,lights,kitchen
+d205b6e0-4579-11e9-9600-8f19ade2128c,increase,volume,none
+3e4a9a10-451f-11e9-a843-8db76f4b5e29,activate,lights,none
+ebcc4800-4529-11e9-a843-8db76f4b5e29,decrease,heat,kitchen
+4b39eb80-45f2-11e9-aa19-e96346c3828f,deactivate,music,none
+32fc2780-4535-11e9-b1e4-e5985dca719e,change language,none,none
+6cc25570-446d-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+67429810-45dc-11e9-81ce-69b74fd7e64e,change language,none,none
+254fa910-453d-11e9-b1e4-e5985dca719e,activate,music,none
+29568910-45f2-11e9-aa19-e96346c3828f,decrease,volume,none
+491992e0-454a-11e9-aa52-bf2189a03a60,increase,heat,kitchen
+ecf61570-453e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+d11712c0-4519-11e9-9035-7943ec3b842a,decrease,volume,none
+a59f0930-45d3-11e9-9992-dfba019cb646,deactivate,lights,none
+52aa2670-4500-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+64d89d40-4479-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+8018a020-45b7-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+54e185c0-4535-11e9-b1e4-e5985dca719e,change language,German,none
+ecd41ad0-45c8-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+1a8f8b20-4453-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+70513cc0-4516-11e9-9035-7943ec3b842a,decrease,heat,kitchen
+0755e740-4519-11e9-9035-7943ec3b842a,decrease,heat,washroom
+16b24be0-454e-11e9-aa52-bf2189a03a60,deactivate,lights,kitchen
+7db0b240-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+42597950-4524-11e9-a843-8db76f4b5e29,bring,juice,none
+63221cf0-4524-11e9-a843-8db76f4b5e29,change language,none,none
+62ca4d00-45f5-11e9-aa19-e96346c3828f,change language,English,none
+da05f930-44fd-11e9-a1ea-79ca03012c0e,bring,socks,none
+8b4d9ad0-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+23eeca00-45c0-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+74067000-452b-11e9-a843-8db76f4b5e29,increase,heat,washroom
+1784ec10-4578-11e9-9600-8f19ade2128c,change language,German,none
+5c63fb20-45ee-11e9-aa19-e96346c3828f,activate,lamp,none
+2a1f22b0-4612-11e9-bc65-55b32b211b66,deactivate,lights,none
+1fac2340-453c-11e9-b1e4-e5985dca719e,deactivate,lights,none
+d244f360-4474-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+93ceaca0-45c5-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+818abed0-4598-11e9-bf4b-216bfa333ac2,activate,music,none
+a2096420-4577-11e9-9600-8f19ade2128c,decrease,heat,washroom
+2b48d240-45e9-11e9-b578-494a5b19ab8b,decrease,volume,none
+5578ea00-4454-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+dfcf8ba0-4611-11e9-bc65-55b32b211b66,change language,Korean,none
+1d0694a0-450e-11e9-9539-7f047cfe24d1,activate,lights,kitchen
+85889860-45f0-11e9-aa19-e96346c3828f,bring,newspaper,none
+c6cc86c0-459f-11e9-bf4b-216bfa333ac2,deactivate,lamp,none
+3e69cdc0-4512-11e9-9539-7f047cfe24d1,bring,shoes,none
+09294080-4541-11e9-b1e4-e5985dca719e,increase,heat,none
+7d910e40-45e0-11e9-81ce-69b74fd7e64e,bring,shoes,none
+2a3a4570-460a-11e9-bc65-55b32b211b66,increase,volume,none
+172aadd0-451a-11e9-9035-7943ec3b842a,activate,lights,bedroom
+614fcbf0-453a-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+c55754b0-4517-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+46b21350-454b-11e9-aa52-bf2189a03a60,increase,volume,none
+fec2b990-452d-11e9-b1e4-e5985dca719e,increase,heat,washroom
+1f7d1da0-4534-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+cc211fc0-44d0-11e9-a8b6-e96f2628bf65,deactivate,lights,none
+3bf989a0-45d9-11e9-81ce-69b74fd7e64e,increase,heat,none
+fec17e10-454e-11e9-aa52-bf2189a03a60,increase,volume,none
+3d61de40-444f-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+30ae52c0-45ec-11e9-aa19-e96346c3828f,activate,music,none
+81bfc840-453a-11e9-b1e4-e5985dca719e,bring,newspaper,none
+c0317150-447c-11e9-a9a5-5dbec3b8816a,increase,heat,none
+e85e1b90-44e2-11e9-bb82-bdba769643e7,activate,music,none
+39e97090-4524-11e9-a843-8db76f4b5e29,bring,newspaper,none
+df90b2b0-45b5-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+522877d0-4607-11e9-bc65-55b32b211b66,increase,volume,none
+455f7530-4607-11e9-bc65-55b32b211b66,increase,volume,none
+012f03b0-4433-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+29190060-452d-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+9cea4630-459a-11e9-bf4b-216bfa333ac2,change language,none,none
+c03fc2c0-4538-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+29b9e730-4520-11e9-a843-8db76f4b5e29,deactivate,lights,washroom
+97e29a90-453e-11e9-b1e4-e5985dca719e,increase,heat,bedroom
+62601420-45e2-11e9-81ce-69b74fd7e64e,decrease,volume,none
+291a4b80-4412-11e9-85a0-dd11eb2f13b6,increase,volume,none
+fd6e9170-45c0-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+b6923c80-452e-11e9-b1e4-e5985dca719e,decrease,volume,none
+1b01b540-4450-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+222b4b70-45e9-11e9-b578-494a5b19ab8b,activate,lights,bedroom
+b1195f70-4549-11e9-aa52-bf2189a03a60,bring,shoes,none
+aba304f0-4518-11e9-9035-7943ec3b842a,increase,heat,washroom
+766a5d20-45da-11e9-81ce-69b74fd7e64e,activate,lights,none
+3f94b310-446b-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+e8cf0d80-45ed-11e9-aa19-e96346c3828f,deactivate,lights,none
+ee3b31e0-4539-11e9-b1e4-e5985dca719e,increase,heat,none
+50752fc0-44d9-11e9-a8b6-e96f2628bf65,deactivate,lamp,none
+d5c69a90-45e9-11e9-b578-494a5b19ab8b,increase,heat,none
+f406f490-4608-11e9-bc65-55b32b211b66,activate,music,none
+9a145670-4474-11e9-a9a5-5dbec3b8816a,activate,lights,bedroom
+fa920190-45c4-11e9-8ec0-7bf21d1cfe30,deactivate,lights,washroom
+8ddb7b00-45d6-11e9-81ce-69b74fd7e64e,decrease,volume,none
+18d9b0e0-446b-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+cadefdb0-441e-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+f9d6b2a0-44d9-11e9-a8b6-e96f2628bf65,activate,lights,washroom
+13c03240-44d0-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+476af1c0-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+6d801960-452c-11e9-b1e4-e5985dca719e,increase,heat,none
+889311b0-45ce-11e9-9992-dfba019cb646,activate,lights,kitchen
+387f8a40-457a-11e9-9600-8f19ade2128c,increase,heat,kitchen
+d22a0cb0-4606-11e9-bc65-55b32b211b66,deactivate,lights,bedroom
+906673e0-44df-11e9-a8b6-e96f2628bf65,increase,volume,none
+224570b0-45c9-11e9-8ec0-7bf21d1cfe30,activate,lights,washroom
+1bfe54b0-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,none
+d152b500-4541-11e9-b1e4-e5985dca719e,bring,newspaper,none
+cd477de0-44fd-11e9-a1ea-79ca03012c0e,bring,juice,none
+2d6d3880-459f-11e9-bf4b-216bfa333ac2,deactivate,lights,washroom
+b489d110-4528-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+c3f50580-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+2d1e5660-45b9-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+00bc1220-45ea-11e9-b578-494a5b19ab8b,bring,newspaper,none
+c9023140-4538-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+bc1a3d60-4466-11e9-beaa-1f3e1eab7bff,activate,music,none
+388e7fc0-45b9-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+7fbeb0a0-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+cfd7d1a0-453d-11e9-b1e4-e5985dca719e,change language,none,none
+e38ed2d0-45eb-11e9-aa19-e96346c3828f,activate,lights,none
+169bb100-45da-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+859810b0-454b-11e9-aa52-bf2189a03a60,decrease,volume,none
+9d759080-453d-11e9-b1e4-e5985dca719e,decrease,volume,none
+89402dc0-4522-11e9-a843-8db76f4b5e29,activate,lights,kitchen
+96001980-45ef-11e9-aa19-e96346c3828f,decrease,heat,washroom
+194b1270-453e-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+49e39120-446f-11e9-a9a5-5dbec3b8816a,change language,Chinese,none
+aac781f0-452c-11e9-b1e4-e5985dca719e,deactivate,lights,none
+878a0850-45dd-11e9-81ce-69b74fd7e64e,change language,Korean,none
+edd64360-45da-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+ec69a860-4548-11e9-aa52-bf2189a03a60,deactivate,lights,bedroom
+0a3edce0-460a-11e9-bc65-55b32b211b66,decrease,heat,washroom
+163c5c60-44fd-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+b13a2b70-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+8572fb80-4556-11e9-aa52-bf2189a03a60,increase,heat,washroom
+928188b0-4500-11e9-a1ea-79ca03012c0e,bring,newspaper,none
+516058a0-4511-11e9-9539-7f047cfe24d1,activate,lamp,none
+3a6efc90-45da-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+4d489a20-4598-11e9-bf4b-216bfa333ac2,deactivate,lamp,none
+ae75f0c0-4478-11e9-a9a5-5dbec3b8816a,activate,lights,kitchen
+d8dc3060-4467-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+3e025e90-4500-11e9-a1ea-79ca03012c0e,decrease,heat,kitchen
+b805f940-4609-11e9-bc65-55b32b211b66,increase,heat,washroom
+3ca950f0-4481-11e9-a9a5-5dbec3b8816a,bring,juice,none
+5f360b20-4523-11e9-a843-8db76f4b5e29,decrease,volume,none
+e545d940-4549-11e9-aa52-bf2189a03a60,activate,music,none
+73535610-444e-11e9-beaa-1f3e1eab7bff,activate,music,none
+fd14b540-454a-11e9-aa52-bf2189a03a60,decrease,heat,none
+394676c0-4609-11e9-bc65-55b32b211b66,decrease,volume,none
+06a7f4c0-45ad-11e9-bf4b-216bfa333ac2,activate,lights,kitchen
+c592dc60-45ee-11e9-aa19-e96346c3828f,activate,lights,washroom
+89c8ac50-459e-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+47e315e0-4522-11e9-a843-8db76f4b5e29,increase,heat,none
+4d210aa0-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+89a12ab0-45ec-11e9-aa19-e96346c3828f,decrease,heat,none
+f2f47b20-45b0-11e9-bf4b-216bfa333ac2,decrease,heat,none
+fed4ad60-454d-11e9-aa52-bf2189a03a60,activate,music,none
+af660920-4554-11e9-aa52-bf2189a03a60,increase,heat,none
+c07a35e0-4547-11e9-aa52-bf2189a03a60,increase,volume,none
+dd177020-45c7-11e9-8ec0-7bf21d1cfe30,bring,socks,none
+2608ba70-45ee-11e9-aa19-e96346c3828f,activate,music,none
+5ea17770-44cf-11e9-a8b6-e96f2628bf65,deactivate,lights,none
+a18a7c80-453d-11e9-b1e4-e5985dca719e,increase,heat,none
+f9f0aae0-4437-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+e9632870-45f3-11e9-aa19-e96346c3828f,increase,heat,washroom
+015ca190-446e-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+e2f548a0-4540-11e9-b1e4-e5985dca719e,decrease,volume,none
+c6f9e110-45db-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+5b9c68b0-446a-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+0039bf90-45e6-11e9-b578-494a5b19ab8b,bring,socks,none
+917e9080-4464-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+85960a10-45e9-11e9-b578-494a5b19ab8b,increase,heat,washroom
+3d4318f0-44ce-11e9-a8b6-e96f2628bf65,decrease,volume,none
+692f6ef0-4613-11e9-bc65-55b32b211b66,decrease,volume,none
+ae2318b0-45df-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+4f5dbde0-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+d5f6c4a0-4520-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+b88942b0-444b-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+d21f34f0-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+567d8150-451b-11e9-9035-7943ec3b842a,decrease,heat,washroom
+4d6776f0-454f-11e9-aa52-bf2189a03a60,decrease,heat,none
+eefc1c80-446b-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+314e24f0-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+fe342430-45e8-11e9-b578-494a5b19ab8b,increase,volume,none
+068b9490-4528-11e9-a843-8db76f4b5e29,increase,heat,washroom
+fb4219e0-45d3-11e9-9992-dfba019cb646,activate,music,none
+9a539670-4481-11e9-a9a5-5dbec3b8816a,activate,lights,none
+a3c97fc0-452c-11e9-b1e4-e5985dca719e,deactivate,lamp,none
+6e62ce80-44fb-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+d890e490-452d-11e9-b1e4-e5985dca719e,increase,heat,washroom
+07c1ffd0-4577-11e9-9600-8f19ade2128c,increase,heat,kitchen
+b28b8ee0-450e-11e9-9539-7f047cfe24d1,deactivate,lights,kitchen
+7b9a4e80-45b8-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+8ee3eff0-454a-11e9-aa52-bf2189a03a60,increase,volume,none
+5ff47830-446a-11e9-beaa-1f3e1eab7bff,increase,heat,none
+57c3f820-4528-11e9-a843-8db76f4b5e29,decrease,heat,kitchen
+fd985a00-4593-11e9-9600-8f19ade2128c,activate,music,none
+2594a0e0-45b7-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+3cf9b4a0-4562-11e9-9600-8f19ade2128c,increase,heat,washroom
+09c92bf0-45ef-11e9-aa19-e96346c3828f,increase,heat,kitchen
+4679d700-4524-11e9-a843-8db76f4b5e29,bring,juice,none
+c8a85790-45df-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+06d84f10-44a6-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+5cd88650-45d7-11e9-81ce-69b74fd7e64e,bring,socks,none
+639c6c20-451b-11e9-9035-7943ec3b842a,bring,newspaper,none
+1a4ede90-44d5-11e9-a8b6-e96f2628bf65,increase,heat,bedroom
+04bcbd30-45c6-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+41a71f90-45f0-11e9-aa19-e96346c3828f,increase,heat,washroom
+cb83b560-451f-11e9-a843-8db76f4b5e29,activate,lights,bedroom
+6bd5e210-44fb-11e9-a1ea-79ca03012c0e,activate,lights,none
+3b2f79f0-4578-11e9-9600-8f19ade2128c,change language,Korean,none
+2b7e2f90-45e8-11e9-b578-494a5b19ab8b,activate,music,none
+3e36cfb0-453a-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+7301e1f0-45d3-11e9-9992-dfba019cb646,activate,lights,none
+c32bdb70-4512-11e9-9539-7f047cfe24d1,increase,heat,none
+d1ef06c0-451a-11e9-9035-7943ec3b842a,increase,heat,bedroom
+a683b0e0-4433-11e9-beaa-1f3e1eab7bff,increase,volume,none
+1981eba0-4517-11e9-9035-7943ec3b842a,change language,none,none
+c3fac130-4533-11e9-b1e4-e5985dca719e,decrease,heat,kitchen
+e092ad00-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+c35ab930-454a-11e9-aa52-bf2189a03a60,increase,heat,washroom
+5446fef0-45ef-11e9-aa19-e96346c3828f,decrease,heat,none
+9e259c10-453c-11e9-b1e4-e5985dca719e,decrease,heat,none
+c26287d0-459d-11e9-bf4b-216bfa333ac2,increase,heat,none
+8d495650-4598-11e9-bf4b-216bfa333ac2,deactivate,lights,none
+a9139bc0-44fd-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+9a62e950-45ed-11e9-aa19-e96346c3828f,decrease,heat,none
+96614510-446a-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+926955c0-4450-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+62d67940-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,none
+e499d2e0-452a-11e9-a843-8db76f4b5e29,bring,shoes,none
+c856c650-4549-11e9-aa52-bf2189a03a60,decrease,heat,none
+14bc1030-4609-11e9-bc65-55b32b211b66,increase,volume,none
+b32dbe50-453a-11e9-b1e4-e5985dca719e,bring,shoes,none
+aedf9ad0-45f3-11e9-aa19-e96346c3828f,increase,heat,bedroom
+17f9e2c0-446c-11e9-beaa-1f3e1eab7bff,bring,socks,none
+8c91c860-44e3-11e9-bb82-bdba769643e7,deactivate,lights,bedroom
+73af1de0-454f-11e9-aa52-bf2189a03a60,activate,lamp,none
+04896870-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+b3db49b0-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+34f56af0-45ef-11e9-aa19-e96346c3828f,deactivate,lights,washroom
+f12f5da0-45d3-11e9-9992-dfba019cb646,deactivate,music,none
+b8a45390-45f2-11e9-aa19-e96346c3828f,activate,lights,washroom
+68a59fc0-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+ad519df0-44d9-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+ed653ce0-453c-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+8a1a0410-4503-11e9-a1ea-79ca03012c0e,deactivate,music,none
+06bbda20-4469-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+b1bfa5e0-446a-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+4241a560-4541-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+7965d1b0-444c-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+a10e88a0-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+5882cfc0-4532-11e9-b1e4-e5985dca719e,deactivate,lights,washroom
+e2572d50-4513-11e9-9539-7f047cfe24d1,change language,Chinese,none
+4d0f6550-4522-11e9-a843-8db76f4b5e29,increase,heat,none
+9dfc0f50-4521-11e9-a843-8db76f4b5e29,bring,socks,none
+29593f70-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+ac2b0430-4519-11e9-9035-7943ec3b842a,deactivate,lights,bedroom
+df6475a0-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+521d50f0-451a-11e9-9035-7943ec3b842a,increase,heat,kitchen
+86f540a0-4554-11e9-aa52-bf2189a03a60,decrease,volume,none
+3964b880-45da-11e9-81ce-69b74fd7e64e,deactivate,music,none
+c6d68b80-45e4-11e9-b578-494a5b19ab8b,decrease,heat,kitchen
+b3a0a9a0-4464-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+c708c770-45d6-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+e83d4de0-4576-11e9-9600-8f19ade2128c,increase,heat,none
+fae18820-4577-11e9-9600-8f19ade2128c,change language,none,none
+0367b280-45dc-11e9-81ce-69b74fd7e64e,decrease,volume,none
+c4877640-4482-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+b3bb6f60-45ea-11e9-b578-494a5b19ab8b,bring,newspaper,none
+5267c990-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+9542b4a0-4539-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+4f3d47f0-45c9-11e9-8ec0-7bf21d1cfe30,deactivate,lights,washroom
+1707b320-4533-11e9-b1e4-e5985dca719e,increase,heat,none
+e6f67260-45ec-11e9-aa19-e96346c3828f,increase,volume,none
+8eb36d20-4465-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+86582100-457a-11e9-9600-8f19ade2128c,decrease,heat,none
+3d2107e0-4453-11e9-beaa-1f3e1eab7bff,increase,heat,none
+4c49c0d0-4521-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+564bbf60-44cd-11e9-a8b6-e96f2628bf65,deactivate,lights,none
+b47bcab0-4551-11e9-aa52-bf2189a03a60,decrease,heat,none
+773c2c30-4452-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+aff52d60-44de-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+70e5d050-4481-11e9-a9a5-5dbec3b8816a,change language,English,none
+acc00fa0-45c6-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+1bb33170-4541-11e9-b1e4-e5985dca719e,decrease,volume,none
+48996a40-4435-11e9-beaa-1f3e1eab7bff,change language,none,none
+7bb8a730-4550-11e9-aa52-bf2189a03a60,increase,volume,none
+40087010-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,bedroom
+9719bea0-4475-11e9-a9a5-5dbec3b8816a,increase,heat,kitchen
+34f94610-45f0-11e9-aa19-e96346c3828f,increase,heat,bedroom
+95572a30-453d-11e9-b1e4-e5985dca719e,increase,heat,bedroom
+c89554b0-45f3-11e9-aa19-e96346c3828f,increase,heat,bedroom
+3bd43b70-45e6-11e9-b578-494a5b19ab8b,activate,lights,washroom
+dc4875a0-45ee-11e9-aa19-e96346c3828f,decrease,volume,none
+215c2ee0-45d9-11e9-81ce-69b74fd7e64e,decrease,volume,none
+d7d550f0-45d6-11e9-81ce-69b74fd7e64e,increase,heat,none
+452b32b0-45ef-11e9-aa19-e96346c3828f,increase,heat,washroom
+404cb630-4520-11e9-a843-8db76f4b5e29,increase,volume,none
+7e90c3f0-4480-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+f942b8f0-453a-11e9-b1e4-e5985dca719e,change language,Chinese,none
+4c0c3f90-4606-11e9-bc65-55b32b211b66,deactivate,music,none
+9e8f4770-4549-11e9-aa52-bf2189a03a60,bring,socks,none
+e17e9910-453e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+1575ee90-453e-11e9-b1e4-e5985dca719e,change language,English,none
+8c828550-4513-11e9-9539-7f047cfe24d1,bring,newspaper,none
+70aa8dd0-45ba-11e9-8ec0-7bf21d1cfe30,bring,shoes,none
+6e8259f0-4436-11e9-beaa-1f3e1eab7bff,increase,heat,none
+17eba1f0-451c-11e9-9035-7943ec3b842a,deactivate,music,none
+20bf8640-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,none
+fe25bf90-45d8-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+4a1a0740-446b-11e9-beaa-1f3e1eab7bff,increase,heat,none
+735a31c0-45ec-11e9-aa19-e96346c3828f,activate,lights,washroom
+5ac6e270-4529-11e9-a843-8db76f4b5e29,increase,heat,kitchen
+ec930a80-4515-11e9-9035-7943ec3b842a,bring,socks,none
+9ebe37e0-4613-11e9-bc65-55b32b211b66,increase,heat,none
+b8960550-453a-11e9-b1e4-e5985dca719e,change language,none,none
+0c72bfb0-4450-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+aa0a5e50-45ee-11e9-aa19-e96346c3828f,decrease,heat,none
+bb6b26b0-452c-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+f8c03380-45df-11e9-81ce-69b74fd7e64e,decrease,heat,kitchen
+4e0bd7a0-452b-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+4f5d8cf0-44d3-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+53fed070-4541-11e9-b1e4-e5985dca719e,increase,heat,washroom
+db20e5b0-4466-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+9c48c020-45c8-11e9-8ec0-7bf21d1cfe30,deactivate,lights,none
+6caf3cd0-44d4-11e9-a8b6-e96f2628bf65,change language,English,none
+4a5e8f10-44d3-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+66effb60-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+0d7a1990-447c-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+f1c7a4b0-44d0-11e9-a8b6-e96f2628bf65,activate,lamp,none
+ad148d80-45a0-11e9-bf4b-216bfa333ac2,increase,heat,none
+ebd9af10-45e5-11e9-b578-494a5b19ab8b,activate,music,none
+9a8ef800-4611-11e9-bc65-55b32b211b66,bring,shoes,none
+ccdff090-454c-11e9-aa52-bf2189a03a60,change language,English,none
+7bb76390-44e0-11e9-bb82-bdba769643e7,bring,shoes,none
+0fa42740-4505-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+20915550-454b-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+05b3a0c0-454c-11e9-aa52-bf2189a03a60,decrease,heat,none
+c0289d60-459d-11e9-bf4b-216bfa333ac2,increase,heat,none
+2dd5a000-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+3346e7d0-4453-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+7352a4a0-4510-11e9-9539-7f047cfe24d1,activate,music,none
+15ceb420-45c6-11e9-8ec0-7bf21d1cfe30,activate,lights,bedroom
+6743e550-4594-11e9-9600-8f19ade2128c,activate,lights,bedroom
+02cdcc60-45f0-11e9-aa19-e96346c3828f,increase,heat,none
+0c2300f0-446f-11e9-a9a5-5dbec3b8816a,bring,socks,none
+83170930-449d-11e9-a9a5-5dbec3b8816a,increase,volume,none
+474ce6d0-4516-11e9-9035-7943ec3b842a,change language,English,none
+a20866a0-455f-11e9-aa52-bf2189a03a60,deactivate,music,none
+ff9af570-460f-11e9-bc65-55b32b211b66,increase,volume,none
+8a2c3a60-45f1-11e9-aa19-e96346c3828f,increase,heat,kitchen
+d5756270-44da-11e9-a8b6-e96f2628bf65,increase,volume,none
+bfc07010-4579-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+a32497c0-452d-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+bc9501b0-4521-11e9-a843-8db76f4b5e29,change language,none,none
+94379d40-45e9-11e9-b578-494a5b19ab8b,decrease,heat,none
+cc0ac910-4506-11e9-a1ea-79ca03012c0e,activate,lights,kitchen
+59ada080-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+a4922ad0-4417-11e9-85a0-dd11eb2f13b6,activate,lights,kitchen
+01eb6b70-451b-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+c2336be0-4579-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+ba8a3320-4609-11e9-bc65-55b32b211b66,increase,heat,washroom
+3bfcd850-4505-11e9-a1ea-79ca03012c0e,decrease,heat,none
+ce2a5410-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+25e773e0-454b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+f63150e0-4553-11e9-aa52-bf2189a03a60,activate,lights,none
+fd3dd5f0-45eb-11e9-aa19-e96346c3828f,decrease,volume,none
+24d6e410-4594-11e9-9600-8f19ade2128c,increase,heat,none
+4383af20-45ed-11e9-aa19-e96346c3828f,increase,heat,kitchen
+2746cae0-454d-11e9-aa52-bf2189a03a60,decrease,volume,none
+e29c52f0-45df-11e9-81ce-69b74fd7e64e,decrease,heat,none
+e874d420-446f-11e9-a9a5-5dbec3b8816a,activate,lights,bedroom
+9b7553b0-453d-11e9-b1e4-e5985dca719e,decrease,volume,none
+35dec760-446c-11e9-beaa-1f3e1eab7bff,change language,none,none
+bf3093d0-4413-11e9-85a0-dd11eb2f13b6,increase,heat,kitchen
+46961b80-457a-11e9-9600-8f19ade2128c,increase,heat,kitchen
+d4cdc940-4505-11e9-a1ea-79ca03012c0e,bring,shoes,none
+04b96510-4506-11e9-a1ea-79ca03012c0e,change language,Chinese,none
+acf56660-4598-11e9-bf4b-216bfa333ac2,deactivate,lights,washroom
+1d7c2370-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+4ab27240-4511-11e9-9539-7f047cfe24d1,decrease,volume,none
+146e8f40-45c3-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+cfc9c7a0-45dc-11e9-81ce-69b74fd7e64e,decrease,heat,bedroom
+890ec7c0-4415-11e9-85a0-dd11eb2f13b6,decrease,heat,washroom
+0d5ba6d0-4455-11e9-beaa-1f3e1eab7bff,change language,none,none
+7cb24740-4541-11e9-b1e4-e5985dca719e,decrease,heat,none
+1246b420-45ed-11e9-aa19-e96346c3828f,decrease,volume,none
+6289ea40-4595-11e9-9600-8f19ade2128c,increase,volume,none
+c150c5e0-45ee-11e9-aa19-e96346c3828f,activate,lights,washroom
+5ecad0c0-4524-11e9-a843-8db76f4b5e29,bring,shoes,none
+55923080-45d7-11e9-81ce-69b74fd7e64e,bring,socks,none
+199c4cd0-4598-11e9-bf4b-216bfa333ac2,change language,English,none
+bc9b0b50-4454-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+2547ad10-452d-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+fab40be0-45ed-11e9-aa19-e96346c3828f,deactivate,lights,none
+37ba0c60-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+ee8858d0-447b-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+14156910-44ce-11e9-a8b6-e96f2628bf65,increase,volume,none
+9d97be40-45dc-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+843aa4a0-447c-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+6c4b5a30-453d-11e9-b1e4-e5985dca719e,increase,heat,none
+043c5490-4500-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+d1e7b1d0-446c-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+810ebe30-452e-11e9-b1e4-e5985dca719e,activate,music,none
+8273ac90-4506-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+0a5937a0-44d6-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+64504ed0-4547-11e9-aa52-bf2189a03a60,activate,lights,washroom
+44ddadd0-4511-11e9-9539-7f047cfe24d1,decrease,volume,none
+ac3f56d0-45da-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+3f27c3a0-446f-11e9-a9a5-5dbec3b8816a,change language,Chinese,none
+ea47f1b0-45c8-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+e7b17780-4548-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+664d7040-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+dde86180-4513-11e9-9539-7f047cfe24d1,change language,Korean,none
+84f71160-452d-11e9-b1e4-e5985dca719e,decrease,volume,none
+ee17b870-4546-11e9-aa52-bf2189a03a60,activate,music,none
+40a3fe30-4481-11e9-a9a5-5dbec3b8816a,bring,socks,none
+00c91180-44d9-11e9-a8b6-e96f2628bf65,deactivate,music,none
+acfcf430-455b-11e9-aa52-bf2189a03a60,decrease,heat,none
+cd1dd8f0-45c5-11e9-8ec0-7bf21d1cfe30,activate,music,none
+bbbfb420-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+b6fc97b0-44d9-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+b9f26b50-45da-11e9-81ce-69b74fd7e64e,activate,lamp,none
+59854d70-44f7-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+316dcf00-45e8-11e9-b578-494a5b19ab8b,activate,lights,none
+9d4598f0-4513-11e9-9539-7f047cfe24d1,decrease,heat,bedroom
+e5d70ef0-4608-11e9-bc65-55b32b211b66,deactivate,lights,kitchen
+c6624f90-4468-11e9-beaa-1f3e1eab7bff,bring,juice,none
+5c67f990-457c-11e9-9600-8f19ade2128c,increase,volume,none
+592262d0-447c-11e9-a9a5-5dbec3b8816a,increase,volume,none
+3d6023a0-441a-11e9-85a0-dd11eb2f13b6,increase,heat,kitchen
+56e8afc0-44da-11e9-a8b6-e96f2628bf65,deactivate,lights,kitchen
+6c18be00-4528-11e9-a843-8db76f4b5e29,deactivate,lights,washroom
+b4860290-444e-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+86190aa0-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+18a33770-45f3-11e9-aa19-e96346c3828f,increase,volume,none
+9089d850-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,bedroom
+e230bac0-452d-11e9-b1e4-e5985dca719e,increase,heat,washroom
+a2624b50-443f-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+08ce5d10-4482-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+e939b2a0-459f-11e9-bf4b-216bfa333ac2,activate,lights,bedroom
+5fa8ca10-45e7-11e9-b578-494a5b19ab8b,decrease,heat,bedroom
+2ac3e070-460d-11e9-bc65-55b32b211b66,increase,heat,kitchen
+08ef2510-453e-11e9-b1e4-e5985dca719e,change language,Chinese,none
+2a1cfdb0-453f-11e9-b1e4-e5985dca719e,bring,newspaper,none
+cd783190-454f-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+aadfac20-45a0-11e9-bf4b-216bfa333ac2,decrease,volume,none
+ceabb4d0-45d9-11e9-81ce-69b74fd7e64e,deactivate,music,none
+b946b340-45e0-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+8f92eb40-4563-11e9-9600-8f19ade2128c,change language,English,none
+67ff8c60-4611-11e9-bc65-55b32b211b66,bring,newspaper,none
+e7986ed0-45d8-11e9-81ce-69b74fd7e64e,increase,volume,none
+88744150-4519-11e9-9035-7943ec3b842a,deactivate,lights,none
+3f034c40-44de-11e9-a8b6-e96f2628bf65,activate,lights,none
+2f5cf070-4524-11e9-a843-8db76f4b5e29,activate,music,none
+f5f46630-4517-11e9-9035-7943ec3b842a,increase,volume,none
+09665b00-45b9-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+5e881bb0-44d2-11e9-a8b6-e96f2628bf65,increase,volume,none
+cb31f560-45ef-11e9-aa19-e96346c3828f,bring,shoes,none
+bcb52650-4541-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+cca82cd0-454e-11e9-aa52-bf2189a03a60,increase,volume,none
+f92dd270-446b-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+351b7120-454d-11e9-aa52-bf2189a03a60,decrease,heat,none
+977ba7f0-4529-11e9-a843-8db76f4b5e29,activate,lights,none
+72ac53c0-4466-11e9-beaa-1f3e1eab7bff,change language,none,none
+33c97e10-453f-11e9-b1e4-e5985dca719e,bring,juice,none
+179805d0-45ef-11e9-aa19-e96346c3828f,increase,heat,bedroom
+53de8880-4594-11e9-9600-8f19ade2128c,activate,lights,kitchen
+a5160db0-4510-11e9-9539-7f047cfe24d1,activate,music,none
+edf1ca90-45ee-11e9-aa19-e96346c3828f,bring,shoes,none
+5cbb8db0-4501-11e9-a1ea-79ca03012c0e,activate,lights,washroom
+59c796c0-446c-11e9-beaa-1f3e1eab7bff,change language,Korean,none
+78caaf00-4550-11e9-aa52-bf2189a03a60,increase,volume,none
+2696eb20-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+50bb7590-459f-11e9-bf4b-216bfa333ac2,increase,volume,none
+2151e700-451b-11e9-9035-7943ec3b842a,decrease,heat,bedroom
+a79f1cf0-45e9-11e9-b578-494a5b19ab8b,decrease,heat,kitchen
+b5410f20-4554-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+05b44eb0-45e9-11e9-b578-494a5b19ab8b,increase,volume,none
+e1e60c70-4549-11e9-aa52-bf2189a03a60,decrease,volume,none
+b36be8b0-454e-11e9-aa52-bf2189a03a60,change language,Korean,none
+015ac7a0-4480-11e9-a9a5-5dbec3b8816a,activate,lights,washroom
+40e27220-4452-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+092500f0-4524-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+b0fbea30-453a-11e9-b1e4-e5985dca719e,activate,lights,washroom
+aee81f60-457c-11e9-9600-8f19ade2128c,increase,heat,bedroom
+fff7b710-45f1-11e9-aa19-e96346c3828f,decrease,heat,washroom
+5e38ecc0-45ef-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+f560d090-454a-11e9-aa52-bf2189a03a60,increase,heat,none
+480726f0-4596-11e9-bf4b-216bfa333ac2,increase,heat,none
+f5f4e2d0-4450-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+0dea87f0-45d7-11e9-81ce-69b74fd7e64e,increase,heat,none
+0110f8e0-453a-11e9-b1e4-e5985dca719e,decrease,heat,kitchen
+5bf68490-45f4-11e9-aa19-e96346c3828f,decrease,heat,bedroom
+426711b0-44d3-11e9-a8b6-e96f2628bf65,increase,heat,washroom
+d7321390-444b-11e9-beaa-1f3e1eab7bff,increase,volume,none
+a4878010-4612-11e9-bc65-55b32b211b66,activate,lights,bedroom
+3f662e10-45e1-11e9-81ce-69b74fd7e64e,deactivate,lamp,none
+37151d70-457d-11e9-9600-8f19ade2128c,bring,newspaper,none
+fb302440-45ee-11e9-aa19-e96346c3828f,change language,none,none
+e1140ed0-45eb-11e9-aa19-e96346c3828f,activate,lights,none
+1ddf8710-45e0-11e9-81ce-69b74fd7e64e,bring,juice,none
+e10002f0-452d-11e9-b1e4-e5985dca719e,increase,volume,none
+983c0360-4579-11e9-9600-8f19ade2128c,activate,lights,washroom
+ec7ab790-45c5-11e9-8ec0-7bf21d1cfe30,activate,lights,none
+e78cb790-45ef-11e9-aa19-e96346c3828f,change language,none,none
+5e045e60-4522-11e9-a843-8db76f4b5e29,activate,music,none
+276ff860-453a-11e9-b1e4-e5985dca719e,activate,lights,none
+d85a1a80-4598-11e9-bf4b-216bfa333ac2,activate,lights,washroom
+61283e30-4523-11e9-a843-8db76f4b5e29,decrease,volume,none
+463863f0-45a2-11e9-bf4b-216bfa333ac2,change language,English,none
+af7d1150-4609-11e9-bc65-55b32b211b66,deactivate,music,none
+01bef420-44e2-11e9-bb82-bdba769643e7,bring,shoes,none
+cb42ebc0-4533-11e9-b1e4-e5985dca719e,decrease,heat,kitchen
+da3dc020-44ff-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+b765d980-4418-11e9-85a0-dd11eb2f13b6,activate,lights,kitchen
+86a3f7a0-45e9-11e9-b578-494a5b19ab8b,increase,volume,none
+31182500-45d4-11e9-9992-dfba019cb646,decrease,heat,none
+679d68d0-4609-11e9-bc65-55b32b211b66,increase,heat,none
+979fd3c0-4513-11e9-9539-7f047cfe24d1,decrease,heat,kitchen
+1f8f68c0-4516-11e9-9035-7943ec3b842a,increase,heat,bedroom
+e0192f90-44e4-11e9-bb82-bdba769643e7,decrease,heat,washroom
+4def3140-4512-11e9-9539-7f047cfe24d1,increase,heat,washroom
+8730d990-44d1-11e9-a8b6-e96f2628bf65,activate,lights,none
+b9b57000-4432-11e9-beaa-1f3e1eab7bff,activate,lamp,none
+04396300-452f-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+f5dea850-45e8-11e9-b578-494a5b19ab8b,increase,volume,none
+d26237c0-4516-11e9-9035-7943ec3b842a,bring,newspaper,none
+ef9dae80-447d-11e9-a9a5-5dbec3b8816a,bring,socks,none
+0e75c800-4416-11e9-85a0-dd11eb2f13b6,bring,juice,none
+4c951a80-4549-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+ac13e1a0-4538-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+2f454c90-44de-11e9-a8b6-e96f2628bf65,change language,none,none
+5c1bdd90-4549-11e9-aa52-bf2189a03a60,increase,volume,none
+7a8aff90-45f3-11e9-aa19-e96346c3828f,increase,heat,kitchen
+c92a1870-45e4-11e9-b578-494a5b19ab8b,deactivate,music,none
+ab16c1c0-44dc-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+b8192980-4450-11e9-beaa-1f3e1eab7bff,bring,newspaper,none
+f2fe45c0-4519-11e9-9035-7943ec3b842a,deactivate,lamp,none
+df1f6130-45df-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+74d5fc60-4528-11e9-a843-8db76f4b5e29,increase,volume,none
+0ffe9290-4521-11e9-a843-8db76f4b5e29,decrease,heat,none
+d2a955a0-4594-11e9-9600-8f19ade2128c,increase,volume,none
+7e459560-45d9-11e9-81ce-69b74fd7e64e,increase,volume,none
+fcbc98e0-44f7-11e9-a1ea-79ca03012c0e,increase,heat,kitchen
+4f6e0f00-4594-11e9-9600-8f19ade2128c,decrease,volume,none
+2fd5a2b0-44ff-11e9-a1ea-79ca03012c0e,activate,lights,bedroom
+2bea14a0-44d3-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+9f1eca30-446d-11e9-beaa-1f3e1eab7bff,increase,heat,bedroom
+580b0c70-459a-11e9-bf4b-216bfa333ac2,deactivate,music,none
+7af92230-4518-11e9-9035-7943ec3b842a,increase,heat,kitchen
+a59980a0-4533-11e9-b1e4-e5985dca719e,increase,heat,washroom
+617e8900-457a-11e9-9600-8f19ade2128c,increase,heat,washroom
+425bae60-4483-11e9-a9a5-5dbec3b8816a,deactivate,music,none
+0fda0fb0-44d6-11e9-a8b6-e96f2628bf65,decrease,heat,bedroom
+94173050-4562-11e9-9600-8f19ade2128c,decrease,heat,bedroom
+4a30d690-460b-11e9-bc65-55b32b211b66,activate,lights,washroom
+def50010-44d2-11e9-a8b6-e96f2628bf65,activate,music,none
+c5795470-453f-11e9-b1e4-e5985dca719e,decrease,heat,none
+1b871500-4518-11e9-9035-7943ec3b842a,decrease,heat,none
+2b834250-446c-11e9-beaa-1f3e1eab7bff,change language,none,none
+27195e90-45d7-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+2a27d730-444f-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+f17c5d80-4515-11e9-9035-7943ec3b842a,bring,socks,none
+9b5cf610-4503-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+4f5bb8b0-4606-11e9-bc65-55b32b211b66,deactivate,music,none
+1cd598a0-4455-11e9-beaa-1f3e1eab7bff,change language,none,none
+c903ccd0-4515-11e9-9035-7943ec3b842a,decrease,volume,none
+42464800-453b-11e9-b1e4-e5985dca719e,decrease,volume,none
+98812ad0-460a-11e9-bc65-55b32b211b66,change language,English,none
+53567950-457f-11e9-9600-8f19ade2128c,bring,newspaper,none
+36a4ddd0-452d-11e9-b1e4-e5985dca719e,change language,none,none
+cb270ad0-45ed-11e9-aa19-e96346c3828f,increase,heat,bedroom
+96741210-4520-11e9-a843-8db76f4b5e29,decrease,volume,none
+ad719810-4594-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+9494e630-45ee-11e9-aa19-e96346c3828f,increase,volume,none
+bfebfaa0-457e-11e9-9600-8f19ade2128c,increase,heat,kitchen
+a4f9c9b0-45ed-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+4349a980-44d3-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+227fb320-441f-11e9-beaa-1f3e1eab7bff,change language,none,none
+1dcebad0-45b7-11e9-8ec0-7bf21d1cfe30,deactivate,lights,none
+167c9650-44d4-11e9-a8b6-e96f2628bf65,decrease,volume,none
+c412eb70-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+6f56ce90-45c3-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+9e3ee9d0-45d3-11e9-9992-dfba019cb646,activate,lights,none
+7f21ee80-44cf-11e9-a8b6-e96f2628bf65,increase,heat,none
+dd364320-4611-11e9-bc65-55b32b211b66,change language,German,none
+206374b0-44e1-11e9-bb82-bdba769643e7,increase,heat,washroom
+0d6bffc0-45f0-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+18f059c0-45b6-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+2d4c24d0-4453-11e9-beaa-1f3e1eab7bff,increase,volume,none
+17866be0-45ea-11e9-b578-494a5b19ab8b,activate,lights,bedroom
+803c9320-45c8-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+205d1390-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+58d95ff0-454d-11e9-aa52-bf2189a03a60,activate,lights,none
+c108a0e0-4610-11e9-bc65-55b32b211b66,increase,heat,washroom
+9712e820-4536-11e9-b1e4-e5985dca719e,deactivate,lamp,none
+b2da08e0-4612-11e9-bc65-55b32b211b66,activate,lights,washroom
+bdff4100-45da-11e9-81ce-69b74fd7e64e,deactivate,lamp,none
+21a894b0-452a-11e9-a843-8db76f4b5e29,decrease,heat,washroom
+e9c34ee0-44f8-11e9-a1ea-79ca03012c0e,change language,none,none
+58da3920-45e3-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+353bab80-451a-11e9-9035-7943ec3b842a,deactivate,lights,none
+b640abf0-45f0-11e9-aa19-e96346c3828f,bring,shoes,none
+2f22e080-45db-11e9-81ce-69b74fd7e64e,activate,lamp,none
+fcd465f0-4610-11e9-bc65-55b32b211b66,decrease,heat,kitchen
+5fa336e0-460a-11e9-bc65-55b32b211b66,bring,shoes,none
+df28ab10-4552-11e9-aa52-bf2189a03a60,change language,none,none
+24d63890-4467-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+59be3720-454c-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+74a4d310-4550-11e9-aa52-bf2189a03a60,increase,volume,none
+506d2560-4519-11e9-9035-7943ec3b842a,activate,lights,bedroom
+57eaf330-454b-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+855928c0-4594-11e9-9600-8f19ade2128c,decrease,heat,none
+1c8d3540-4466-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+a1418f90-45e0-11e9-81ce-69b74fd7e64e,change language,Chinese,none
+cc54de80-4513-11e9-9539-7f047cfe24d1,change language,none,none
+e2219600-4521-11e9-a843-8db76f4b5e29,change language,Chinese,none
+fec46d60-45d4-11e9-9992-dfba019cb646,increase,volume,none
+b72962b0-454a-11e9-aa52-bf2189a03a60,increase,heat,washroom
+9bbfc890-459d-11e9-bf4b-216bfa333ac2,decrease,volume,none
+5d0dff60-4541-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+c7d18d80-4609-11e9-bc65-55b32b211b66,increase,heat,washroom
+583a2fa0-44d2-11e9-a8b6-e96f2628bf65,increase,volume,none
+cde83010-4510-11e9-9539-7f047cfe24d1,activate,lights,bedroom
+eb4a1980-4546-11e9-aa52-bf2189a03a60,activate,music,none
+101b3d80-457d-11e9-9600-8f19ade2128c,decrease,heat,washroom
+d8175670-45eb-11e9-aa19-e96346c3828f,change language,none,none
+2d9e4b60-4472-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+71eb6e50-4522-11e9-a843-8db76f4b5e29,activate,lamp,none
+02c47840-4519-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+8b6b2840-451b-11e9-9035-7943ec3b842a,bring,shoes,none
+0eeed9d0-452d-11e9-b1e4-e5985dca719e,bring,socks,none
+475b2550-45df-11e9-81ce-69b74fd7e64e,increase,volume,none
+65ac9090-45a1-11e9-bf4b-216bfa333ac2,decrease,heat,washroom
+77fc9510-460a-11e9-bc65-55b32b211b66,activate,music,none
+611ec650-4539-11e9-b1e4-e5985dca719e,change language,none,none
+5afe8460-4451-11e9-beaa-1f3e1eab7bff,change language,German,none
+bfc60980-4475-11e9-a9a5-5dbec3b8816a,increase,heat,washroom
+792482d0-45d4-11e9-9992-dfba019cb646,activate,lights,bedroom
+d5fa3bb0-454f-11e9-aa52-bf2189a03a60,activate,lights,washroom
+9a2698d0-441a-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+f926d0c0-446f-11e9-a9a5-5dbec3b8816a,activate,lights,bedroom
+1a425e60-4578-11e9-9600-8f19ade2128c,change language,Korean,none
+56aa7e60-4513-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+cbd32200-452c-11e9-b1e4-e5985dca719e,decrease,heat,washroom
+d0e0b0b0-45ee-11e9-aa19-e96346c3828f,activate,lights,none
+25c30740-45e0-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+d5a76080-45ee-11e9-aa19-e96346c3828f,activate,lights,kitchen
+2ebb0bc0-44cf-11e9-a8b6-e96f2628bf65,activate,lights,bedroom
+14a083d0-4607-11e9-bc65-55b32b211b66,activate,music,none
+6f6f4730-44d4-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+7589cd20-4556-11e9-aa52-bf2189a03a60,increase,heat,washroom
+139b82f0-4472-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+0f9d5ee0-4615-11e9-bc65-55b32b211b66,change language,Chinese,none
+c12753a0-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,kitchen
+f8db5440-45ed-11e9-aa19-e96346c3828f,deactivate,lights,none
+a3d22110-4415-11e9-85a0-dd11eb2f13b6,decrease,heat,washroom
+8352f420-4576-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+80152aa0-45ec-11e9-aa19-e96346c3828f,increase,heat,none
+f8f4faf0-45e6-11e9-b578-494a5b19ab8b,increase,heat,bedroom
+26bfbb20-45fe-11e9-bc65-55b32b211b66,decrease,volume,none
+d7c3c2f0-4611-11e9-bc65-55b32b211b66,change language,English,none
+1667e750-454c-11e9-aa52-bf2189a03a60,decrease,heat,kitchen
+21ca3880-4611-11e9-bc65-55b32b211b66,decrease,heat,washroom
+e1c619a0-454f-11e9-aa52-bf2189a03a60,decrease,heat,bedroom
+802ab2b0-4521-11e9-a843-8db76f4b5e29,bring,newspaper,none
+10b163a0-4528-11e9-a843-8db76f4b5e29,increase,heat,washroom
+4fc81330-4452-11e9-beaa-1f3e1eab7bff,decrease,heat,kitchen
+9892ba40-454a-11e9-aa52-bf2189a03a60,increase,volume,none
+d391ae70-45c3-11e9-8ec0-7bf21d1cfe30,change language,German,none
+00f9f6e0-4468-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+20c6c170-4480-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+4b1d4100-451c-11e9-9035-7943ec3b842a,decrease,volume,none
+e9fdbb60-459e-11e9-bf4b-216bfa333ac2,change language,none,none
+a56b8970-454c-11e9-aa52-bf2189a03a60,bring,shoes,none
+94baafd0-4500-11e9-a1ea-79ca03012c0e,bring,newspaper,none
+637a7b10-45b1-11e9-bf4b-216bfa333ac2,deactivate,lights,bedroom
+cd1e7d70-44ce-11e9-a8b6-e96f2628bf65,deactivate,music,none
+cf7be2b0-4500-11e9-a1ea-79ca03012c0e,change language,none,none
+62b4de30-450e-11e9-9539-7f047cfe24d1,deactivate,lights,kitchen
+c592a230-45d6-11e9-81ce-69b74fd7e64e,activate,lights,none
+fdaadd90-4504-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+77096620-4483-11e9-a9a5-5dbec3b8816a,bring,shoes,none
+9dac4180-4438-11e9-beaa-1f3e1eab7bff,change language,German,none
+3ccee4a0-4521-11e9-a843-8db76f4b5e29,decrease,heat,bedroom
+b7f66690-4511-11e9-9539-7f047cfe24d1,decrease,heat,none
+320e2cb0-45f3-11e9-aa19-e96346c3828f,decrease,volume,none
+cca594b0-4612-11e9-bc65-55b32b211b66,activate,lights,washroom
+14a741c0-45df-11e9-81ce-69b74fd7e64e,deactivate,lights,washroom
+5d9d7420-44ff-11e9-a1ea-79ca03012c0e,deactivate,lights,bedroom
+4c0cb2b0-446f-11e9-a9a5-5dbec3b8816a,change language,German,none
+d95ce910-45db-11e9-81ce-69b74fd7e64e,decrease,heat,none
+8106c880-45ea-11e9-b578-494a5b19ab8b,decrease,heat,washroom
+ba73a3c0-44de-11e9-a8b6-e96f2628bf65,activate,lamp,none
+2e760740-45f2-11e9-aa19-e96346c3828f,bring,newspaper,none
+07e0b920-457c-11e9-9600-8f19ade2128c,deactivate,lights,bedroom
+b224a3d0-451b-11e9-9035-7943ec3b842a,change language,Chinese,none
+cb606af0-4598-11e9-bf4b-216bfa333ac2,increase,volume,none
+e558ef30-4611-11e9-bc65-55b32b211b66,change language,Chinese,none
+d93d7650-447f-11e9-a9a5-5dbec3b8816a,deactivate,lamp,none
+99bdd350-4577-11e9-9600-8f19ade2128c,decrease,heat,washroom
+3ea02d00-4483-11e9-a9a5-5dbec3b8816a,deactivate,music,none
+6c816bb0-44f8-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+c362c3d0-446b-11e9-beaa-1f3e1eab7bff,decrease,heat,bedroom
+322a81e0-4480-11e9-a9a5-5dbec3b8816a,deactivate,lights,washroom
+307866f0-45f2-11e9-aa19-e96346c3828f,bring,newspaper,none
+a797f410-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+513a31a0-44d2-11e9-a8b6-e96f2628bf65,deactivate,lights,washroom
+6624e3f0-4598-11e9-bf4b-216bfa333ac2,activate,lights,bedroom
+8f67d150-451b-11e9-9035-7943ec3b842a,bring,shoes,none
+0cad7760-4453-11e9-beaa-1f3e1eab7bff,change language,Korean,none
+084daa60-453d-11e9-b1e4-e5985dca719e,increase,volume,none
+cba58110-45d6-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+4bb77760-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+734c0750-45f4-11e9-aa19-e96346c3828f,decrease,heat,washroom
+a09cc880-453a-11e9-b1e4-e5985dca719e,bring,socks,none
+6d005790-4467-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+f487eed0-4520-11e9-a843-8db76f4b5e29,increase,heat,washroom
+c12b5090-444e-11e9-beaa-1f3e1eab7bff,activate,lights,bedroom
+14b690d0-452b-11e9-a843-8db76f4b5e29,decrease,volume,none
+934a3ad0-454b-11e9-aa52-bf2189a03a60,decrease,volume,none
+454d3ab0-4520-11e9-a843-8db76f4b5e29,increase,volume,none
+6db76420-457b-11e9-9600-8f19ade2128c,activate,lights,none
+759968a0-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,washroom
+dd1f62c0-45f0-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+7b7f4db0-450e-11e9-9539-7f047cfe24d1,activate,lights,washroom
+391c23c0-454b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+719b0d90-44e4-11e9-bb82-bdba769643e7,increase,heat,washroom
+7bc3c390-4578-11e9-9600-8f19ade2128c,decrease,volume,none
+10575030-453d-11e9-b1e4-e5985dca719e,increase,volume,none
+d3dad890-4517-11e9-9035-7943ec3b842a,deactivate,lights,bedroom
+6d424990-441a-11e9-85a0-dd11eb2f13b6,increase,heat,washroom
+fd587bd0-44d8-11e9-a8b6-e96f2628bf65,decrease,heat,none
+44bd8b20-459f-11e9-bf4b-216bfa333ac2,deactivate,lights,none
+b8a30660-4576-11e9-9600-8f19ade2128c,increase,volume,none
+e69fd060-444b-11e9-beaa-1f3e1eab7bff,increase,volume,none
+a34c4210-447f-11e9-a9a5-5dbec3b8816a,increase,volume,none
+11251430-4500-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+fdf59b00-452c-11e9-b1e4-e5985dca719e,bring,juice,none
+a04bb970-4415-11e9-85a0-dd11eb2f13b6,decrease,heat,washroom
+33386e60-454f-11e9-aa52-bf2189a03a60,decrease,volume,none
+2ead6690-45d4-11e9-9992-dfba019cb646,activate,lights,none
+934306f0-44df-11e9-a8b6-e96f2628bf65,change language,none,none
+5c8446a0-45e9-11e9-b578-494a5b19ab8b,change language,Chinese,none
+b190a760-44fe-11e9-a1ea-79ca03012c0e,activate,lights,none
+c9bd7340-45ee-11e9-aa19-e96346c3828f,activate,lights,washroom
+f628e680-44d1-11e9-a8b6-e96f2628bf65,activate,lights,kitchen
+ff2ec500-4531-11e9-b1e4-e5985dca719e,activate,lights,washroom
+e3db6c60-4610-11e9-bc65-55b32b211b66,decrease,heat,none
+0405adb0-440f-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+989b9b40-4547-11e9-aa52-bf2189a03a60,decrease,volume,none
+430a7890-45ce-11e9-9992-dfba019cb646,decrease,volume,none
+35f607b0-4613-11e9-bc65-55b32b211b66,increase,volume,none
+278fc2f0-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+79378e60-444f-11e9-beaa-1f3e1eab7bff,increase,volume,none
+bb793c20-460b-11e9-bc65-55b32b211b66,deactivate,lights,kitchen
+6be79fd0-45c0-11e9-8ec0-7bf21d1cfe30,deactivate,lamp,none
+05381490-444e-11e9-beaa-1f3e1eab7bff,change language,German,none
+d2cc3560-45e0-11e9-81ce-69b74fd7e64e,change language,English,none
+3748ff10-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+3d5d4410-45f4-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+0a90ab30-45ae-11e9-bf4b-216bfa333ac2,increase,volume,none
+d9a81400-44f8-11e9-a1ea-79ca03012c0e,bring,shoes,none
+f47320d0-447c-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+48c456b0-4539-11e9-b1e4-e5985dca719e,bring,shoes,none
+9eae2260-45ff-11e9-bc65-55b32b211b66,decrease,heat,bedroom
+ab5f07b0-4413-11e9-85a0-dd11eb2f13b6,decrease,volume,none
+15f7cef0-4521-11e9-a843-8db76f4b5e29,decrease,heat,none
+c4fddd20-44e2-11e9-bb82-bdba769643e7,increase,heat,none
+f4e24f50-45da-11e9-81ce-69b74fd7e64e,deactivate,lights,none
+effa7ca0-450e-11e9-9539-7f047cfe24d1,increase,volume,none
+019a6530-45df-11e9-81ce-69b74fd7e64e,deactivate,lights,bedroom
+2917e220-45e1-11e9-81ce-69b74fd7e64e,activate,music,none
+909e8190-44e4-11e9-bb82-bdba769643e7,decrease,heat,none
+50bc6a00-446d-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+90af4490-460f-11e9-bc65-55b32b211b66,activate,lights,washroom
+14a65d00-4553-11e9-aa52-bf2189a03a60,change language,Chinese,none
+9656f150-4519-11e9-9035-7943ec3b842a,increase,volume,none
+a6726530-4517-11e9-9035-7943ec3b842a,decrease,volume,none
+ec04f2c0-44fe-11e9-a1ea-79ca03012c0e,decrease,heat,none
+4c93a7c0-45f5-11e9-aa19-e96346c3828f,change language,English,none
+67dabc40-44d2-11e9-a8b6-e96f2628bf65,increase,volume,none
+8abbaad0-44cd-11e9-a8b6-e96f2628bf65,decrease,heat,none
+3c227c30-451a-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+60d274e0-4556-11e9-aa52-bf2189a03a60,increase,heat,washroom
+9ad5acd0-4483-11e9-a9a5-5dbec3b8816a,change language,Chinese,none
+0fdc3910-45c7-11e9-8ec0-7bf21d1cfe30,change language,Chinese,none
+69af45d0-452d-11e9-b1e4-e5985dca719e,decrease,volume,none
+a56e3870-4513-11e9-9539-7f047cfe24d1,decrease,heat,bedroom
+a42a6130-45ec-11e9-aa19-e96346c3828f,deactivate,lights,bedroom
+20152360-45ee-11e9-aa19-e96346c3828f,increase,heat,washroom
+92c76750-452c-11e9-b1e4-e5985dca719e,activate,lamp,none
+50b3cc20-44e9-11e9-a1ea-79ca03012c0e,deactivate,lights,bedroom
+8618e1b0-4454-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+4a16e190-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+ece59950-44ff-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+c55227b0-45df-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+ac523640-4550-11e9-aa52-bf2189a03a60,decrease,volume,none
+86d25370-4611-11e9-bc65-55b32b211b66,change language,none,none
+19f36bd0-444b-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+cc096e80-44cf-11e9-a8b6-e96f2628bf65,decrease,volume,none
+ee0a6630-45ef-11e9-aa19-e96346c3828f,change language,none,none
+c0abae60-4450-11e9-beaa-1f3e1eab7bff,bring,juice,none
+2311c390-45d8-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+77e3a270-44e4-11e9-bb82-bdba769643e7,increase,heat,washroom
+509214a0-45ec-11e9-aa19-e96346c3828f,activate,lights,none
+87bb53d0-4464-11e9-beaa-1f3e1eab7bff,activate,lights,washroom
+685c13d0-45db-11e9-81ce-69b74fd7e64e,decrease,volume,none
+02340230-4594-11e9-9600-8f19ade2128c,activate,lights,none
+8c120280-450e-11e9-9539-7f047cfe24d1,deactivate,lights,washroom
+f233be30-45e7-11e9-b578-494a5b19ab8b,change language,German,none
+93c5e0f0-45ef-11e9-aa19-e96346c3828f,decrease,heat,washroom
+6787eaf0-441a-11e9-85a0-dd11eb2f13b6,increase,heat,washroom
+0d705440-45ea-11e9-b578-494a5b19ab8b,bring,juice,none
+148f3f70-453b-11e9-b1e4-e5985dca719e,change language,English,none
+a9be0db0-45db-11e9-81ce-69b74fd7e64e,increase,heat,kitchen
+5bc2e5d0-4451-11e9-beaa-1f3e1eab7bff,deactivate,lights,kitchen
+dcfa54d0-450f-11e9-9539-7f047cfe24d1,decrease,heat,washroom
+99a0f1f0-4576-11e9-9600-8f19ade2128c,increase,volume,none
+1e7211f0-4452-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+741ef5e0-457f-11e9-9600-8f19ade2128c,bring,shoes,none
+5b5554e0-452b-11e9-a843-8db76f4b5e29,activate,lights,none
+0d41b330-4476-11e9-a9a5-5dbec3b8816a,decrease,heat,none
+a4307390-455b-11e9-aa52-bf2189a03a60,increase,heat,washroom
+52514b70-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,none
+6fbb59d0-4520-11e9-a843-8db76f4b5e29,change language,English,none
+9ebb6380-4528-11e9-a843-8db76f4b5e29,increase,volume,none
+86c74910-4523-11e9-a843-8db76f4b5e29,increase,heat,kitchen
+c12a4510-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+60237eb0-45ef-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+a2725920-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+e5a01920-4547-11e9-aa52-bf2189a03a60,deactivate,lamp,none
+a61b2b00-44f7-11e9-a1ea-79ca03012c0e,increase,volume,none
+3fa34840-454b-11e9-aa52-bf2189a03a60,increase,volume,none
+0fbed930-451b-11e9-9035-7943ec3b842a,decrease,heat,kitchen
+c3002c40-447d-11e9-a9a5-5dbec3b8816a,decrease,heat,washroom
+708fa490-4482-11e9-a9a5-5dbec3b8816a,increase,volume,none
+bf3b46a0-45de-11e9-81ce-69b74fd7e64e,activate,lights,bedroom
+c488d350-45d6-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+2df90b00-4471-11e9-a9a5-5dbec3b8816a,increase,heat,bedroom
+50bec910-446f-11e9-a9a5-5dbec3b8816a,change language,English,none
+992f3d90-45e8-11e9-b578-494a5b19ab8b,activate,lights,none
+7a3a9cb0-44e2-11e9-bb82-bdba769643e7,activate,lights,none
+74944db0-4613-11e9-bc65-55b32b211b66,decrease,volume,none
+3bb05310-4512-11e9-9539-7f047cfe24d1,increase,volume,none
+49946300-455c-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+673f0f50-4510-11e9-9539-7f047cfe24d1,change language,English,none
+706f0440-45e2-11e9-81ce-69b74fd7e64e,decrease,volume,none
+a0620980-4476-11e9-a9a5-5dbec3b8816a,bring,juice,none
+d771cbe0-4520-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+c84f5f60-4561-11e9-9600-8f19ade2128c,decrease,volume,none
+6be22600-451a-11e9-9035-7943ec3b842a,increase,heat,bedroom
+a10a1810-4470-11e9-a9a5-5dbec3b8816a,decrease,volume,none
+013ec500-454d-11e9-aa52-bf2189a03a60,deactivate,lights,none
+d33ad4b0-45eb-11e9-aa19-e96346c3828f,activate,lights,none
+8350a240-450a-11e9-9539-7f047cfe24d1,activate,music,none
+7b895470-453d-11e9-b1e4-e5985dca719e,increase,heat,kitchen
+15fabeb0-452d-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+8ee2db20-4521-11e9-a843-8db76f4b5e29,bring,newspaper,none
+f5713800-450d-11e9-9539-7f047cfe24d1,activate,music,none
+182c98f0-45d4-11e9-9992-dfba019cb646,activate,lamp,none
+2b3d5e80-4452-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+21381910-44fd-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+e8d34cf0-4521-11e9-a843-8db76f4b5e29,change language,German,none
+27ea63d0-45cf-11e9-9992-dfba019cb646,decrease,volume,none
+66bb51a0-4516-11e9-9035-7943ec3b842a,deactivate,lights,washroom
+9f455610-444e-11e9-beaa-1f3e1eab7bff,activate,lights,kitchen
+61152cc0-4562-11e9-9600-8f19ade2128c,decrease,heat,none
+91e8dd60-460c-11e9-bc65-55b32b211b66,increase,volume,none
+a63d50d0-452a-11e9-a843-8db76f4b5e29,increase,volume,none
+8cfabea0-447b-11e9-a9a5-5dbec3b8816a,activate,lamp,none
+9541dc10-444e-11e9-beaa-1f3e1eab7bff,deactivate,lamp,none
+0857d8d0-4517-11e9-9035-7943ec3b842a,bring,shoes,none
+871807a0-4614-11e9-bc65-55b32b211b66,decrease,heat,washroom
+8b488080-44d8-11e9-a8b6-e96f2628bf65,deactivate,lights,none
+15a9c760-4610-11e9-bc65-55b32b211b66,increase,volume,none
+2a5f11d0-4465-11e9-beaa-1f3e1eab7bff,increase,heat,kitchen
+8d8f8000-4438-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+8c8e6fc0-4561-11e9-9600-8f19ade2128c,increase,heat,kitchen
+881a2380-4552-11e9-aa52-bf2189a03a60,bring,newspaper,none
+db066820-44cf-11e9-a8b6-e96f2628bf65,decrease,volume,none
+a711d220-451a-11e9-9035-7943ec3b842a,decrease,heat,none
+d924a540-44ce-11e9-a8b6-e96f2628bf65,activate,lamp,none
+6e5b9690-457f-11e9-9600-8f19ade2128c,bring,shoes,none
+3c237be0-4541-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+39efca90-4613-11e9-bc65-55b32b211b66,increase,volume,none
+ca81dcd0-440e-11e9-85a0-dd11eb2f13b6,increase,heat,none
+27ac9330-44ed-11e9-a1ea-79ca03012c0e,increase,volume,none
+9d48f020-451a-11e9-9035-7943ec3b842a,decrease,volume,none
+ddf714e0-44ce-11e9-a8b6-e96f2628bf65,activate,lamp,none
+369744b0-44ea-11e9-a1ea-79ca03012c0e,increase,heat,washroom
+6a4bb410-4505-11e9-a1ea-79ca03012c0e,decrease,heat,bedroom
+55f4c550-4547-11e9-aa52-bf2189a03a60,deactivate,music,none
+a4d117c0-4608-11e9-bc65-55b32b211b66,decrease,heat,none
+24895810-441a-11e9-85a0-dd11eb2f13b6,increase,heat,none
+382fa4e0-451f-11e9-a843-8db76f4b5e29,activate,lights,none
+a4e571c0-4455-11e9-beaa-1f3e1eab7bff,increase,volume,none
+b7b03480-440e-11e9-85a0-dd11eb2f13b6,increase,volume,none
+2c81b150-45f2-11e9-aa19-e96346c3828f,increase,heat,none
+77e0af10-454e-11e9-aa52-bf2189a03a60,change language,none,none
+a1263ca0-4562-11e9-9600-8f19ade2128c,decrease,heat,washroom
+dedb6160-4481-11e9-a9a5-5dbec3b8816a,activate,lamp,none
+6fe6f940-45c6-11e9-8ec0-7bf21d1cfe30,decrease,heat,bedroom
+ded6f2f0-44e1-11e9-bb82-bdba769643e7,bring,juice,none
+6393ffe0-4598-11e9-bf4b-216bfa333ac2,activate,lights,kitchen
+35ca8830-44d1-11e9-a8b6-e96f2628bf65,change language,none,none
+73be7c80-4465-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+0f7d1b90-45e7-11e9-b578-494a5b19ab8b,increase,heat,washroom
+fa8c75d0-4520-11e9-a843-8db76f4b5e29,increase,heat,washroom
+33b32800-4520-11e9-a843-8db76f4b5e29,increase,volume,none
+d2482340-451a-11e9-9035-7943ec3b842a,decrease,heat,bedroom
+22966e90-4513-11e9-9539-7f047cfe24d1,increase,heat,washroom
+e07d3a30-4534-11e9-b1e4-e5985dca719e,bring,juice,none
+a9de1140-45b9-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+ca039de0-4547-11e9-aa52-bf2189a03a60,increase,volume,none
+311e8ed0-45ee-11e9-aa19-e96346c3828f,change language,none,none
+a5a90ec0-45e8-11e9-b578-494a5b19ab8b,deactivate,lights,none
+cbac7220-4466-11e9-beaa-1f3e1eab7bff,deactivate,lights,none
+55a04b70-4541-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+adb36090-45d7-11e9-81ce-69b74fd7e64e,deactivate,lights,kitchen
+765246c0-4465-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+6a1df6d0-45d5-11e9-9992-dfba019cb646,increase,heat,bedroom
+331849f0-4554-11e9-aa52-bf2189a03a60,decrease,volume,none
+71497940-4533-11e9-b1e4-e5985dca719e,increase,heat,washroom
+0e4f4ac0-45b7-11e9-8ec0-7bf21d1cfe30,change language,none,none
+28baccd0-45c7-11e9-8ec0-7bf21d1cfe30,increase,heat,washroom
+b4708f90-45df-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+424035d0-45f1-11e9-aa19-e96346c3828f,decrease,volume,none
+a0e7d480-44e8-11e9-a1ea-79ca03012c0e,activate,music,none
+2d5d7f60-4452-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+b27fd690-45f4-11e9-aa19-e96346c3828f,decrease,heat,washroom
+374063a0-45b3-11e9-bf4b-216bfa333ac2,decrease,heat,none
+4d681dc0-4550-11e9-aa52-bf2189a03a60,increase,volume,none
+7ad329d0-44fb-11e9-a1ea-79ca03012c0e,increase,volume,none
+2e3f0b00-45ed-11e9-aa19-e96346c3828f,increase,volume,none
+38d75d20-454c-11e9-aa52-bf2189a03a60,change language,German,none
+2183f010-45b6-11e9-8ec0-7bf21d1cfe30,decrease,heat,none
+9d9d7030-4503-11e9-a1ea-79ca03012c0e,deactivate,lights,none
+c9a3aef0-4518-11e9-9035-7943ec3b842a,deactivate,lights,none
+e4d0f3e0-4437-11e9-beaa-1f3e1eab7bff,increase,heat,washroom
+edbcbb80-4467-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+393641a0-452e-11e9-b1e4-e5985dca719e,decrease,heat,bedroom
+d17bc2c0-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+c8068010-4520-11e9-a843-8db76f4b5e29,increase,heat,bedroom
+59a06f40-4436-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+1a2b82b0-4412-11e9-85a0-dd11eb2f13b6,deactivate,lights,bedroom
+a7cde3f0-440e-11e9-85a0-dd11eb2f13b6,deactivate,lights,none
+f63afd40-4434-11e9-beaa-1f3e1eab7bff,decrease,heat,washroom
+33a4eb90-45ee-11e9-aa19-e96346c3828f,decrease,heat,none
+74a47d00-44e4-11e9-bb82-bdba769643e7,increase,heat,washroom
+93b36370-4578-11e9-9600-8f19ade2128c,deactivate,music,none
+8bfefb80-4465-11e9-beaa-1f3e1eab7bff,decrease,heat,none
+694e1d30-44e4-11e9-bb82-bdba769643e7,increase,heat,washroom
+000c6f00-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+d0d51d30-4518-11e9-9035-7943ec3b842a,decrease,heat,kitchen
+5d6fb080-45c7-11e9-8ec0-7bf21d1cfe30,decrease,heat,kitchen
+35624b60-441f-11e9-beaa-1f3e1eab7bff,change language,German,none
+830e7b30-45f1-11e9-aa19-e96346c3828f,increase,heat,kitchen
+1dc41670-4549-11e9-aa52-bf2189a03a60,deactivate,lights,washroom
+b76c7e90-45ec-11e9-aa19-e96346c3828f,activate,lights,kitchen
+b6bf9320-4433-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+6a7ce0e0-45ef-11e9-aa19-e96346c3828f,decrease,volume,none
+fa4534e0-4476-11e9-a9a5-5dbec3b8816a,change language,Korean,none
+90258ce0-45e8-11e9-b578-494a5b19ab8b,activate,lights,kitchen
+9383cc70-440e-11e9-85a0-dd11eb2f13b6,change language,none,none
+05332910-45ef-11e9-aa19-e96346c3828f,change language,none,none
+ef40b360-45db-11e9-81ce-69b74fd7e64e,increase,volume,none
+a0015620-45da-11e9-81ce-69b74fd7e64e,decrease,heat,none
+8139d220-45b8-11e9-8ec0-7bf21d1cfe30,activate,lights,bedroom
+0d61c9c0-45f4-11e9-aa19-e96346c3828f,decrease,heat,kitchen
+7572b920-454a-11e9-aa52-bf2189a03a60,increase,heat,bedroom
+f986edb0-4515-11e9-9035-7943ec3b842a,bring,shoes,none
+3b2677e0-4539-11e9-b1e4-e5985dca719e,bring,socks,none
+c6be3550-44e3-11e9-bb82-bdba769643e7,increase,volume,none
+a09b2890-453f-11e9-b1e4-e5985dca719e,activate,lights,none
+c237e950-4474-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+5449a8a0-44df-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+7c18afd0-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+bc9abf80-454c-11e9-aa52-bf2189a03a60,increase,volume,none
+de7493c0-4546-11e9-aa52-bf2189a03a60,decrease,heat,none
+ee22a950-4614-11e9-bc65-55b32b211b66,change language,none,none
+9c70e700-4517-11e9-9035-7943ec3b842a,activate,music,none
+8ec5e6d0-452d-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+60177d50-45da-11e9-81ce-69b74fd7e64e,change language,Korean,none
+2922dd40-45a2-11e9-bf4b-216bfa333ac2,change language,none,none
+e4330050-4562-11e9-9600-8f19ade2128c,deactivate,music,none
+c244aeb0-45e1-11e9-81ce-69b74fd7e64e,activate,lights,washroom
+e74c3050-45e8-11e9-b578-494a5b19ab8b,increase,volume,none
+0b7ef780-4519-11e9-9035-7943ec3b842a,decrease,heat,none
+556c5050-44d7-11e9-a8b6-e96f2628bf65,change language,none,none
+ae385c70-4481-11e9-a9a5-5dbec3b8816a,deactivate,lights,none
+211ed490-45d5-11e9-9992-dfba019cb646,decrease,volume,none
+120664e0-45ef-11e9-aa19-e96346c3828f,change language,none,none
+cb6bf830-44de-11e9-a8b6-e96f2628bf65,deactivate,lamp,none
+5224dcb0-45b7-11e9-8ec0-7bf21d1cfe30,deactivate,music,none
+ab180900-44d6-11e9-a8b6-e96f2628bf65,decrease,volume,none
+e5615b80-44d0-11e9-a8b6-e96f2628bf65,decrease,heat,washroom
+c8ce74e0-4529-11e9-a843-8db76f4b5e29,decrease,heat,none
+53562dc0-45d8-11e9-81ce-69b74fd7e64e,increase,heat,none
+00dbcaf0-45f1-11e9-aa19-e96346c3828f,increase,volume,none
+91436de0-45c5-11e9-8ec0-7bf21d1cfe30,decrease,volume,none
+86a8d120-450e-11e9-9539-7f047cfe24d1,deactivate,lights,washroom
+122e67e0-4542-11e9-b1e4-e5985dca719e,change language,Chinese,none
+da17c2e0-4602-11e9-bc65-55b32b211b66,activate,lamp,none
+856a4960-44dc-11e9-a8b6-e96f2628bf65,increase,heat,kitchen
+165244d0-453e-11e9-b1e4-e5985dca719e,deactivate,lights,bedroom
+7bc047f0-4506-11e9-a1ea-79ca03012c0e,activate,lights,none
+92c9ff90-4551-11e9-aa52-bf2189a03a60,increase,heat,washroom
+f57f8f40-4562-11e9-9600-8f19ade2128c,bring,newspaper,none
+ccf78a50-4517-11e9-9035-7943ec3b842a,deactivate,lights,kitchen
+53e1f140-454f-11e9-aa52-bf2189a03a60,decrease,heat,none
+52a48ca0-45ba-11e9-8ec0-7bf21d1cfe30,bring,juice,none
+4c35f300-45d7-11e9-81ce-69b74fd7e64e,bring,juice,none
+c38d98c0-4539-11e9-b1e4-e5985dca719e,increase,heat,washroom
+b3fb7a10-45f4-11e9-aa19-e96346c3828f,bring,shoes,none
+b5b11c70-444b-11e9-beaa-1f3e1eab7bff,deactivate,lights,bedroom
+6cec9ae0-454b-11e9-aa52-bf2189a03a60,decrease,volume,none
+b02401b0-45f3-11e9-aa19-e96346c3828f,increase,heat,kitchen
+645724e0-4500-11e9-a1ea-79ca03012c0e,decrease,heat,washroom
+4db9ac00-4607-11e9-bc65-55b32b211b66,increase,volume,none
+194ef070-4435-11e9-beaa-1f3e1eab7bff,bring,juice,none
+5d039550-45d4-11e9-9992-dfba019cb646,activate,lights,kitchen
+26655740-451b-11e9-9035-7943ec3b842a,decrease,heat,washroom
+c258b580-4529-11e9-a843-8db76f4b5e29,increase,heat,washroom
+c40a7440-4515-11e9-9035-7943ec3b842a,bring,newspaper,none
+980c6640-45d9-11e9-81ce-69b74fd7e64e,decrease,heat,washroom
+f8f47fa0-453f-11e9-b1e4-e5985dca719e,activate,lights,bedroom
+319732a0-446c-11e9-beaa-1f3e1eab7bff,change language,none,none
+2d411e20-449c-11e9-a9a5-5dbec3b8816a,increase,volume,none
+b98480d0-4536-11e9-b1e4-e5985dca719e,activate,lights,kitchen
+56d957c0-452d-11e9-b1e4-e5985dca719e,increase,volume,none
+8e38e5b0-4504-11e9-a1ea-79ca03012c0e,increase,volume,none
+065a7340-44f8-11e9-a1ea-79ca03012c0e,increase,heat,bedroom
+1084b6b0-451a-11e9-9035-7943ec3b842a,activate,lights,bedroom
+997676a0-4562-11e9-9600-8f19ade2128c,decrease,heat,washroom
+acf33ba0-4468-11e9-beaa-1f3e1eab7bff,deactivate,music,none
+5b755010-4517-11e9-9035-7943ec3b842a,activate,music,none
+aed5a200-45ee-11e9-aa19-e96346c3828f,increase,volume,none
+ab9a3580-44cf-11e9-a8b6-e96f2628bf65,increase,volume,none
+772da0b0-4467-11e9-beaa-1f3e1eab7bff,deactivate,lights,washroom
+d5ef9670-45d5-11e9-9992-dfba019cb646,decrease,volume,none
+f16d6630-4511-11e9-9539-7f047cfe24d1,deactivate,lights,bedroom
+5f7133d0-452d-11e9-b1e4-e5985dca719e,increase,volume,none
+a0c88bd0-45dc-11e9-81ce-69b74fd7e64e,change language,German,none
+15fb2f80-450f-11e9-9539-7f047cfe24d1,increase,heat,bedroom
+d61e8f30-44e4-11e9-bb82-bdba769643e7,decrease,heat,washroom
+a55f2290-45ea-11e9-b578-494a5b19ab8b,increase,volume,none
+93e05030-4512-11e9-9539-7f047cfe24d1,decrease,heat,none
+86dfe410-4579-11e9-9600-8f19ade2128c,activate,lights,bedroom
+cb1e4ee0-4606-11e9-bc65-55b32b211b66,change language,German,none
+1bd746f0-450f-11e9-9539-7f047cfe24d1,increase,heat,bedroom
+d3380070-45e9-11e9-b578-494a5b19ab8b,increase,heat,none
+79b91440-446c-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+01f80a40-454a-11e9-aa52-bf2189a03a60,activate,lights,kitchen
+030c23b0-44d9-11e9-a8b6-e96f2628bf65,decrease,heat,none
+edcecc80-45de-11e9-81ce-69b74fd7e64e,deactivate,lights,none
+b55325d0-457b-11e9-9600-8f19ade2128c,activate,lights,kitchen
+f7b3a660-44eb-11e9-a1ea-79ca03012c0e,deactivate,music,none
+0de03cf0-4451-11e9-beaa-1f3e1eab7bff,change language,Chinese,none
+f6d99650-4478-11e9-a9a5-5dbec3b8816a,deactivate,lights,kitchen
+cb6f66d0-45df-11e9-81ce-69b74fd7e64e,increase,heat,washroom
+65114d00-4417-11e9-85a0-dd11eb2f13b6,decrease,heat,none
+52fbc620-4482-11e9-a9a5-5dbec3b8816a,deactivate,lights,washroom
+da6ea740-4517-11e9-9035-7943ec3b842a,activate,lights,none
+0a4a6280-45f2-11e9-aa19-e96346c3828f,activate,lights,none
+c6228460-454d-11e9-aa52-bf2189a03a60,decrease,heat,washroom
+27fe7210-4450-11e9-beaa-1f3e1eab7bff,decrease,volume,none
+2fa9cc50-45f2-11e9-aa19-e96346c3828f,increase,heat,none
+7fc55f00-4512-11e9-9539-7f047cfe24d1,change language,Korean,none
+a8113bf0-4576-11e9-9600-8f19ade2128c,increase,volume,none
+d7df2b50-452e-11e9-b1e4-e5985dca719e,change language,none,none
+c7f8d4c0-457e-11e9-9600-8f19ade2128c,increase,heat,kitchen
+89028db0-4510-11e9-9539-7f047cfe24d1,decrease,volume,none
+9b391200-4511-11e9-9539-7f047cfe24d1,increase,heat,washroom
+feea0c50-455c-11e9-aa52-bf2189a03a60,deactivate,music,none
+e66fd7f0-4515-11e9-9035-7943ec3b842a,bring,socks,none
+06ba8d70-4520-11e9-a843-8db76f4b5e29,deactivate,lights,bedroom
+0beeb390-45b9-11e9-8ec0-7bf21d1cfe30,increase,volume,none
+411dbe40-44d2-11e9-a8b6-e96f2628bf65,deactivate,lights,bedroom
+e0af10a0-45d9-11e9-81ce-69b74fd7e64e,bring,newspaper,none
+99bdfbf0-45db-11e9-81ce-69b74fd7e64e,increase,heat,bedroom
+2e4154f0-45ed-11e9-aa19-e96346c3828f,increase,heat,none
+4ef02cd0-45de-11e9-81ce-69b74fd7e64e,activate,lights,none
+7372ca00-45c4-11e9-8ec0-7bf21d1cfe30,activate,lights,kitchen
+eed64c40-45f0-11e9-aa19-e96346c3828f,change language,English,none
+df054db0-45d8-11e9-81ce-69b74fd7e64e,change language,none,none
+4726c290-4555-11e9-aa52-bf2189a03a60,increase,volume,none
+c344a370-45ea-11e9-b578-494a5b19ab8b,decrease,volume,none
+8b314bc0-4598-11e9-bf4b-216bfa333ac2,activate,lights,washroom
+d8391370-45e4-11e9-b578-494a5b19ab8b,activate,lamp,none
+db723f20-4518-11e9-9035-7943ec3b842a,decrease,heat,kitchen
