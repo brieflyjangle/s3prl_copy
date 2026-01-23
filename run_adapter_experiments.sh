@@ -1,10 +1,11 @@
 #!/bin/bash
 ################################################################################
-# Adapter Training Experiments Script
+# Adapter Training Experiments Script (PAPER FEATURE SELECTION)
 # Based on ADAPTER_RECOMMENDATIONS.md
 #
 # This script runs adapter fine-tuning experiments with different configurations
 # for Intent Classification, Speaker ID, and ASR tasks.
+# Using 'paper' feature selection (last encoder layer only)
 ################################################################################
 
 set -e  # Exit on error
@@ -22,8 +23,8 @@ CONFIG_FILE="$SCRIPT_DIR/s3prl/upstream/distiller/config_model.yaml"
 BACKUP_CONFIG="$SCRIPT_DIR/s3prl/upstream/distiller/config_model.yaml.backup"
 
 echo -e "${BLUE}╔═══════════════════════════════════════════════════════════════════════════╗${NC}"
-echo -e "${BLUE}║           ADAPTER FINE-TUNING EXPERIMENTS                                 ║${NC}"
-echo -e "${BLUE}║           Based on ADAPTER_RECOMMENDATIONS.md                             ║${NC}"
+echo -e "${BLUE}║           ADAPTER FINE-TUNING EXPERIMENTS (PAPER FEATURE)                 ║${NC}"
+echo -e "${BLUE}║           Using 'paper' feature selection (last encoder layer)            ║${NC}"
 echo -e "${BLUE}╚═══════════════════════════════════════════════════════════════════════════╝${NC}"
 echo ""
 
@@ -70,6 +71,7 @@ run_training() {
     echo ""
     echo -e "${BLUE}═══════════════════════════════════════════════════════════════════════${NC}"
     echo -e "${GREEN}[Training] Starting: $exp_name${NC}"
+    echo -e "${GREEN}[Training] Using feature selection: paper${NC}"
     echo -e "${BLUE}═══════════════════════════════════════════════════════════════════════${NC}"
 
     cd "$SCRIPT_DIR"
@@ -79,6 +81,7 @@ run_training() {
         -u "$upstream" \
         -d "$downstream" \
         -n "$exp_name" \
+        -s paper \
         -f \
         --verbose
 
@@ -107,17 +110,17 @@ echo ""
 # IC Experiment 1: Conservative (Recommended)
 echo -e "${YELLOW}[1/3] Testing dim=32, scale=0.05 (Recommended for IC)${NC}"
 update_config 32 0.05
-run_training "distiller" "fluent_commands" "ic_adapter_dim32_scale0.05"
+run_training "distiller" "fluent_commands" "ic_adapter_dim32_scale0.05_paper"
 
 # IC Experiment 2: Standard
 echo -e "${YELLOW}[2/3] Testing dim=64, scale=0.1 (Standard)${NC}"
 update_config 64 0.1
-run_training "distiller" "fluent_commands" "ic_adapter_dim64_scale0.1"
+run_training "distiller" "fluent_commands" "ic_adapter_dim64_scale0.1_paper"
 
 # IC Experiment 3: Conservative with larger dim
 echo -e "${YELLOW}[3/3] Testing dim=64, scale=0.05 (Larger dim, conservative)${NC}"
 update_config 64 0.05
-run_training "distiller" "fluent_commands" "ic_adapter_dim64_scale0.05"
+run_training "distiller" "fluent_commands" "ic_adapter_dim64_scale0.05_paper"
 
 echo ""
 echo -e "${GREEN}[Phase 1] Intent Classification experiments completed! ✓${NC}"
@@ -140,17 +143,17 @@ echo ""
 # SID Experiment 1: Standard (Recommended)
 echo -e "${YELLOW}[1/3] Testing dim=64, scale=0.1 (Recommended for SID)${NC}"
 update_config 64 0.1
-run_training "distiller" "voxceleb1" "sid_adapter_dim64_scale0.1"
+run_training "distiller" "voxceleb1" "sid_adapter_dim64_scale0.1_paper"
 
 # SID Experiment 2: Larger capacity
 echo -e "${YELLOW}[2/3] Testing dim=96, scale=0.1 (Medium)${NC}"
 update_config 96 0.1
-run_training "distiller" "voxceleb1" "sid_adapter_dim96_scale0.1"
+run_training "distiller" "voxceleb1" "sid_adapter_dim96_scale0.1_paper"
 
 # SID Experiment 3: Aggressive
 echo -e "${YELLOW}[3/3] Testing dim=128, scale=0.15 (Aggressive)${NC}"
 update_config 128 0.15
-run_training "distiller" "voxceleb1" "sid_adapter_dim128_scale0.15"
+run_training "distiller" "voxceleb1" "sid_adapter_dim128_scale0.15_paper"
 
 echo ""
 echo -e "${GREEN}[Phase 2] Speaker ID experiments completed! ✓${NC}"
@@ -174,17 +177,17 @@ echo ""
 # ASR Experiment 1: Conservative (Recommended first)
 echo -e "${YELLOW}[1/3] Testing dim=128, scale=0.1 (Conservative for ASR)${NC}"
 update_config 128 0.1
-run_training "distiller" "asr" "asr_adapter_dim128_scale0.1"
+run_training "distiller" "asr" "asr_adapter_dim128_scale0.1_paper"
 
 # ASR Experiment 2: Aggressive
 echo -e "${YELLOW}[2/3] Testing dim=256, scale=0.15 (Aggressive)${NC}"
 update_config 256 0.15
-run_training "distiller" "asr" "asr_adapter_dim256_scale0.15"
+run_training "distiller" "asr" "asr_adapter_dim256_scale0.15_paper"
 
 # ASR Experiment 3: Maximum capacity with conservative scale
 echo -e "${YELLOW}[3/3] Testing dim=256, scale=0.1 (Maximum capacity)${NC}"
 update_config 256 0.1
-run_training "distiller" "asr" "asr_adapter_dim256_scale0.1"
+run_training "distiller" "asr" "asr_adapter_dim256_scale0.1_paper"
 
 echo ""
 echo -e "${GREEN}[Phase 3] ASR experiments completed! ✓${NC}"
@@ -203,22 +206,22 @@ echo ""
 # Restore original config
 restore_config
 
-echo -e "${GREEN}Summary of experiments:${NC}"
+echo -e "${GREEN}Summary of experiments (using PAPER feature selection):${NC}"
 echo ""
 echo "Phase 1: Intent Classification"
-echo "  ✓ ic_adapter_dim32_scale0.05  (Recommended - 198K adapter params)"
-echo "  ✓ ic_adapter_dim64_scale0.1   (Standard - 396K adapter params)"
-echo "  ✓ ic_adapter_dim64_scale0.05  (Conservative - 396K adapter params)"
+echo "  ✓ ic_adapter_dim32_scale0.05_paper  (Recommended - 198K adapter params)"
+echo "  ✓ ic_adapter_dim64_scale0.1_paper   (Standard - 396K adapter params)"
+echo "  ✓ ic_adapter_dim64_scale0.05_paper  (Conservative - 396K adapter params)"
 echo ""
 echo "Phase 2: Speaker Identification"
-echo "  ✓ sid_adapter_dim64_scale0.1   (Recommended - 396K adapter params)"
-echo "  ✓ sid_adapter_dim96_scale0.1   (Medium - 593K adapter params)"
-echo "  ✓ sid_adapter_dim128_scale0.15 (Aggressive - 789K adapter params)"
+echo "  ✓ sid_adapter_dim64_scale0.1_paper   (Recommended - 396K adapter params)"
+echo "  ✓ sid_adapter_dim96_scale0.1_paper   (Medium - 593K adapter params)"
+echo "  ✓ sid_adapter_dim128_scale0.15_paper (Aggressive - 789K adapter params)"
 echo ""
 echo "Phase 3: ASR"
-echo "  ✓ asr_adapter_dim128_scale0.1  (Conservative - 789K adapter params)"
-echo "  ✓ asr_adapter_dim256_scale0.15 (Aggressive - 1.58M adapter params)"
-echo "  ✓ asr_adapter_dim256_scale0.1  (Maximum - 1.58M adapter params)"
+echo "  ✓ asr_adapter_dim128_scale0.1_paper  (Conservative - 789K adapter params)"
+echo "  ✓ asr_adapter_dim256_scale0.15_paper (Aggressive - 1.58M adapter params)"
+echo "  ✓ asr_adapter_dim256_scale0.1_paper  (Maximum - 1.58M adapter params)"
 echo ""
 echo -e "${YELLOW}Results location:${NC}"
 echo "  $SCRIPT_DIR/s3prl/result/downstream/"
